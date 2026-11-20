@@ -1,0 +1,14 @@
+{
+  "path": "/contact/",
+  "lang": "hu",
+  "kind": "contact",
+  "title": "Kapcsolat",
+  "seoTitle": "Kapcsolat – budapesti ügyvédi iroda",
+  "description": "Bihary Balassa Ügyvédi Iroda: 1121 Budapest, Zugligeti út 3. Telefon: +36 1 391 44 91. E-mail: office@biharybalassa.hu.",
+  "alternates": {
+    "de": "/de/contact/",
+    "en": "/en/contact/",
+    "hu": "/contact/"
+  },
+  "intro": "Budapesti irodánk a XII. kerületben, a Zugligeti úton található."
+}

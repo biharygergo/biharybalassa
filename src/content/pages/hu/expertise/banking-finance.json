@@ -1,0 +1,31 @@
+{
+  "path": "/expertise/banking-finance/",
+  "lang": "hu",
+  "kind": "practice",
+  "title": "Bank- és finanszírozási jog",
+  "seoTitle": "Bank- és finanszírozási jog – ügyvédi iroda Budapest",
+  "description": "Bankok, pénzügyi vállalkozások és finanszírozási ügyletekben részt vevő cégek jogi tanácsadása.",
+  "alternates": {
+    "de": "/de/expertise/banking-finance/",
+    "en": "/en/expertise/banking-finance/",
+    "hu": "/expertise/banking-finance/"
+  },
+  "intro": "Bankok, pénzügyi vállalkozások és finanszírozási ügyletekben részt vevő cégek jogi tanácsadása.",
+  "services": [
+    "Ingatlan- és projektfinanszírozás",
+    "Finanszírozási szerződések átstrukturálása",
+    "Biztosítékok érvényesítése és work-out ügyek"
+  ],
+  "relatedPeople": ["/people/tibor-bihary/"],
+  "order": 1,
+  "body": [
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Magyar és külföldi bankokat, pénzügyi vállalkozásokat és finanszírozási ügyletekben részt vevő társaságokat képviselünk. Tapasztalataink kiterjednek a vállalati és ingatlan-projektfinanszírozásra, valamint a pénzügyi lízinghez kapcsolódó jogi feladatokra. Finanszírozási szerződések átstrukturálásában, biztosítékok érvényesítésében és work-out ügyekben is eljárunk."
+        }
+      ]
+    }
+  ]
+}

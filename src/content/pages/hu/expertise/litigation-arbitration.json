@@ -1,0 +1,39 @@
+{
+  "path": "/expertise/litigation-arbitration/",
+  "lang": "hu",
+  "kind": "practice",
+  "title": "Peres ügyek és választottbíráskodás",
+  "seoTitle": "Peres ügyek és választottbíráskodás – ügyvédi iroda Budapest",
+  "description": "Képviselet polgári és gazdasági jogvitákban, hazai bíróságok, valamint hazai és nemzetközi választottbíróságok előtt.",
+  "alternates": {
+    "de": "/de/expertise/litigation-arbitration/",
+    "en": "/en/expertise/litigation-arbitration/",
+    "hu": "/expertise/litigation-arbitration/"
+  },
+  "intro": "Képviselet polgári és gazdasági jogvitákban, hazai bíróságok, valamint hazai és nemzetközi választottbíróságok előtt.",
+  "services": [
+    "Polgári és gazdasági perek",
+    "Hazai és nemzetközi választottbírósági eljárások",
+    "Tárgyalásos vitarendezés"
+  ],
+  "relatedPeople": ["/people/daniel-kurcz/"],
+  "order": 3,
+  "body": [
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Ügyfeleink polgári jogi vitáiban rendszeresen eljárunk a hazai rendes bíróságok és a különböző hazai választott bíróságok előtt, de nemzetközi választott bíróságok (pl. ICC) előtti jogi képviseletet is ellátunk. Az utóbbi években számos emberi jogi ügyben a strasbourgi Emberi Jogok Európai Bírósága előtt is képviseltük ügyfeleinket."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Komoly sikerként könyvelhetjük el, hogy néhány nagyobb horderejű és nagy sajtónyilvánosságot is kapott perünk útján részesei vagyunk a magyar bírósági gyakorlat megváltozásának az állam jogalkotási tevékenységével okozott kár megtérítésének területén. Ugyanakkor tudjuk, és képviseljük, hogy a gazdasági jog terén gyakran nem a bírósági út a megoldás ügyfeleink számára. Ezért mindig arra törekszünk, hogy ügyfeleink vitás ügyeit tárgyalások útján oldjuk meg, a bíróság mindig csak a végső megoldás, ha a tárgyalásos út nem vezet eredményre."
+        }
+      ]
+    }
+  ]
+}

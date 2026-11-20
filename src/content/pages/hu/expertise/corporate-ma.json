@@ -1,0 +1,43 @@
+{
+  "path": "/expertise/corporate-ma/",
+  "lang": "hu",
+  "kind": "practice",
+  "title": "Társasági jog és M&A",
+  "seoTitle": "Társasági jog és M&A – ügyvédi iroda Budapest",
+  "description": "Társaságalapítások, átalakulások és vállalatfelvásárlások jogi támogatása Budapesten, magyar és külföldi vállalatok részére.",
+  "alternates": {
+    "de": "/de/expertise/corporate-ma/",
+    "en": "/en/expertise/corporate-ma/",
+    "hu": "/expertise/corporate-ma/"
+  },
+  "intro": "Társaságalapítások, átalakulások és vállalatfelvásárlások jogi támogatása Budapesten, magyar és külföldi vállalatok részére.",
+  "services": [
+    "Társaságalapítás és a működéssel kapcsolatos cégjogi kérdések",
+    "Egyesülések, szétválások és más átalakulások",
+    "Jogi átvilágítás, tranzakciós szerződések és tárgyalások"
+  ],
+  "relatedPeople": [
+    "/people/daniel-kurcz/",
+    "/people/agnes-balassa/",
+    "/people/tibor-bihary/"
+  ],
+  "order": 0,
+  "body": [
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Irodánk tevékenységének egyik súlypontja a vállalatfelvásárlások területe, az M&A ügyletek. A tranzakciók során nem csak a jogi átvilágítási feladatokban, a tranzakciós szerződések kidolgozásában és kitárgyalásában segítünk ügyfeleinknek, de igyekszünk az adott projekt ügyfeleink érdekeinek megfelelő menedzselésében is intenzíven közreműködni. Ha a tranzakció mérete megköveteli, csapatunkat külsős kollégákkal egészítjük ki, így rugalmasan és gyorsan tudunk igazodni ügyfeleink igényeihez."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Szinte valamennyi ügyfelünknek vannak társasági jogi, cégjogi ügyei, a társaságalapításoktól kezdve a bonyolultabb átstrukturálási, átalakulási kérdésekig (egyesülések, szétválások), amelyek megoldásában nagy gyakorlata van csapatunknak."
+        }
+      ]
+    }
+  ]
+}

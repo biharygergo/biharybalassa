@@ -1,0 +1,32 @@
+{
+  "hu": {
+    "home": "/",
+    "about": "/about/",
+    "team": "/team/",
+    "news": "/news/",
+    "contact": "/contact/",
+    "network": "/telfa/",
+    "careers": "/careers/",
+    "expertise": "/expertise/"
+  },
+  "en": {
+    "home": "/en/",
+    "about": "/en/about/",
+    "team": "/en/team/",
+    "news": "/en/news/",
+    "contact": "/en/contact/",
+    "network": "/en/telfa/",
+    "careers": "/en/careers/",
+    "expertise": "/en/expertise/"
+  },
+  "de": {
+    "home": "/de/",
+    "about": "/de/about/",
+    "team": "/de/team/",
+    "news": "/de/news/",
+    "contact": "/de/contact/",
+    "network": "/de/telfa/",
+    "careers": "/de/careers/",
+    "expertise": "/de/expertise/"
+  }
+}

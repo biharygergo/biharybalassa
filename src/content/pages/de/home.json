@@ -1,0 +1,35 @@
+{
+  "path": "/de/",
+  "lang": "de",
+  "kind": "home",
+  "title": "Wirtschaftsrecht. In Budapest.",
+  "seoTitle": "Rechtsanwälte für Wirtschaftsrecht in Budapest",
+  "description": "Bihary Balassa berät ungarische und internationale Unternehmen in Budapest zu Gesellschaftsrecht, M&A, Finanzierung, Immobilien und Wettbewerbsrecht.",
+  "alternates": {
+    "hu": "/",
+    "de": "/de/",
+    "en": "/en/"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Budapest · Wirtschaftsrecht",
+      "heading": ["Wirtschaftsrecht.", "In Budapest."],
+      "intro": "Seit 2002 beraten und vertreten wir ungarische und internationale Unternehmen.",
+      "languageNote": "Wir arbeiten auf Ungarisch, Englisch und Deutsch."
+    },
+    "about": {
+      "title": "Die Kanzlei",
+      "text": "Bihary Balassa wurde 2002 gegründet. Wir beraten zu Gesellschaftsrecht, Unternehmenskäufen, Finanzierungen, Immobiliengeschäften und Rechtsstreitigkeiten.",
+      "linkLabel": "Mehr über die Kanzlei"
+    },
+    "founders": {
+      "title": "Die Gründer",
+      "paths": ["/de/people/tibor-bihary/", "/de/people/agnes-balassa/"],
+      "linkLabel": "Das gesamte Team"
+    },
+    "art": {
+      "title": "Gemälde von Tibor Bihary",
+      "text": "Die Gemälde auf dieser Website stammen von Tibor Bihary, einem der Gründungspartner der Kanzlei."
+    }
+  }
+}

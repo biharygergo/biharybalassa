@@ -1,0 +1,31 @@
+{
+  "path": "/expertise/competition/",
+  "lang": "hu",
+  "kind": "practice",
+  "title": "Versenyjog",
+  "seoTitle": "Versenyjogi ügyvéd Budapesten",
+  "description": "Versenyjogi tanácsadás és képviselet magyar és uniós ügyekben. Budapesti irodánk vállalatfelvásárlásokhoz kapcsolódó engedélyezéssel és kartellügyekkel is foglalkozik.",
+  "alternates": {
+    "de": "/de/expertise/competition/",
+    "en": "/en/expertise/competition/",
+    "hu": "/expertise/competition/"
+  },
+  "intro": "Versenyjogi tanácsadás és képviselet magyar és uniós ügyekben. Budapesti irodánk vállalatfelvásárlásokhoz kapcsolódó engedélyezéssel és kartellügyekkel is foglalkozik.",
+  "services": [
+    "Összefonódások engedélyezése vállalatfelvásárlásoknál",
+    "Magyar és európai uniós versenyjogi kérdések",
+    "Képviselet kartellügyekben a hatóság és a bíróságok előtt"
+  ],
+  "relatedPeople": ["/people/agnes-balassa/", "/people/tibor-bihary/"],
+  "order": 5,
+  "body": [
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Versenyjogi ügyekben is szívesen segítünk. Az M&A ügyletek kapcsán számos nagy volumenű fúzióban és tranzakcióban jártunk el a versenyhatósági engedélyeztetés során, ill. kartelljogi ügyekben a versenyhatóság és a bíróságok előtt."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "path": "/de/news/",
+  "lang": "de",
+  "kind": "news",
+  "title": "Nachrichten",
+  "seoTitle": "Kanzleinachrichten und Fachbeiträge",
+  "description": "Nachrichten, Mitteilungen und bisher veröffentlichte juristische Fachbeiträge der Kanzlei Bihary Balassa in Budapest.",
+  "alternates": {
+    "de": "/de/news/",
+    "en": "/en/news/",
+    "hu": "/news/"
+  },
+  "intro": "Nachrichten aus der Kanzlei und bisher veröffentlichte Fachbeiträge."
+}

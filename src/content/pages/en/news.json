@@ -1,0 +1,14 @@
+{
+  "path": "/en/news/",
+  "lang": "en",
+  "kind": "news",
+  "title": "News",
+  "seoTitle": "Firm news and legal articles",
+  "description": "News, announcements and previously published legal articles from Bihary Balassa Attorneys at Law in Budapest.",
+  "alternates": {
+    "de": "/de/news/",
+    "en": "/en/news/",
+    "hu": "/news/"
+  },
+  "intro": "Firm updates and previously published legal articles."
+}

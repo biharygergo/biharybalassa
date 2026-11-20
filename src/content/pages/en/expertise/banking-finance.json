@@ -1,0 +1,31 @@
+{
+  "path": "/en/expertise/banking-finance/",
+  "lang": "en",
+  "kind": "practice",
+  "title": "Banking and finance",
+  "seoTitle": "Banking and finance lawyers in Budapest",
+  "description": "Advice for banks, financial institutions and businesses involved in financing transactions.",
+  "alternates": {
+    "de": "/de/expertise/banking-finance/",
+    "en": "/en/expertise/banking-finance/",
+    "hu": "/expertise/banking-finance/"
+  },
+  "intro": "Advice for banks, financial institutions and businesses involved in financing transactions.",
+  "services": [
+    "Real estate and project finance",
+    "Restructuring financing agreements",
+    "Enforcement of security and work-out matters"
+  ],
+  "relatedPeople": ["/en/people/tibor-bihary/"],
+  "order": 1,
+  "body": [
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "We advise Hungarian and international banks, financial institutions and businesses on financing transactions. Our experience includes corporate and real estate project finance and legal work relating to financial leasing. We also advise on the restructuring of financing agreements, enforcement of security and work-out matters."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+---
+import type { Page, PageOf } from '../content/schema';
+import { practicesFor } from '../lib/content';
+interface Props {
+  page: PageOf<'practice-index'>;
+  pages: Page[];
+}
+const { page, pages } = Astro.props;
+---
+
+<section class="page-heading">
+  <h1>{page.title}</h1>
+  <p>{page.intro}</p>
+</section>
+<div class="news-grid">
+  {practicesFor(pages, page.lang).map((practice) => (
+    <a class="story-card" href={practice.path}>
+      <h2>{practice.title}</h2>
+      <p>{practice.intro}</p>
+    </a>
+  ))}
+</div>

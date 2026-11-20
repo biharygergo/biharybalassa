@@ -1,0 +1,27 @@
+{
+  "path": "/en/people/daniel-kurcz/",
+  "lang": "en",
+  "kind": "profile",
+  "title": "Dr. Dániel Kurcz",
+  "seoTitle": "Dr. Dániel Kurcz – Attorney at law",
+  "description": "Dr. Dániel Kurcz. Attorney at law. Professional background and contact information at Bihary Balassa in Budapest.",
+  "alternates": {
+    "de": "/de/people/daniel-kurcz/",
+    "en": "/en/people/daniel-kurcz/",
+    "hu": "/people/daniel-kurcz/"
+  },
+  "role": "Attorney at law",
+  "group": "colleagues",
+  "image": "/images/people/daniel-kurcz.webp",
+  "body": [
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Lawyer. Graduated “cum laude” from Eötvös Loránd University Budapest in 2016. Prior to graduation, he also worked as a trainee at our office. Specialized fields: corporate and contract law, real property law, litigation and compensation law, debt management. He has an intermediate command of English."
+        }
+      ]
+    }
+  ],
+  "showArtwork": false
+}

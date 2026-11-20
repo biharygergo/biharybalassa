@@ -1,0 +1,545 @@
+{
+  "path": "/news/coronavirus-short-time-work/",
+  "lang": "hu",
+  "kind": "article",
+  "title": "Koronavírus járvány - összefoglaló a „Kurzarbeit”-tel kapcsolatos szabályokról",
+  "seoTitle": "Koronavírus járvány - összefoglaló a „Kurzarbeit”-tel kapcsolatos szabályokról",
+  "description": "Ezúttal a csökkentett munkaidős foglalkoztatás főbb szabályait foglaljuk össze. A 105/2020. (IV.10.) Korm. rendeletet (a továbbiakban: rendelet) a Kormány pár nappal…",
+  "alternates": {
+    "hu": "/news/coronavirus-short-time-work/",
+    "en": "/en/news/coronavirus-short-time-work/"
+  },
+  "published": "2020-06-01",
+  "body": [
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Tisztelt Ügyfeleink!"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Ezúttal "
+        },
+        {
+          "text": "a csökkentett munkaidős foglalkoztatás főbb szabályait ",
+          "strong": true
+        },
+        {
+          "text": "foglaljuk össze. A "
+        },
+        {
+          "text": "105/2020. (IV.10.) Korm. rendeletet ",
+          "strong": true
+        },
+        {
+          "text": "(a továbbiakban: rendelet) a Kormány pár nappal később módosította a "
+        },
+        {
+          "text": "141/2020. (IV. 21.) Korm. rendelettel ",
+          "strong": true
+        },
+        {
+          "text": "(a továbbiakban: módosító rendelet). A szabályok a két rendelet összeolvasásából állnak össze. A rendeletek értelmében a munkáltató és a munkavállaló a koronavírus-járvány okozta gazdasági nehézségek esetén – a leépítések elkerülése ill. a munkahelyek védelme érdekében - (a német "
+        },
+        {
+          "text": "Kurzarbeit ",
+          "emphasis": true
+        },
+        {
+          "text": "mintájára) munkaszerződés-módosítással csökkentett munkaidőben állapodhatnak meg. A munkáltató a munkavállaló munkaidejére és az ún. egyéni fejlesztési idejére bért fizet, a munkavállaló pedig vállalja, hogy munkát végez és az egyéni fejlesztési időben a munkáltató rendelkezésére áll. Ehhez az állam meghatározott feltételek teljesülése esetén utólagos támogatást nyújt a munkavállalónak. A támogatás nem normatív és nem automatikus, kérelemre történik."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "A módosító rendelet pontosított számos korábbi homályos feltételt, kiterjesztette a támogatás igénybevételének lehetőségét, ugyanakkor azzal, hogy változatlanul nem teszi lehetővé jogorvoslat igénybevételét a kérelem esetleges elutasításával szemben, ill. változatlanul megköveteli a nemzetgazdasági érdek „hitelt érdemlő alátámasztását”, szubjektív elemeket visz a rendszerbe."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "A módosító rendelet 2020. április 29-én lépett hatályba."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "text": "Fogalommeghatározások:",
+          "strong": true
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "csökkentett munkaidő",
+            "strong": true
+          },
+          {
+            "text": ": a veszélyhelyzet kihirdetését követően módosításra kerülő munkaszerződés szerint háromhavi átlagban legalább a módosítás előtti munkaszerződés szerinti "
+          },
+          {
+            "text": "huszonöt százalékát elérő, de a nyolcvanöt százalékát meg nem haladó részmunkaidő",
+            "strong": true
+          },
+          {
+            "text": ", azaz"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "a támogatás elnyeréséhez a munkaidő legalább 15%-kal és legfeljebb 75%-kal csökkenthető. Vagyis egy eredetileg napi 8 órában foglalkoztatott munkavállaló 2 órában történő tovább foglalkoztatása esetén is lehet igényelni a támogatást."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "egyéni fejlesztési idő",
+            "strong": true
+          },
+          {
+            "text": ": a munkavállaló a munkaköréhez, vagy a munkaadó tevékenységéhez kapcsolódó fejlesztés érdekében "
+          },
+          {
+            "text": "a támogatás időtartama alatt vagy azt követően két éven belül mentesül ",
+            "strong": true
+          },
+          {
+            "text": "a csökkentett munkaidő miatt kieső munkaidő harminc százalékának megfelelő mértékben a munkavégzési kötelezettség teljesítése alól, azaz"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "az egyéni fejlesztési időre az egyes képzéseket a támogatás elnyerésétől számítva 2 éven belül lehet megszervezni."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "létszámtartási kötelezettség",
+            "strong": true
+          },
+          {
+            "text": ": a munkaadó kötelezettsége a munkaadóval együttes kérelmet benyújtó munkavállaló munkaviszonyának fenntartására;"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "alapbér",
+            "strong": true
+          },
+          {
+            "text": ": a kérelem benyújtásának napján hatályos alapbér."
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "text": "A támogatás feltételei",
+          "strong": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "A támogatást - a munkavállaló foglalkoztatási helye szerint illetékes - kormányhivatal a munkáltató és a munkavállaló együttes kérelmére a munkavállaló részére az alábbi feltételek teljesülése esetén állapítja meg:"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "text": "a) A munkáltató és a munkavállaló a támogatás igénybevételével vállalja, hogy"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "csökkentett munkaidőben,"
+          }
+        ],
+        [
+          {
+            "text": "ha a csökkentett munkaidő a módosítás előtti munkaszerződés szerinti munkaidő felét meghaladja, a csökkentett munkaidőn túli egyéni fejlesztési időben állapodnak meg legalább a támogatás időtartamára;"
+          }
+        ],
+        [
+          {
+            "text": "ha a csökkentett munkaidő a módosítás előtti munkaszerződés szerinti munkaidő felét nem haladja meg, a munkavállaló és a munkaadó az egyéni fejlesztési időben állapodhatnak meg."
+          }
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Azaz az egyéni fejlesztési idő csak akkor kötelező, ha a csökkentett munkaidő a módosítás előtti munkaszerződés szerinti munkaidő felét meghaladja. Ez a gyakorlatban azt jelenti, hogy ha egy eredetileg 8 órában foglalkoztatott munkavállalót 5-6-7 órában foglalkoztatnak tovább, akkor kötelező megállapodni a fejlesztési időről a támogatás időtartamára (3 hónapra). Ha viszont egy eredetileg 8 órában foglalkoztatott munkavállalót 2-3-4 órában foglalkoztatnak tovább, akkor nem kötelező az egyéni fejlesztési idő (csak lehetőség)."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Például, ha a munkáltató az eredetileg 8 órás munkaidőt lecsökkenti 4 órásra és a csökkentés (4 óra) 30%-át egyéni fejlesztésre fordítja, ezután munkabért kell fizetnie. Azaz 1,2 óra a fizetett fejlesztési idő, így összesen nem 4, hanem 5,2 óra után kell tehát a munkáltatónak munkabért fizetnie."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "text": "b) A munkavállaló"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "ugyanazon munkaviszonya kapcsán nem részesül részmunkaidőben történő foglalkoztatáshoz kapcsolódó egyéb bértámogatásban,"
+          }
+        ],
+        [
+          {
+            "text": "a munkaadóval legalább a veszélyhelyzet kihirdetésének napjától munkaviszonyban áll, és"
+          }
+        ],
+        [
+          {
+            "text": "nem tölti a felmondási idejét;"
+          }
+        ],
+        [
+          {
+            "text": "vállalja"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "a jövedelem kieséssel járó csökkentett munkaidőben történő munkavégzést, és"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "azt, hogy a kérelem szerinti munkaviszonya melletti újabb munkaviszony létrehozása a támogatás időtartamát követően nem lesz akadálya a csökkentett munkaidőt megelőző munkaidőhöz való visszatérésnek,"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "azt, hogy az egyéni fejlesztési időben a munkaadó rendelkezésére áll;"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "oldalán nem áll fenn az állami foglalkoztatási szerv által végleges határozattal visszakövetelt, támogatással összefüggő fizetési kötelezettsége."
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "text": "c) A munkáltató"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "a vele munkaviszonyban álló, vele együttes kérelmet benyújtó munkavállalót csökkentett munkaidőben foglalkoztatja – ideértve a "
+          },
+          {
+            "text": "távmunkát ",
+            "strong": true
+          },
+          {
+            "text": "és az "
+          },
+          {
+            "text": "otthoni munkavégzést ",
+            "strong": true
+          },
+          {
+            "text": "is – a munkavállalói létszám csökkentésének megelőzése érdekében,"
+          }
+        ],
+        [
+          {
+            "text": "legalább hat hónapja működik, és"
+          }
+        ],
+        [
+          {
+            "text": "a vele együttes kérelmet benyújtó munkavállaló vonatkozásában a kérelem benyújtásakor nem részesül egyéb bértámogatásban;"
+          }
+        ],
+        [
+          {
+            "text": "a támogatás igénybevételekor továbbá vállalja"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "a létszámtartási kötelezettséget a támogatás időtartamára, valamint további egy hónapig,"
+          }
+        ],
+        [
+          {
+            "text": "azt, hogy a támogatás ideje alatt a támogatott munkavállaló tekintetében rendkívüli munkaidőben történő munkavégzés elrendelésére nem kerül sor, és"
+          }
+        ],
+        [
+          {
+            "text": "azt, hogy a támogatással együtt a munkabér összege a támogatás időtartama alatt – kivéve, ha a csökkentett munkaidő az eredeti munkaidő felét nem haladja meg – eléri a munkavállaló alapbérét,"
+          }
+        ],
+        [
+          {
+            "text": "azt, hogy az egyéni fejlesztési időre munkabért fizet - kivéve, ha a csökkentett munkaidő az eredeti munkaidő felét nem haladja meg."
+          }
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Ez annyit jelent, hogy főszabály szerint a támogatással együtt számolt munkabér összegének a támogatás időtartama alatt el kell érnie a munkavállaló munkaszerződés szerinti eredeti alapbérét. Viszont lényeges fordulat, hogy csak abban az esetben kell elérni az eredeti alapbért, ha a munkaidőcsökkentés legalább 50%-os. Tehát ha egy eredetileg 8 órában foglalkoztatott munkavállalót 3 órában foglalkoztatnak tovább, akkor a munkabérének nem kell elérnie az eredeti alapbért."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "nem áll jogerős végzéssel elrendelt végelszámolás, felszámolás alatt, ellene jogerős végzéssel elrendelt csődeljárás vagy egyéb, a megszüntetésére irányuló, jogszabályban meghatározott eljárás nincs folyamatban, és"
+          }
+        ],
+        [
+          {
+            "text": "bemutatja, hogy a csökkentett munkaidőben történő foglalkoztatás gazdasági indoka a veszélyhelyzettel közvetlen és szoros összefüggésben áll, és hitelt érdemlő módon alátámasztja, hogy a munkavállalók megtartása a folyamatos gazdasági tevékenyégével összefüggő "
+          },
+          {
+            "text": "nemzetgazdasági érdek",
+            "strong": true
+          },
+          {
+            "text": ";"
+          }
+        ],
+        [
+          {
+            "text": "a kérelem benyújtásával vállalja, hogy ha létszámtartási kötelezettségének nem tesz eleget, akkor a Nemzeti Foglalkoztatási Alap számlájára a létszámtartási kötelezettség nem teljesítésének arányában befizetést köteles teljesíteni."
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "text": "A támogatás időtartama és mértéke",
+          "strong": true
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "a támogatás a kérelem benyújtását követő időszakra állapítható meg;"
+          }
+        ],
+        [
+          {
+            "text": "időtartama 3 (három) hónap;"
+          }
+        ],
+        [
+          {
+            "text": "mértéke az alapbér általános szabályok szerint megállapított személyijövedelemadó-előleggel, járulékokkal csökkentett összegének a kieső munkaidőre járó arányos részének "
+          },
+          {
+            "text": "70% ",
+            "strong": true
+          },
+          {
+            "text": "-a."
+          }
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Például, ha egy munkavállaló 30%-kal csökkentett munkaidőben dolgozik, úgy a támogatás mértéke az erre a 30%-ra eső alapbér 70%-a. Hasonlóképpen, ha egy munkavállaló például 40%-kal vagy 50%-kal csökkentett munkaidőben dolgozik, úgy a támogatás mértéke az ezekre a kieső időkre eső alapbér 70%-ának megfelelő összeg."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "a támogatás havi összegének meghatározásakor a maximálisan figyelembe vehető alapbér adókkal és járulékokkal csökkentett összege nem haladhatja meg a kérelem benyújtásakor hatályos nettó legkisebb munkabér (107.000,- Ft) kétszeresét (214.000,- Ft);"
+          }
+        ],
+        [
+          {
+            "text": "a támogatás a munkavállaló részére havonta utólag kerül folyósításra;"
+          }
+        ],
+        [
+          {
+            "text": "a támogatás fizetés nélküli szabadság idejére nem folyósítható;"
+          }
+        ],
+        [
+          {
+            "text": "a támogatás köztehermentes."
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "text": "Eljárási szabályok",
+          "strong": true
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "a támogatás iránti kérelmet a munkaadó a veszélyhelyzet időtartama alatt vagy a veszélyhelyzet megszűnését követő egy hónapon belül a Nemzeti Foglalkoztatási Szolgálat honlapján közzétett erre rendszeresített formanyomtatványon, elektronikus úton nyújtja be;"
+          }
+        ],
+        [
+          {
+            "text": "nem szükséges a kérelmet megelőzően módosítani a munkaszerződést, ugyanis a rendelet erejénél fogva a kérelmet elfogadó határozathozatal napján a kérelemben foglaltak szerint automatikusan módosul a munkaszerződés a támogatás időtartamára a csökkentett munkaidő és egyéni fejlesztési idő tekintetében;"
+          }
+        ],
+        [
+          {
+            "text": "a kormányhivatal határozata ellen "
+          },
+          {
+            "text": "jogorvoslatnak nincs helye",
+            "strong": true
+          },
+          {
+            "text": ", valamint bíróság előtt nem támadható meg;"
+          }
+        ],
+        [
+          {
+            "text": "ha a kérelem elutasításra került, a munkaadó és ugyanazon munkavállaló legfeljebb egy alkalommal nyújthat be ismét kérelmet."
+          }
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Amennyiben további tájékoztatásra van szükségük, vagy egyéb módon közre tudunk működni a támogatási kérelem (űrlap) összeállításában, szívesen állunk rendelkezésükre."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "path": "/news/transaction-completed/",
+  "lang": "hu",
+  "kind": "article",
+  "title": "Sikeresen zártuk a tranzakciót!",
+  "seoTitle": "Sikeresen zártuk a tranzakciót!",
+  "description": "2014. május 30-án sikeresen zártuk az év egyik legnagyobb M&A tranzakcióját, az Antenna Hungária Zrt. részvényeinek a Magyar Állam által történő megszerzésének ügyletét.…",
+  "alternates": {
+    "hu": "/news/transaction-completed/",
+    "de": "/de/news/transaction-completed/",
+    "en": "/en/news/transaction-completed/"
+  },
+  "published": "2014-05-30",
+  "body": [
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "2014. május 30-án sikeresen zártuk az év egyik legnagyobb M&A tranzakcióját, az Antenna Hungária Zrt. részvényeinek a Magyar Állam által történő megszerzésének ügyletét."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "A mintegy 56 milliárd forint (kb 170 millió EUR) ügyértékű tranzakcióban irodánk képviselte a vevőt."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "A cégcsoport teljes körű jogi átvilágítását a szűk határidőre és a hatalmas iratmennyiségre tekintettel irodánk kibővített szakértő csapattal végezte. A tranzakciós szerződéses tárgyalásokat az eladó Telediffusion de France S.A. (TDF) és az alap mögött álló befektetői csoportokkal szemben irodánk részéről dr. Balassa Ágnes vezette, dr. Orosz Dániel kollégánk hatékony közreműködésével."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "A több hónapos megfeszített munka eredményeként – megbízónk megelégedésére – 2014 márciusában aláírtuk az adásvételi szerződést és május 30-án a Magyar Állam megszerezte az Antenna Hungária Zrt. 100%-os részvénycsomagját."
+        }
+      ]
+    }
+  ]
+}

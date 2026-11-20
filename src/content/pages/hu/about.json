@@ -1,0 +1,179 @@
+{
+  "path": "/about/",
+  "lang": "hu",
+  "kind": "detailed",
+  "title": "Irodánkról",
+  "seoTitle": "Irodánkról – gazdasági jogi tanácsadás Budapesten",
+  "description": "A Bihary Balassa Ügyvédi Iroda története, ügyfélköre, munkanyelvei és tapasztalata a magyar és nemzetközi gazdasági jogi ügyekben.",
+  "alternates": {
+    "de": "/de/about/",
+    "en": "/en/about/",
+    "hu": "/about/"
+  },
+  "sections": [
+    {
+      "id": "section-1",
+      "title": "Az irodáról",
+      "body": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "A Bihary Balassa Ügyvédi Irodát 2002-ben alapítottuk, gazdasági jogi ügyekre szakosodott irodaként."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "Magyar és külföldi ügyfelek széles körét szolgáljuk ki az üzleti élet minden területéről - nemzetközi nagyvállalatokat, külföldi és magyar bankokat, közepes méretű és kisebb vállalatokat."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "Az iroda alapító partnerei dr. Bihary Tibor és dr. Balassa Ágnes. Munkájukat ügyvédi és adminisztratív munkatársak támogatják. Magyar, angol és német nyelven dolgozunk. Szakterületeink közé tartozik a társasági jog, a bank- és finanszírozási jog, a vállalatfelvásárlás, az ingatlanjog, a versenyjog, a munkajog és a jogviták rendezése. Nagyobb tranzakciók esetén külső szakértőkkel egészítjük ki a csapatot."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "Vállalatfelvásárlások",
+      "body": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "Irodánk tevékenységének egyik súlypontja a vállalatfelvásárlások területe, az M&A ügyletek. A tranzakciók során nem csak a jogi átvilágítási feladatokban, a tranzakciós szerződések kidolgozásában és kitárgyalásában segítünk ügyfeleinknek, de igyekszünk az adott projekt ügyfeleink érdekeinek megfelelő menedzselésében is intenzíven közreműködni. Ha a tranzakció mérete megköveteli, csapatunkat külsős kollégákkal egészítjük ki, így rugalmasan és gyorsan tudunk igazodni ügyfeleink igényeihez."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "Társasági jog",
+      "body": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "Szinte valamennyi ügyfelünknek vannak társasági jogi, cégjogi ügyei, a társaságalapításoktól kezdve a bonyolultabb átstrukturálási, átalakulási kérdésekig (egyesülések, szétválások), amelyek megoldásában nagy gyakorlata van csapatunknak."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "Bank- és finanszírozási jog",
+      "body": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "Magyar és külföldi bankokat, pénzügyi vállalkozásokat és finanszírozási ügyletekben részt vevő társaságokat képviselünk. Tapasztalataink kiterjednek a vállalati és ingatlan-projektfinanszírozásra, valamint a pénzügyi lízinghez kapcsolódó jogi feladatokra. Finanszírozási szerződések átstrukturálásában, biztosítékok érvényesítésében és work-out ügyekben is eljárunk."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "Ingatlanjog",
+      "body": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "Ingatlanfejlesztő, ingatlankezelő és ingatlanholding-társaságok számára nyújtunk jogi tanácsadást. Az ingatlanfinanszírozás mellett a fejlesztések, tranzakciók és az ingatlanok működtetése során felmerülő jogi kérdésekben is eljárunk. Tapasztalataink nagyobb, nemzetközi ingatlanportfóliókhoz és kisebb fejlesztő társaságok mindennapi ügyeihez egyaránt kapcsolódnak."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "Peres ügyek és választottbíráskodás",
+      "body": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "Ügyfeleink polgári jogi vitáiban rendszeresen eljárunk a hazai rendes bíróságok és a különböző hazai választott bíróságok előtt, de nemzetközi választott bíróságok (pl. ICC) előtti jogi képviseletet is ellátunk. Az utóbbi években számos emberi jogi ügyben a strasbourgi Emberi Jogok Európai Bírósága előtt is képviseltük ügyfeleinket."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "Komoly sikerként könyvelhetjük el, hogy néhány nagyobb horderejű és nagy sajtónyilvánosságot is kapott perünk útján részesei vagyunk a magyar bírósági gyakorlat megváltozásának az állam jogalkotási tevékenységével okozott kár megtérítésének területén. Ugyanakkor tudjuk, és képviseljük, hogy a gazdasági jog terén gyakran nem a bírósági út a megoldás ügyfeleink számára. Ezért mindig arra törekszünk, hogy ügyfeleink vitás ügyeit tárgyalások útján oldjuk meg, a bíróság mindig csak a végső megoldás, ha a tárgyalásos út nem vezet eredményre."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "Munkajog",
+      "body": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "Rendszeresen ellátjuk ügyfeleink képviseletét a munkajog területén, elsősorban a munkaadói oldalon, foglalkozunk foglalkoztatási és a munkaviszony megszüntetésével kapcsolatos kérdésekkel, a megfelelő munkaügyi szabályzatok kialakításával és kollektív szerződésekkel kapcsolatos tanácsadással, eljárunk munkajogi jogvitákban."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "Versenyjog",
+      "body": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "Versenyjogi ügyekben is szívesen segítünk. Az M&A ügyletek kapcsán számos nagy volumenű fúzióban és tranzakcióban jártunk el a versenyhatósági engedélyeztetés során, ill. kartelljogi ügyekben a versenyhatóság és a bíróságok előtt."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "Munkanyelvek",
+      "body": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "A gazdasági jogi ügyvédi irodák többségében általános angol nyelvű szolgáltatás mellett Irodánk büszke arra, hogy „németes” ügyvédi irodaként tagjaink többsége kiváló német nyelvtudással is rendelkezik, így ügyfeleink egy részét a számukra komfortosabb német nyelven tudjuk kiszolgálni."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "further-information",
+      "title": "További információ",
+      "body": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "Széles körű tapasztalatainkat felhasználva, több évtizedes gyakorlatunk alapján személyre szabott, magas minőségű, üzleti szemléletű jogi szolgáltatást nyújtunk. Értjük ügyfeleink érdekeit."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

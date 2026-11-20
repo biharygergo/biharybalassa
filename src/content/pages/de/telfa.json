@@ -1,0 +1,43 @@
+{
+  "path": "/de/telfa/",
+  "lang": "de",
+  "kind": "detailed",
+  "title": "Über TELFA",
+  "seoTitle": "TELFA – internationales Kanzleinetzwerk",
+  "description": "Die TELFA-Verbindung der Kanzlei Bihary Balassa und die Zusammenarbeit unabhängiger europäischer Kanzleien bei grenzüberschreitenden Mandaten.",
+  "alternates": {
+    "de": "/de/telfa/",
+    "en": "/en/telfa/",
+    "hu": "/telfa/"
+  },
+  "sections": [
+    {
+      "id": "section-1",
+      "title": "TELFA-Mitgliedschaft",
+      "body": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "Da unsere Kanzlei oft in Transaktionen mitwirkt, die sich über die Grenze Ungarns erstrecken, und deshalb die Kenntnis und gleichzeitige Anwendung von Rechtsvorschriften mehrerer Jurisdiktionen erfordern, aus diesem Grund und im Interesse der umfassenden Bedienung unserer Klienten hat unsere Kanzlei ihre bereits existierenden und gut funktionierenden Beziehungen zu mehreren ausgezeichneten ausländischen Rechtsanwaltskanzleien enger geschlossen, und einer, die führenden europäischen Rechtsanwaltsfirmen vereinigenden Organisation, der Trans European Law Firms Alliance (TELFA) beigetreten. TELFA ist eine internationale Organisation, die im Jahre 1990 in Belgien gegründet wurde, mit Zentrum im Herzen Europas, in Brüssel. Die Mitgliedkanzleien der TELFA werden nach strengen qualitativen Kriterien ausgewählt, ihre Mitglieder sind anerkannte Anwaltskanzleien, die in erster Linie am Gebiet des Wirtschaftsrechtes tätig sind, über internationale Kontakte verfügen, die jedoch ihre Selbstständigkeit bewahrt haben."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "Über das Netzwerk",
+      "body": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "Durch TELFA können wir unseren Mandanten ermöglichen, dass sie auch im Ausland von lokalen, sich im gegebenen nationalen Rechtssystem und Rechtspraxis am besten auskennenden und gleichzeitig über internationalen Ausblick verfügenden Anwälten betreut werden."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

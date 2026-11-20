@@ -1,0 +1,157 @@
+{
+  "path": "/en/about/",
+  "lang": "en",
+  "kind": "detailed",
+  "title": "About our firm",
+  "seoTitle": "About our Budapest law firm",
+  "description": "Learn about Bihary Balassa, established in 2002, its business law experience, international clients and Hungarian, English and German working languages.",
+  "alternates": {
+    "de": "/de/about/",
+    "en": "/en/about/",
+    "hu": "/about/"
+  },
+  "sections": [
+    {
+      "id": "section-1",
+      "title": "About the firm",
+      "body": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "Bihary Balassa was established in 2002 as a commercial law firm."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "We provide legal services to a wide range of Hungarian and international clients in the entire field of business law. We advise multi-national clients, financial institutions and small and medium sized companies."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "The firm’s founding partners are Tibor Bihary and Ágnes Balassa, supported by legal and administrative colleagues. We work in Hungarian, English and German. Our practice covers corporate law, banking and finance, acquisitions, real estate, competition, employment and dispute resolution. For larger transactions, we work with external specialists as required."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "Corporate transactions",
+      "body": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "We have experience advising on large M&A transactions throughout the entire transaction process, both on the legal, due diligence and drafting aspects as well as on project management aspects of a major transaction. We also provide corporate legal services for almost all of our clients, from company incorporations and modifications to more complex restructurings (mergers, de-mergers)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "Banking and finance",
+      "body": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "We advise Hungarian and international banks, financial institutions and businesses on financing transactions. Our experience includes corporate and real estate project finance and legal work relating to financial leasing. We also advise on the restructuring of financing agreements, enforcement of security and work-out matters."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "Disputes and arbitration",
+      "body": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "Our dispute resolution experience is wide-ranging; we regularly represent our clients before international arbitration courts as well as domestic courts. We have experience at all levels of the Hungarian judicial system, up to the Supreme Court. Through our international partnerships (TELFA), we are also able to assist in representation before foreign courts. We do, however also understand that litigation or arbitration are often not the best way to resolve a dispute between sophisticated commercial entities. We regard the courts as a last resort and aim to resolve our clients’ commercial disputes via negotiation or mediation whenever possible and appropriate."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "Real estate",
+      "body": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "We advise property developers, asset managers and property holding companies. Our work covers property finance and legal matters arising in development, transactions and day-to-day property operations. Our experience includes both international property portfolios and the ongoing needs of smaller development companies."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "Employment",
+      "body": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "We frequently advise our clients in the field of labour law (mostly on the employer’s side), we handle questions arising from the termination of employment and work contracts, we assist in labour regulatory work, provide legal counsel in collective contracts and we act in legal disputes in the field of labour law."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "Competition",
+      "body": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "We have wide-ranging experience in the field of both Hungarian and EU competition law, and represent our clients in the merger control application process with the relevant Competition Authority, we assist in cartel proceedings in front of the Competition Authority and the courts."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "Working languages",
+      "body": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "Besides working with our clients in Hungarian and English, we regard it as self-evident to communicate with our German-speaking clients in their mother tongue."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "International network",
+      "body": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "We are in partnership with the Trans European Law Firms Alliance (TELFA), which allows us to work seamlessly across borders with our colleagues in almost all European jurisdictions and handle transactions and disputes involving multiple jurisdictions with ease. Further information is available on our TELFA page."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "path": "/expertise/employment/",
+  "lang": "hu",
+  "kind": "practice",
+  "title": "Munkajog",
+  "seoTitle": "Munkajog – ügyvédi iroda Budapest",
+  "description": "Munkáltatók jogi támogatása a foglalkoztatás, a munkaviszony megszüntetése és a munkaügyi viták területén.",
+  "alternates": {
+    "de": "/de/expertise/employment/",
+    "en": "/en/expertise/employment/",
+    "hu": "/expertise/employment/"
+  },
+  "intro": "Munkáltatók jogi támogatása a foglalkoztatás, a munkaviszony megszüntetése és a munkaügyi viták területén.",
+  "services": [
+    "Foglalkoztatási és munkaviszony-megszüntetési kérdések",
+    "Munkaügyi szabályzatok és kollektív szerződések",
+    "Képviselet munkajogi jogvitákban"
+  ],
+  "relatedPeople": [],
+  "order": 4,
+  "body": [
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Rendszeresen ellátjuk ügyfeleink képviseletét a munkajog területén, elsősorban a munkaadói oldalon, foglalkozunk foglalkoztatási és a munkaviszony megszüntetésével kapcsolatos kérdésekkel, a megfelelő munkaügyi szabályzatok kialakításával és kollektív szerződésekkel kapcsolatos tanácsadással, eljárunk munkajogi jogvitákban."
+        }
+      ]
+    }
+  ]
+}

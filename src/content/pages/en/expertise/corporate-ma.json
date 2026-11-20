@@ -1,0 +1,35 @@
+{
+  "path": "/en/expertise/corporate-ma/",
+  "lang": "en",
+  "kind": "practice",
+  "title": "Corporate and M&A",
+  "seoTitle": "Corporate and M&A lawyers in Budapest",
+  "description": "Legal support for company formation, corporate restructuring and acquisitions, for Hungarian and international businesses.",
+  "alternates": {
+    "de": "/de/expertise/corporate-ma/",
+    "en": "/en/expertise/corporate-ma/",
+    "hu": "/expertise/corporate-ma/"
+  },
+  "intro": "Legal support for company formation, corporate restructuring and acquisitions, for Hungarian and international businesses.",
+  "services": [
+    "Company formation and corporate governance",
+    "Mergers, demergers and restructuring",
+    "Legal due diligence, transaction documents and negotiations"
+  ],
+  "relatedPeople": [
+    "/en/people/daniel-kurcz/",
+    "/en/people/tibor-bihary/",
+    "/en/people/agnes-balassa/"
+  ],
+  "order": 0,
+  "body": [
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "We have experience advising on large M&A transactions throughout the entire transaction process, both on the legal, due diligence and drafting aspects as well as on project management aspects of a major transaction. We also provide corporate legal services for almost all of our clients, from company incorporations and modifications to more complex restructurings (mergers, de-mergers)."
+        }
+      ]
+    }
+  ]
+}

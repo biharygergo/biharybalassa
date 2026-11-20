@@ -1,0 +1,35 @@
+{
+  "path": "/de/expertise/real-estate/",
+  "lang": "de",
+  "kind": "practice",
+  "title": "Immobilienrecht",
+  "seoTitle": "Immobilienrecht – Rechtsanwälte in Budapest",
+  "description": "Rechtliche Beratung von Immobilienentwicklern, Immobilienverwaltern und Immobiliengesellschaften.",
+  "alternates": {
+    "de": "/de/expertise/real-estate/",
+    "en": "/en/expertise/real-estate/",
+    "hu": "/expertise/real-estate/"
+  },
+  "intro": "Rechtliche Beratung von Immobilienentwicklern, Immobilienverwaltern und Immobiliengesellschaften.",
+  "services": [
+    "Due Diligence und Strukturierung von Immobilientransaktionen",
+    "Projektentwicklungs- und Bauverträge",
+    "Mietverträge und Immobilienverwaltung"
+  ],
+  "relatedPeople": [
+    "/de/people/daniel-kurcz/",
+    "/de/people/tibor-bihary/",
+    "/de/people/agnes-balassa/"
+  ],
+  "order": 2,
+  "body": [
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Wir beraten Immobilienentwickler, Immobilienverwalter und Immobilienholdinggesellschaften. Neben der Immobilienfinanzierung begleiten wir rechtliche Fragen bei Projektentwicklungen, Transaktionen und der laufenden Bewirtschaftung. Unsere Erfahrung umfasst internationale Immobilienportfolios ebenso wie die laufenden Geschäfte kleinerer Entwicklungsgesellschaften."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "path": "/en/people/tibor-bihary/",
+  "lang": "en",
+  "kind": "profile",
+  "title": "Dr. Tibor Bihary",
+  "seoTitle": "Dr. Tibor Bihary – Founding partner, attorney at law",
+  "description": "Dr. Tibor Bihary. Founding partner, attorney at law. Professional background and contact information at Bihary Balassa in Budapest.",
+  "alternates": {
+    "de": "/de/people/tibor-bihary/",
+    "en": "/en/people/tibor-bihary/",
+    "hu": "/people/tibor-bihary/"
+  },
+  "role": "Founding partner, attorney at law",
+  "group": "partners",
+  "image": "/images/people/tibor-bihary.webp",
+  "body": [
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Managing Partner and founding member of the firm. Graduated from Eötvös Loránd University Budapest in 1983. Received his qualification in comparative law in Strasbourg. Bar examination in 1986. Postgraduate Foreign Trade Lawyer qualifications in 1987."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Company lawyer of KOMPLEX Hungarian Foreign Trade Company for six years. In 1989 associated as partner with Eörsi & Partners Attorneys at Law, managing partner from 1991 to 1994. Partner and founding member of Sándor, Bihary, Szegedi, Szent-Ivány Attorneys at Law from 1999 to 2002."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "From 1993 to 2015 Secretary General of the Hungarian Competition Law Association."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "His specialized fields include competition, corporate and real property law; commercial and project contracts, EU subsidizing, EU law, project financing and public procurement. He speaks German fluently and has a good command of both French and English."
+        }
+      ]
+    }
+  ],
+  "showArtwork": true
+}

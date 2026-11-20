@@ -1,0 +1,43 @@
+{
+  "path": "/telfa/",
+  "lang": "hu",
+  "kind": "detailed",
+  "title": "TELFA",
+  "seoTitle": "TELFA – nemzetközi ügyvédi együttműködés",
+  "description": "A Bihary Balassa Ügyvédi Iroda TELFA-kapcsolata és az európai független ügyvédi irodák hálózatának szerepe a határon átnyúló ügyekben.",
+  "alternates": {
+    "de": "/de/telfa/",
+    "en": "/en/telfa/",
+    "hu": "/telfa/"
+  },
+  "sections": [
+    {
+      "id": "section-1",
+      "title": "Az iroda TELFA-tagsága",
+      "body": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "Mivel a munkánk legnagyobb része határon átívelő ügyletekkel kapcsolatos, így ügyfeleink joggal várják el tőlünk, hogy segítségünkkel saját országunkon kívül is professzionális jogi szolgáltatáshoz juthassanak. Ezeket az elvárásokat teljesítenünk kell. Ennek érdekében Irodánk 2005-ben kizárólagos magyarországi tagként felvételt nyert az Európa vezető gazdasági jogi ügyvédi irodáit tömörítő Trans European Law Firms Alliance (TELFA) szervezetbe."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "A hálózatról",
+      "body": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "A TELFA egy 1990-ben Brüsszelben létrehozott nemzetközi szervezet, vezető független ügyvédi irodák Európára kiterjedő hálózata. Tagjai szigorú minőségi követelmények alapján kerülnek kiválasztásra, a tagirodák saját országukban a nemzetközi gazdasági jogi ügyekkel foglalkozó vezető ügyvédi irodák közé tartoznak, de minden esetben független jogi irodák."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

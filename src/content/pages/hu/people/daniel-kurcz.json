@@ -1,0 +1,27 @@
+{
+  "path": "/people/daniel-kurcz/",
+  "lang": "hu",
+  "kind": "profile",
+  "title": "Dr. Kurcz Dániel",
+  "seoTitle": "Dr. Kurcz Dániel – Ügyvéd",
+  "description": "Dr. Kurcz Dániel. Ügyvéd. Szakmai háttér és elérhetőség a Bihary Balassa budapesti ügyvédi irodánál.",
+  "alternates": {
+    "de": "/de/people/daniel-kurcz/",
+    "en": "/en/people/daniel-kurcz/",
+    "hu": "/people/daniel-kurcz/"
+  },
+  "role": "Ügyvéd",
+  "group": "colleagues",
+  "image": "/images/people/daniel-kurcz.webp",
+  "body": [
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Ügyvéd, 2016-ban diplomázott az Eötvös Loránd Tudományegyetem Állam- és Jogtudományi Karán „cum laude” minősítéssel. Már a diploma megszerzése előtt, gyakornokként is irodánknál dolgozott. Fő szakterületei a társasági jog, ingatlanjog, a szerződések joga, a peres ügyek, kártérítés és a követeléskezelés. Középfokon beszél angolul."
+        }
+      ]
+    }
+  ],
+  "showArtwork": false
+}

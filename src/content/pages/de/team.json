@@ -1,0 +1,14 @@
+{
+  "path": "/de/team/",
+  "lang": "de",
+  "kind": "team",
+  "title": "Unser Team",
+  "seoTitle": "Unsere Rechtsanwälte und unser Team in Budapest",
+  "description": "Partner, Rechtsanwälte und Mitarbeitende der Kanzlei Bihary Balassa in Budapest mit Berufsbiografien und Rechtsgebieten.",
+  "alternates": {
+    "hu": "/team/",
+    "de": "/de/team/",
+    "en": "/en/team/"
+  },
+  "intro": "Partner, Rechtsanwälte und Mitarbeitende der Kanzlei."
+}

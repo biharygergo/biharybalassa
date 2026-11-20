@@ -1,0 +1,89 @@
+{
+  "path": "/careers/",
+  "lang": "hu",
+  "kind": "page",
+  "title": "Állásajánlat",
+  "seoTitle": "Állásajánlat – jogi munkalehetőségek Budapesten",
+  "description": "A Bihary Balassa Ügyvédi Iroda korábban közzétett állásajánlata és jelentkezési információi.",
+  "alternates": {
+    "hu": "/careers/",
+    "de": "/de/careers/",
+    "en": "/en/careers/"
+  },
+  "body": [
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Gazdasági joggal foglalkozó, magyar és külföldi ügyfeleket képviselő budapesti irodánkba ügyvédjelöltek jelentkezését várjuk."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "text": "Amit kínálunk"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Szakmai képzés a jelölti időszak alatt"
+          }
+        ],
+        [
+          {
+            "text": "Csapatmunka tapasztalt kollégákkal"
+          }
+        ],
+        [
+          {
+            "text": "Hosszú távú szakmai fejlődési lehetőség"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "text": "Elvárásaink"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Tárgyalóképes angol vagy német nyelvtudás"
+          }
+        ],
+        [
+          {
+            "text": "Önálló gondolkodás és pontos munkavégzés"
+          }
+        ],
+        [
+          {
+            "text": "Érdeklődés a gazdasági jog iránt"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Önéletrajzát az agnes.balassa@biharybalassa.hu címre várjuk. A jelentkezéseket bizalmasan kezeljük."
+        }
+      ]
+    }
+  ]
+}

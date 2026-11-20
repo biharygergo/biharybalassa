@@ -1,0 +1,14 @@
+{
+  "path": "/team/",
+  "lang": "hu",
+  "kind": "team",
+  "title": "Csapatunk",
+  "seoTitle": "Ügyvédeink és munkatársaink Budapesten",
+  "description": "Ismerje meg a Bihary Balassa budapesti ügyvédi iroda partnereit, ügyvédeit és munkatársait, szakterületeiket és szakmai hátterüket.",
+  "alternates": {
+    "hu": "/team/",
+    "de": "/de/team/",
+    "en": "/en/team/"
+  },
+  "intro": "Az iroda partnerei, ügyvédei és munkatársai."
+}

@@ -1,0 +1,99 @@
+---
+import type { Page, PageOf } from '../content/schema';
+import { copy, routes } from '../lib/content';
+import site from '../data/site.json';
+import RichText from '../components/RichText.astro';
+interface Props {
+  page: PageOf<'practice'>;
+  pages: Page[];
+}
+const { page, pages } = Astro.props;
+const c = copy[page.lang];
+const paths = routes[page.lang];
+const people = pages.filter(
+  (person): person is PageOf<'profile'> =>
+    person.kind === 'profile' && page.relatedPeople.includes(person.path),
+);
+const labels = {
+  hu: {
+    services: 'Jogi szolgáltatásaink',
+    experience: 'Az iroda tapasztalata',
+    people: 'Kapcsolódó ügyvédek',
+    breadcrumb: 'Morzsamenü',
+  },
+  en: {
+    services: 'Legal services',
+    experience: 'The firm’s experience',
+    people: 'Related lawyers',
+    breadcrumb: 'Breadcrumb',
+  },
+  de: {
+    services: 'Unsere Leistungen',
+    experience: 'Erfahrung der Kanzlei',
+    people: 'Ansprechpartner',
+    breadcrumb: 'Brotkrumennavigation',
+  },
+}[page.lang];
+---
+
+<nav class="breadcrumb" aria-label={labels.breadcrumb}>
+  <ol>
+    <li>
+      <a href={paths.home}>{site.shortName}</a>
+    </li>
+    <li>
+      <a href={paths.expertise}>{c.expertise}</a>
+    </li>
+    <li aria-current="page">{page.title}</li>
+  </ol>
+</nav>
+<section class="practice-page-hero">
+  <h1>{page.title}</h1>
+  <p class="practice-lead">{page.intro}</p>
+  <a class="button" href="#kapcsolat">
+    {c.contact}
+  </a>
+</section>
+<div class="practice-page-body">
+  <section>
+    <h2>{labels.services}</h2>
+    <ul class="service-list">
+      {page.services.map((service) => (
+        <li>{service}</li>
+      ))}
+    </ul>
+    <h2>{labels.experience}</h2>
+    <RichText headingLevel={3} body={page.body} />
+  </section>
+  <aside>
+    <div class="practice-location">
+      <h2>{site.address.city}</h2>
+      <p>
+        {site.address.street}
+        <br />
+        {site.address.postalCode} {site.address.city}
+      </p>
+      <a href={'tel:' + site.telephoneHref}>{site.telephone}</a>
+    </div>
+    {people.length > 0 && (
+      <section>
+        <h2>{labels.people}</h2>
+        {people.map((person) => (
+          <a class="lawyer-compact" href={person.path}>
+            <img
+              src={person.image}
+              alt=""
+              width="64"
+              height="64"
+              loading="lazy"
+            />
+            <span>
+              {person.title}
+              <small>{person.role}</small>
+            </span>
+          </a>
+        ))}
+      </section>
+    )}
+  </aside>
+</div>

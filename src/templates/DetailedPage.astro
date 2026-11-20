@@ -1,0 +1,44 @@
+---
+import type { PageOf } from '../content/schema';
+import { copy } from '../lib/content';
+import Artwork from '../components/Artwork.astro';
+import RichText from '../components/RichText.astro';
+interface Props {
+  page: PageOf<'detailed'>;
+}
+const { page } = Astro.props;
+const contentsLabel = copy[page.lang].contents;
+---
+
+<section class="page-heading">
+  <h1>{page.title}</h1>
+</section>
+<Artwork lang={page.lang} variant="article-art" lazy={false} />
+<div class="detail-layout">
+  <aside class="detail-index">
+    <div class="contents-desktop">
+      <p class="contents-label">{contentsLabel}</p>
+      <nav class="contents-links" aria-label={contentsLabel}>
+        {page.sections.map((section) => (
+          <a href={'#' + section.id}>{section.title}</a>
+        ))}
+      </nav>
+    </div>
+    <details class="contents-mobile">
+      <summary>{contentsLabel}</summary>
+      <nav class="contents-links" aria-label={contentsLabel}>
+        {page.sections.map((section) => (
+          <a href={'#' + section.id}>{section.title}</a>
+        ))}
+      </nav>
+    </details>
+  </aside>
+  <div>
+    {page.sections.map((section) => (
+      <section class="detail-section" id={section.id}>
+        <h2>{section.title}</h2>
+        <RichText headingLevel={3} body={section.body} />
+      </section>
+    ))}
+  </div>
+</div>

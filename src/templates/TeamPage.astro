@@ -1,0 +1,33 @@
+---
+import type { Page, PageOf } from '../content/schema';
+import { ofKind, copy } from '../lib/content';
+import PersonCard from '../components/PersonCard.astro';
+interface Props {
+  page: PageOf<'team'>;
+  pages: Page[];
+}
+const { page, pages } = Astro.props;
+const c = copy[page.lang];
+const people = ofKind(pages, 'profile', page.lang).sort((a, b) =>
+  a.title.localeCompare(b.title, page.lang),
+);
+---
+
+<section class="page-heading">
+  <h1>{page.title}</h1>
+  <p>{page.intro}</p>
+</section>
+{(['partners', 'colleagues'] as const).map((group) => (
+  <section class="section">
+    <div class="section-head">
+      <h2>{group === 'partners' ? c.partners : c.team}</h2>
+      <div class="team">
+        {people
+          .filter((person) => person.group === group)
+          .map((person) => (
+            <PersonCard person={person} />
+          ))}
+      </div>
+    </div>
+  </section>
+))}

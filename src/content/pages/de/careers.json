@@ -1,0 +1,89 @@
+{
+  "path": "/de/careers/",
+  "lang": "de",
+  "kind": "page",
+  "title": "Bewerbungen",
+  "seoTitle": "Juristische Karriere in Budapest",
+  "description": "Bisher veröffentlichte Stellen- und Bewerbungsinformationen der Rechtsanwaltskanzlei Bihary Balassa in Budapest.",
+  "alternates": {
+    "hu": "/careers/",
+    "de": "/de/careers/",
+    "en": "/en/careers/"
+  },
+  "body": [
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Für unsere wirtschaftsrechtlich ausgerichtete Kanzlei in Budapest freuen wir uns über Bewerbungen von Rechtsanwaltsanwärtern, die mit ungarischen und internationalen Mandanten arbeiten möchten."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "text": "Was wir bieten"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Fachliche Ausbildung während der Anwärterzeit"
+          }
+        ],
+        [
+          {
+            "text": "Zusammenarbeit mit erfahrenen Kollegen"
+          }
+        ],
+        [
+          {
+            "text": "Langfristige berufliche Entwicklung"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "text": "Anforderungen"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Verhandlungssichere Englisch- oder Deutschkenntnisse"
+          }
+        ],
+        [
+          {
+            "text": "Selbstständiges Denken und sorgfältige Arbeitsweise"
+          }
+        ],
+        [
+          {
+            "text": "Interesse am Wirtschaftsrecht"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Bitte senden Sie Ihren Lebenslauf an agnes.balassa@biharybalassa.hu. Bewerbungen werden vertraulich behandelt."
+        }
+      ]
+    }
+  ]
+}

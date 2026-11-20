@@ -1,0 +1,31 @@
+{
+  "path": "/de/expertise/competition/",
+  "lang": "de",
+  "kind": "practice",
+  "title": "Wettbewerbsrecht",
+  "seoTitle": "Wettbewerbsrecht – Rechtsanwälte in Budapest",
+  "description": "Beratung und Vertretung im ungarischen und europäischen Wettbewerbsrecht, einschließlich Fusionskontrolle und Kartellverfahren, durch unsere Kanzlei in Budapest.",
+  "alternates": {
+    "de": "/de/expertise/competition/",
+    "en": "/en/expertise/competition/",
+    "hu": "/expertise/competition/"
+  },
+  "intro": "Beratung und Vertretung im ungarischen und europäischen Wettbewerbsrecht, einschließlich Fusionskontrolle und Kartellverfahren, durch unsere Kanzlei in Budapest.",
+  "services": [
+    "Fusionskontrolle bei Unternehmenskäufen",
+    "Ungarisches und europäisches Wettbewerbsrecht",
+    "Vertretung in Kartellverfahren vor Behörden und Gerichten"
+  ],
+  "relatedPeople": ["/de/people/tibor-bihary/", "/de/people/agnes-balassa/"],
+  "order": 5,
+  "body": [
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Wir sind auch auf dem Gebiet des Wettbewerbsrechts gerne behilflich. Im Zusammenhang mit M&A Geschäften sind wir in zahlreichen Fusionen und Transaktionen in dem Genehmigungsverfahren vor der Wettbewerbsbehörde vorgegangen, bzw. vertreten wir unsere Mandanten auch in Kartellfragen vor der Wettbewerbsaufsicht und vor Gericht."
+        }
+      ]
+    }
+  ]
+}

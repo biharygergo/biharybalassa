@@ -1,0 +1,719 @@
+{
+  "path": "/news/coronavirus-employment/",
+  "lang": "hu",
+  "kind": "article",
+  "title": "Koronavírus-járvány – összefoglaló a felmerülő munkajogi kérdésekről",
+  "seoTitle": "Koronavírus-járvány – összefoglaló a felmerülő munkajogi kérdésekről",
+  "description": "Az elmúlt időben hazánkat is elérő COVID-19 Koronavírus terjedésére tekintettel számos munkajogi kérdés merült fel az egyes munkáltatói intézkedések szükségességéről,…",
+  "alternates": {
+    "hu": "/news/coronavirus-employment/",
+    "en": "/en/news/coronavirus-employment/"
+  },
+  "published": "2020-06-01",
+  "body": [
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Tisztelt Ügyfelünk!"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Az elmúlt időben hazánkat is elérő COVID-19 Koronavírus terjedésére tekintettel számos munkajogi kérdés merült fel az egyes munkáltatói intézkedések szükségességéről, jogszerűségéről, és azok várható pénzügyi következményéről. Az alábbi összefoglalóban igyekeztünk a kialakult helyzettel kapcsolatos minden munkáltatói kötelezettséget és lehetőséget átfogóan összefoglalni a helyzet megfelelő kezelése érdekében. Amennyiben a jelen összefoglaló bármely pontjával kapcsolatban további, egyedi tanácsadásra van szükségük, keressék irodánkat bizalommal, természetesen állunk szíves rendelkezésükre."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "text": "A legfontosabb tudnivalókat az alábbi tematika szerint tartalmazza a jelen összefoglaló:"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "A munkáltató kötelezettségei, az egészséges és biztonságos munkavégzés körülményeinek biztosítása",
+            "strong": true
+          }
+        ],
+        [
+          {
+            "text": "A munkáltató lehetőségei a gazdasági helyzetre tekintettel kialakuló munkaerő-fölösleg kezelésére",
+            "strong": true
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "text": "A munkáltató kötelezettségei, az egészséges és biztonságos munkavégzés körülményeinek biztosítása:",
+          "strong": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "text": "1. Egészséges és biztonságos munkakörnyezet:",
+          "strong": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "A munkáltató egyik alapvető kötelezettsége az "
+        },
+        {
+          "text": "egészséges és biztonságos munkavégzés feltételeinek biztosítása",
+          "strong": true
+        },
+        {
+          "text": ". A munkáltató későbbi kártérítési felelőssége megállapításának megelőzése érdekében "
+        },
+        {
+          "text": "a munkáltatónak ",
+          "strong": true
+        },
+        {
+          "text": "igazolható és bizonyítható módon "
+        },
+        {
+          "text": "minden lehetséges, a munkáltatótól az adott helyzetben elvárható intézkedést meg kell tennie annak érdekében, hogy a munkavállalókat ne érje foglalkozási megbetegedés ",
+          "strong": true
+        },
+        {
+          "text": "(tehát a munkaviszonnyal összefüggésben ne kapják el a fertőzést)."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "A legfontosabb munkáltatói intézkedések, amelyeket az adott, mindenkori járványhelyzethez képest együttesen vagy külön-külön is javasolt megtenni:"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "a lehetséges egészségügyi kockázatok felmérése a munkahelyen és a munkavállalók körében;"
+          }
+        ],
+        [
+          {
+            "text": "az egészséget nem veszélyeztető és biztonságos munkavégzés megvalósítása módjára belső szabályzat, akcióterv kidolgozása a jogszabályok és egyéb szakmai előírások figyelembevételével;"
+          }
+        ],
+        [
+          {
+            "text": "a munkavégzés helyén a munkáltató tevékenységének megfelelően specifikusan a szükséges védőintézkedések folyamatos megtétele;"
+          }
+        ],
+        [
+          {
+            "text": "a munkahely és a munkaeszközök folyamatos fertőtlenítése, kézfertőtlenítők, védőmaszkok biztosítása, azok alkalmazásának előírása/elvárása és használatának folyamatos munkáltatói ellenőrzése;"
+          }
+        ],
+        [
+          {
+            "text": "üzleti utak, személyes találkozók, céges rendezvények (átmeneti) leállítása – érdemes ezeket határozott időre felfüggeszteni és szükség esetén azt meghosszabbítani;"
+          }
+        ],
+        [
+          {
+            "text": "a munkavállalók folyamatos egészségügyi ellenőrzése – ideértve a munkavállalók beszámoltatását arról, hogy jártak-e külföldön, illetve, hogy érintkeztek-e bármilyen módon potenciálisan fertőzött más személlyel – ha igen, akkor a munkavállaló azonnali elkülönítése és felmentése a munkavégzés alól, távol tartása a munkahelytől;"
+          }
+        ],
+        [
+          {
+            "text": "amennyiben lehetséges, otthoni munkavégzés, távmunkavégzés, munkaidőkeret lehetőségének megteremtése, biztosítása; valamint az ehhez szükséges (számítás)technikai feltételek és infrastruktúra biztosítása; továbbá a munkarend – részletes – meghatározása a munkavállaló számára (rendelkezésre állás, törzsidő, elvégzendő munka pontos és egyértelmű meghatározása annak érdekében, hogy a munkavállaló továbbra is tisztában legyen a munkaviszonnyal kapcsolatos jogaival és kötelezettségeivel."
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "text": "2. A munkáltató tevékenysége:",
+          "strong": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Ameddig kormányzati szintű intézkedések ezt nem teszik kötelezővé, addig a "
+        },
+        {
+          "text": "munkáltató ",
+          "strong": true
+        },
+        {
+          "text": "– egyedi körülmények hiányában – "
+        },
+        {
+          "text": "nem köteles a munkahelyet bezárni",
+          "strong": true
+        },
+        {
+          "text": ", a tevékenységét – termelést vagy a szolgáltatások nyújtását – felfüggeszteni, és nem is köteles a munkavállalóknak az otthon maradást biztosítani."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "text": "A munkáltató lehetőségei a gazdasági helyzetre tekintettel kialakuló munkaerő-fölösleg kezelésére:",
+          "strong": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "text": "1. Rendkívüli eltérési lehetőségek a Munka Törvénykönyvétől:",
+          "strong": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "A veszélyhelyzetre tekintettel megjelent 47/2020. (III. 18). Korm. rendelet (a továbbiakban: „"
+        },
+        {
+          "text": "Rendelet",
+          "strong": true
+        },
+        {
+          "text": "”), amely felhatalmazást ad a Munka Törvénykönyvéről szóló 2012. évi I. törvénytől (a továbbiakban: „"
+        },
+        {
+          "text": "Mt.",
+          "strong": true
+        },
+        {
+          "text": "”) való kivételes eltérésre. A Rendelet alapján a veszélyhelyzet megszűnését követő harminc napig:"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "a munkáltató a munkaidő-beosztást az általános közlési szabályoktól eltérően is módosíthatja;"
+          }
+        ],
+        [
+          {
+            "text": "a "
+          },
+          {
+            "text": "munkáltató az otthoni munkavégzést és a távmunkavégzést egyoldalúan elrendelheti",
+            "strong": true
+          },
+          {
+            "text": ";"
+          }
+        ],
+        [
+          {
+            "text": "a munkáltató a munkavállaló egészségi állapotának ellenőrzése érdekében a szükséges és indokolt intézkedéseket megteheti; valamint"
+          }
+        ],
+        [
+          {
+            "text": "az "
+          },
+          {
+            "text": "Mt. rendelkezéseitől a munkáltató és a munkavállaló külön megállapodásban (közös megegyezéssel) eltérhetnek",
+            "strong": true
+          },
+          {
+            "text": ". E pont értelmezésünk szerint alkalmas arra is, hogy a felek akár az Mt. kógens – tehát általános esetben eltérést nem engedő – szabályaitól (pl. bérezés, munkaidő-beosztás, szabadság, távmunka, stb.) is eltérjenek, akár a munkavállaló hátrányára is. "
+          },
+          {
+            "text": "A jelen időszakban tehát a felek közös megegyezéssel szinte bármilyen munkajogi kérdésben meg tudnak állapodni, korlátozások nélkül.",
+            "strong": true
+          }
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Ezeket az eltérési lehetőségeket minden munkajogi intézkedés meghozatala során érdemes szem előtt tartani."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "text": "2. Rendelkezésre állás és munkavégzési kötelezettség:",
+          "strong": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "A "
+        },
+        {
+          "text": "munkavállalók nem jogosultak ",
+          "strong": true
+        },
+        {
+          "text": "a rendelkezésre állás és "
+        },
+        {
+          "text": "a munkavégzés megtagadására ",
+          "strong": true
+        },
+        {
+          "text": "csupán azért, mert járványveszély van az országban. Azt ezt megszegő munkavállalókkal szemben akár a legszigorúbb intézkedések is alkalmazhatók, így a "
+        },
+        {
+          "text": "felmondás ",
+          "strong": true
+        },
+        {
+          "text": "vagy akár "
+        },
+        {
+          "text": "azonnali hatályú felmondás ",
+          "strong": true
+        },
+        {
+          "text": "is. Jogszerűen a megjelenést a munkavállalók csak abban az esetben tagadhatják meg, ha a munkahelyen esetleg fokozott és közvetlenül fenyegető fertőzésveszély alakulna ki."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "text": "3. ",
+          "strong": true
+        },
+        {
+          "text": "K "
+        },
+        {
+          "text": "ülönös méltánylást érdemlő személyi, családi vagy elháríthatatlan ok:",
+          "strong": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "A munkavállaló bizonyos esetekben jogszerűen mentesülhet, ugyanakkor a rendelkezésre állási és munkavégzési kötelezettsége alól az Mt. szerint, így a különös méltánylást érdemlő személyi, családi vagy elháríthatatlan ok miatt indokolt távollét tartamára. A gyakorlatban "
+        },
+        {
+          "text": "várhatóan ",
+          "strong": true
+        },
+        {
+          "text": "ilyen elháríthatatlan külső oknak fog minősülni az "
+        },
+        {
+          "text": "óvodák és iskolák bezárása, amennyiben a szülő nem tudja más módon biztosítani gyermeke felügyeletét ",
+          "strong": true
+        },
+        {
+          "text": "– feltéve, hogy eltérő jogszabályi rendelkezés nem születik, vagy eltérő joggyakorlat nem fog kialakulni. Ilyen körülmény fennállásáról azonban a munkavállalónak haladéktalanul tájékoztatnia kell a munkáltatót, a munkáltató pedig kivételesen és átmeneti jelleggel köteles biztosítani a távollétet. A munkavállalónak díjazás ilyen esetben nem jár"
+        },
+        {
+          "text": ".",
+          "emphasis": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "text": "4. Az otthoni munkavégzés",
+          "strong": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "A munkáltató jogosult a munkavállalót átmenetileg eltérő munkahelyen foglalkoztatni. Bár az Mt. alapvetően korlátozza ennek időtartamát, a "
+        },
+        {
+          "text": "Rendelet szabályai alapján a jelen helyzetben a munkáltató egyoldalúan is elrendelheti az otthoni munkavégzést, ennek időtartama ",
+          "strong": true
+        },
+        {
+          "text": "pedig a Rendeletet észszerűen értelmezve az "
+        },
+        {
+          "text": "Mt. szerinti évi 44 napot is meghaladhatja. ",
+          "strong": true
+        },
+        {
+          "text": "Otthoni munkavégzés során a munkavállalók a munkaszerződésük szerinti munkabérre és egyéb juttatásokra teljes mértékben jogosultak."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "text": "5. Azonnali fizetett szabadságra bocsátás a felek közös megállapodása alapján:",
+          "strong": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Mind a munkáltatóra, mind a munkavállalóra vonatkozik, hogy a szabadság igénybevételét/kiadását a szabadság megkezdése előtt 15 nappal be kell jelenteni/közölni kell a másik féllel, így a szabadság "
+        },
+        {
+          "text": "azonnali kiadására csak a felek közös megállapodása alapján van lehetőség",
+          "strong": true
+        },
+        {
+          "text": ". A szabadság tartamára a munkavállalót az általános szabályok szerint távolléti díj illeti meg"
+        },
+        {
+          "text": ".",
+          "strong": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "text": "6. Fizetett szabadságra bocsátás a munkáltató egyoldalú nyilatkozatával:",
+          "strong": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "A munkáltató egyoldalúan is kiadhatja az éves szabadság azon részét, amelyről ő rendelkezik (évente 7 munkanap szabadságot a munkavállaló kérésének megfelelő időpontban kell kiadni). Ezt "
+        },
+        {
+          "text": "legkésőbb a szabadság kezdete előtt 15 nappal közölni kell a munkavállalóval",
+          "strong": true
+        },
+        {
+          "text": ". ",
+          "strong": true,
+          "emphasis": true
+        },
+        {
+          "text": "A szabadság tartamára a munkavállalót az általános szabályok szerint távolléti díj illeti meg."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "text": "7. Önkéntes fizetés nélküli szabadságra vonatkozó megállapodás megkötése:",
+          "strong": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "A munkáltató felkínálhatja annak a lehetőségét, hogy a munkavállaló önkéntes fizetés nélküli szabadságot vegyen igénybe – annak tartama meghatározásával. Ez "
+        },
+        {
+          "text": "a felek kölcsönös megállapodása alapján ",
+          "strong": true
+        },
+        {
+          "text": "lehetséges"
+        },
+        {
+          "text": ". ",
+          "strong": true
+        },
+        {
+          "text": "A fizetés nélküli szabadság tartama alatt a társadalombiztosítási jogosultságok szünetelnek, erről a munkavállalókat tájékoztatni kell, hogy gondoskodni tudjanak a megfelelő társadalombiztosításról. A munkáltató felajánlhatja, hogy a társadalombiztosítási hozzájárulás megfizetését a fizetés nélküli szabadság idejére is vállalja. A fizetés nélküli szabadság tartama főszabály szerint nem tekinthető munkában töltött időnek, így a végkielégítés és a nyugdíj számításakor nem vehető figyelembe."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "text": "8. Megállapodás a munkavégzés alóli mentesülésről:",
+          "strong": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "A munkavállaló és a munkáltató megállapodhatnak arról is, hogy a munkavállaló mentesül a munkavégzés alól, és a kiesett munkaidőre a munkavállalót a felek "
+        },
+        {
+          "text": "megállapodása szerint illeti meg bérezés",
+          "strong": true
+        },
+        {
+          "text": ", amely adott esetben alacsonyabb is lehet az alapbérnél."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "text": "9. Munkaidőkeret bevezetése, munkaidőkeret meghosszabbítása:",
+          "strong": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "A munkáltató jogosult a munkavállaló által teljesítendő munkaidőt munkaidő-keretben is meghatározni, és ennek során a munkaidőkeretben a munkavállaló munkaidejét beosztani. A munkaidőkeret alapján a munkavállalók munkaideje beosztható úgy, hogy a munkaidőkeret első részében ne végezzenek munkát, míg a munkaidőkeret második részében akár napi 12 órás munkavégzésre is kötelezhetők (a munkaidőkeret tartamánál és a munkaidő beosztásánál azonban figyelembe kell venni az Mt. általános rendelkezéseit is)."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "text": "10. Kötelező állásidő elrendelése ",
+          "strong": true
+        },
+        {
+          "text": "„vis maior” ",
+          "strong": true,
+          "emphasis": true
+        },
+        {
+          "text": "helyzetre hivatkozás mellőzésével:",
+          "strong": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Az Mt. 146. § (1) bekezdése alapján, amennyiben a munkáltató foglalkoztatási kötelezettségének a beosztás szerinti munkaidőben nem tesz eleget, a munkáltató "
+        },
+        {
+          "text": "egyoldalú nyilatkozattal ",
+          "strong": true
+        },
+        {
+          "text": "úgynevezett "
+        },
+        {
+          "text": "állásidőt rendelhet el",
+          "strong": true
+        },
+        {
+          "text": ", melynek tartamára munkavállalót alapbére illeti meg. Az állásidő olyan időszakot jelent, amely során a munkáltató a saját érdekkörében bekövetkező ok miatt, vagy saját (pl. gazdasági) döntése alapján nem tud eleget tenni a munkáltatói kötelezettségeinek."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "text": "11. Kötelező állásidő elrendelése „vis maior” helyzetre hivatkozással:",
+          "strong": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Elháríthatatlan külső ok fennállása esetén ",
+          "strong": true
+        },
+        {
+          "text": "a munkáltató jogosult arra is, hogy "
+        },
+        {
+          "text": "egyoldalú nyilatkozattal ",
+          "strong": true
+        },
+        {
+          "text": "úgy rendeljen el "
+        },
+        {
+          "text": "állásidőt, ",
+          "strong": true
+        },
+        {
+          "text": "hogy "
+        },
+        {
+          "text": "a munkavállalót nem illeti meg az alapbér sem",
+          "strong": true
+        },
+        {
+          "text": ", tehát fizetést erre az időre nem kap. Várhatóan ilyen oknak ítélné meg a bíróság például az olyan hatósági intézkedést, jogalkotást, amely ellehetetleníti a munkáltató működését (pl. területi karantén vagy kijárási tilalom elrendelése). Egyelőre ilyen ok általános jelleggel nem áll fenn a járvány miatt, azonban egyedi esetekben már most felmerülhet a "
+        },
+        {
+          "text": "vis maior ",
+          "emphasis": true
+        },
+        {
+          "text": "helyzetre való hivatkozás. A "
+        },
+        {
+          "text": "vis maior ",
+          "emphasis": true
+        },
+        {
+          "text": "helyzetet minden esetben az adott körülményekhez képest egyedileg kell mérlegelni. Elképzelhető, hogy a "
+        },
+        {
+          "text": "vis maior ",
+          "emphasis": true
+        },
+        {
+          "text": "helyzet a későbbiekben jogszabályi rendelkezések folytán akár széles körben is kialakulhat."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "text": "12. Munkáltatói felmondás vagy csoportos létszámcsökkentés:",
+          "strong": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "A kialakult helyzet alapján elképzelhető, hogy a munkáltató arra kényszerül, hogy egyes munkavállalóinak felmondással megszűntesse a munkaviszonyát. Erre az Mt. 66. § (2) bekezdése szerint – indoklását tekintve – "
+        },
+        {
+          "text": "a munkáltató működésével összefüggő okra alapítva ",
+          "strong": true
+        },
+        {
+          "text": "látunk lehetőséget. A felmondást ugyanakkor mindenkor az Mt. szabályainak megfelelően kell kiadni, figyelembe véve a felmondás indoklására és a bizonyítási teherre vonatkozó szabályokat is."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Amennyiben nagyobb számú munkavállaló munkaviszonyának megszűntetése válik szükségessé, úgy szükséges szem előtt tartani "
+        },
+        {
+          "text": "a csoportos létszámcsökkentésre vonatkozó munkajogi szabályok ",
+          "strong": true
+        },
+        {
+          "text": "alkalmazásának szükségességét (ez munkavállalói létszámtól függően akár már 10 munkavállaló elbocsátása esetén is fennállhat)."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "text": "13. Munkáltatói azonnali hatályú felmondás:",
+          "strong": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Mivel ezzel az igen szigorú és kötött eszközzel a munkáltatók csak kivételes esetben élhetnek, így az Mt. szabályozása alapján "
+        },
+        {
+          "text": "azonnali hatályú felmondással a járványügyi helyzetre hivatkozással a munkáltató nem élhet.",
+          "strong": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "text": "Korlátozások:",
+          "strong": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Tekintettel arra, hogy a kialakult járványügyi helyzet a teljes társadalom, így a jogrendszer és a jogalkalmazás számára is eddig nem látott, váratlan helyzetet hozott, így kérjük a fentiek alkalmazása során mindig vegyék figyelembe, hogy számos kérdésben nincs jelenleg kialakult bírósági gyakorlat, így a jövőre nézve kérdéses, hogy ezeket a helyzeteket hogyan ítéli majd meg a bírósági gyakorlat."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "A járványügyi helyzetre tekintettel a kormányzat és a jogalkotás is folyamatosan reagál, így a megfelelő döntések meghozatalához feltétlenül szükséges a jogszabályi változások naprakész követése, ismerete."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Mivel a járványügyi helyzet kezelésének számos kimenetele, munkajogi kezelése lehetséges, ezért minden intézkedés esetén szükséges az annak alapjául szolgáló egyedi munkavállalói (vagy épp munkáltatói) körülmények alapos vizsgálata, mérlegelése. A fentiek nem minősülnek konkrét üggyel kapcsolatos jogi tanácsadásnak, sokkal inkább a kialakult helyzet munkajogi kezelésére vonatkozó általános, átfogó tájékoztatásnak."
+        }
+      ]
+    }
+  ]
+}

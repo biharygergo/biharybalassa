@@ -1,0 +1,13 @@
+---
+import type { Inline } from '../content/schema';
+interface Props {
+  content: Inline[];
+}
+const { content } = Astro.props;
+---
+
+{content.map((run) => (
+  <span class:list={{ 'text-bold': run.strong, 'text-italic': run.emphasis }}>
+    {run.href ? <a href={run.href}>{run.text}</a> : run.text}
+  </span>
+))}

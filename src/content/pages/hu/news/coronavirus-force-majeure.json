@@ -1,0 +1,412 @@
+{
+  "path": "/news/coronavirus-force-majeure/",
+  "lang": "hu",
+  "kind": "article",
+  "title": "Koronavírus és vis maior – 2020-as összefoglaló",
+  "seoTitle": "Koronavírus és vis maior – 2020-as összefoglaló",
+  "description": "Az alábbiakban a COVID-19 járványnak a szerződéses kapcsolatokban észlelhető ill. várható hatásairól foglaljuk össze az alapvető jogi kérdéseket. Várható, sőt már…",
+  "alternates": {
+    "hu": "/news/coronavirus-force-majeure/",
+    "en": "/en/news/coronavirus-force-majeure/"
+  },
+  "published": "2020-06-01",
+  "body": [
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Tisztelt Ügyfeleink!"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Az alábbiakban a COVID-19 járványnak a szerződéses kapcsolatokban észlelhető ill. várható hatásairól foglaljuk össze az alapvető jogi kérdéseket. Várható, sőt már tapasztalható, hogy a piaci felek közötti szerződéses kapcsolatokban is előállnak olyan helyzetek, amikor egyik szerződő fél a járvány folytán a termelési, értékesítési, szolgáltatási láncban valahol előálló korlátozásra/akadályra hivatkozva, a szerződéses kötelezettségének teljesítése vagy a szerződésszegés következményei alól szeretne mentesülni. Látjuk a már bevezetett beutazási, kijárási korlátozásokat, amelyek a legkülönbözőbb ágazatokban befolyásolhatják a szerződések teljesítését."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Mik a polgári jog válaszai az ilyen helyzetek megoldására? Mire és mikor hivatkozhat egy kötelezett, mire figyeljen egy jogosult oldalon álló vevő/megrendelő, amikor vele szemben partnere a járványra hivatkozással nem akar vagy nem tud teljesíteni?"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "text": "Az alapok:",
+          "strong": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "A magyar polgári jog alapelve ismert módon az, hogy a megkötött szerződéseket teljesíteni kell és csak kivételesen van lehetőség a szerződéses kötelezettségek alóli mentesülésre. A szerződő feleknek általában maguknak kell viselni a tevékenységükhöz kapcsolódó üzleti kockázatokat, így a változó külső körülményekből adódó kockázatokat is."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Hasonló alapokon állnak általában a külföldi jogok is, azonban a részletszabályok természetesen már eltérőek. Ezért olyan szerződéseknél, ahol a szerződő partner külföldi és ezért esetleg valamilyen más állam jogát kötötték ki a felek a szerződésre, a legfontosabb előkérdés ilyenkor, hogy egyáltalán melyik ország joga alkalmazandó a jogi helyzet rendezéséhez."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "A magyar polgári jog a szerződésszegések, az erőhatalom ("
+        },
+        {
+          "text": "vis maior",
+          "emphasis": true
+        },
+        {
+          "text": "), ill. a lehetetlenülés szabályai körében ad megoldási technikákat a járványhelyzet miatti akadályoztatások miatt felmerülő kérdésekre. Ezeket foglaljuk össze itt röviden."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "text": "A szerződésszegés:",
+          "strong": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "A szerződésszegés tipikus esetei lehetnek ilyenkor a teljesítés elmaradása vagy jelentős késedelme, esetleg a nem megfelelő teljesítés, ami leggyakrabban minőségi, vagy mennyiségi problémaként merül fel."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "A szerződésszegés következményeit gyakran egyedileg szabályozza a felek közötti szerződés, pl. kötbért ír elő, vagy a szerződésszegő fél felelősségét korlátozza, pl. a kártérítés maximumát rögzíti. Először tehát a szerződés feltételeit kell megvizsgálni, hogy milyen speciális szerződéses keretek között kell rendezni egy ilyen helyzetet."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Egyedi szerződéses szabályozás hiányában ill. azokon túl a Ptk. rendelkezései lesznek irányadóak. Az alapszabály ilyenkor az, hogy a szerződésszegésért felelős fél köteles megtéríteni a másik félnek azt a kárt, amit a szerződésszegésével a másik félnek okozott. Mentesül azonban a felelősség alól, ha bizonyítani tudja, hogy a szerződésszegést"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "ellenőrzésén kívüli eső,"
+          }
+        ],
+        [
+          {
+            "text": "a szerződéskötés időpontjába előre nem látható körülmény okozta és"
+          }
+        ],
+        [
+          {
+            "text": "nem volt elvárható, hogy a körülményt elkerülje vagy a kárt elhárítsa."
+          }
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Ezeknek a körülményeknek együttesen kell fennállnia és ha valamelyik fél a felelőssége alóli mentesülésre hivatkozik, ezt a három körülményt esetenként és egyedileg kell megvizsgálni a feleknek. A bíróság is így jár el adott esetben és egyedileg mérlegeli, hogy fennállnak-e a kimentés törvényi feltételei. Bármelyik feltétel hiányában a felelősség alóli mentesülés sikertelen lesz."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "A polgári jog "
+        },
+        {
+          "text": "ellenőrzésen kívüli körülmény ",
+          "emphasis": true
+        },
+        {
+          "text": "en a szerződésszegő fél által nem befolyásolható olyan körülményt ért, amelyre a fél nem képes hatást gyakorolni. Ezek tételesen nem is felsorolhatók, de a gyakorlat az ilyen tényállások egyik tipikus esetkörének tekinti a "
+        },
+        {
+          "text": "vis maior ",
+          "emphasis": true
+        },
+        {
+          "text": "(természeti vagy emberi eredetű ellenállhatatlan erő) hagyományos eseteit (lásd részletesen a következő fejezetben)."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "A szerződéskötés időpontjában való "
+        },
+        {
+          "text": "előreláthatóság ",
+          "emphasis": true
+        },
+        {
+          "text": "ra egy ilyen globális járvány idején nyilván sikerrel tud hivatkozni a szerződő fél, ha a szerződést a COVID-19 vírus megjelenése és globális elterjedése előtt kötötték a felek és pl. valamilyen határzár, karatén vagy más állami intézkedés akadályozta vagy késleltette pl. az alapanyagbeszerzést, vagy a nemzetközi fuvarozást. De már messze nem ennyire egyértelmű a helyzet, ha a szerződés a vírus és a karanténok megjelenését követően jött létre. Ilyenkor már elvárható, hogy a felek a szerződéskötéskor mérlegeljék, képesek-e ilyen körülmények között is teljesíteni a vállalásaikat."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Az akadályozó "
+        },
+        {
+          "text": "körülmény ill. a kár elhárításának elvárhatósága ",
+          "emphasis": true
+        },
+        {
+          "text": "már a szerződésszegés időpontjában (és nem a szerződéskötés időpontjában) és ugyancsak esetenként vizsgálandó. Nyilván másképpen ítélendő meg a szerződésszegőtől elvárható magatartás, ha pl. egy hatóság által elrendelt határzár vagy karantén miatt nem tudja eljuttatni a kötelezett az árut a címzettnek, mint az, ha a járványhelyzet miatt a kötelezett néhány munkavállalója kiesik a termelésből. Ez utóbbi esetben van lehetőség (pl. külső kapacitások igénybevételével) a kritikus körülmény elkerülésének ill. a kár elhárításának."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "text": "Erőhatalom (",
+          "strong": true
+        },
+        {
+          "text": "vis maior",
+          "strong": true,
+          "emphasis": true
+        },
+        {
+          "text": "):",
+          "strong": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "A köznyelvben gyakran használt kifejezés a "
+        },
+        {
+          "text": "vis maior",
+          "emphasis": true
+        },
+        {
+          "text": ", a Ptk. mégsem szabályozza tételesen. A szerződéses ill. a bírósági gyakorlat azonban ismeri, a szerződő felek ellenőrzési körén kívüli tényállások egyik csoportjának tekinti. Hagyományosan ide érti a gyakorlat a természeti katasztrófákat, földrengést, tűzvészt, aszályt, fagykárt, árvizeket, szélvihart és nem utolsó sorban a járványokat, ill. az emberi eredetű politikai-társadalmi eseményeket, mint háború, forradalom, felkelés, szabotázs, közlekedési útvonal (repülőtér) lezárása, vagy állami intézkedések, mint behozatali-kiviteli tilalmak, devizakorlátozások, embargó, bojkott, stb. Nem sorolja ide a gyakorlat a fél saját üzemi rendjének szervezési vagy egyéb zavarait, a fél alkalmazottainak magatartását, piaci beszerzési nehézségeket és hasonlókat. A "
+        },
+        {
+          "text": "vis maior ",
+          "emphasis": true
+        },
+        {
+          "text": "helyzeteket is a bíróság a konkrét eset összes körülményeit mérlegelve vizsgálja és attól még, hogy egy fél ilyen hivatkozással próbál mentesülni szerződésszegésének jogkövetkezményei alól, nem biztos, hogy a bíróság is "
+        },
+        {
+          "text": "vis maior ",
+          "emphasis": true
+        },
+        {
+          "text": "helyzetnek minősíti a konkrét esetet. Előfordulhat pl., hogy az adott esetben nem vitásan megnehezítik a külső körülmények a teljesítést, de nem lehetetlenítik el olyan mértékben, hogy az már "
+        },
+        {
+          "text": "vis maior ",
+          "emphasis": true
+        },
+        {
+          "text": "nak minősüljön. Egy alapanyag beszerzése körében fellépő nehézségek pl. – akár a járvány miatt is -, nem feltétlenül jelentenek "
+        },
+        {
+          "text": "vis maior ",
+          "emphasis": true
+        },
+        {
+          "text": "t. Ellenőrzésen kívüli okká ez akkor válhat, ha az adott alapanyag vagy termék pl. teljesen eltűnik a piacról. Az elmúlt években az ún. devizahiteles perekben kialakult bírósági gyakorlat pl. a gazdasági válságjelenségeket nem tekintette "
+        },
+        {
+          "text": "vis maior ",
+          "emphasis": true
+        },
+        {
+          "text": "nak. Így e bírósági gyakorlat szerint az ilyen körülmények vitathatatlanul elnehezítik, de nem teszik lehetetlenné a devizaalapú kölcsönszerződések teljesítését. Kérdés, hogy a COVID-19 járványt kapcsán kialakuló jövőbeli bírósági gyakorlat hogyan foglal majd állást az ilyen kérdésekben."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "A járványok hagyományosan szerepelnek a "
+        },
+        {
+          "text": "vis maior ",
+          "emphasis": true
+        },
+        {
+          "text": "esetkörök között, de azért teljes bizonyossággal nem állítható, hogy a jelenlegi helyzetben minden "
+        },
+        {
+          "text": "vis maior ",
+          "emphasis": true
+        },
+        {
+          "text": "-hivatkozás – akár megrendelői, akár szállítói oldalon - megalapozott lesz/lenne. A járványra hivatkozás önmagában bizonyosan kevés, az erre hivatkozó félnek azt is bizonyítania kell, hogy a járvány valamilyen következménye, pl. valamilyen állami reakció (kijárási tilalom, rendezvények megtartásának betiltása, stb.) valóban oly mértékben és elháríthatatlanul akadályozta a szerződés teljesítését, hogy emiatt állt elő a szerződésszegés, vagy akár a szerződés teljesítésének ellehetetlenülése."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "text": "Lehetetlenülés:",
+          "strong": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "A lehetetlenülés a "
+        },
+        {
+          "text": "vis maior ",
+          "emphasis": true
+        },
+        {
+          "text": "körülmények szélsőséges esete, amikor egy szerződést az érintett fél minden igyekezete ellenére sem képes teljesíteni. A lehetetlenülést – szemben a "
+        },
+        {
+          "text": "vis maior ",
+          "emphasis": true
+        },
+        {
+          "text": "ral - szabályozza a Ptk. és jogkövetkezményként a szerződés megszűnését ill. a lehetetlenné válásról tudomást szerző fél terhére értesítési kötelezettséget ír elő."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Mivel a szerződés megszűnése komoly jogkövetkezmény, ezért a lehetetlenülés beállásának megállapítása is az eset összes körülményeinek alapos mérlegelését igényli. Könnyebb nyilván lehetetlenülést megállapítani egy eseti szerződés esetén (pl. kiutazási tilalom miatt az utazási szerződés nem teljesíthető), mint tartós jogviszonyoknál (pl. egy szállítási keretszerződés esetén akár egy pár hetes karantén sem feltétlen eredményez megszűnést)."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Ha beáll a lehetetlenülés és a lehetetlenné válásért egyik fél sem felelős, a szerződés megszűnését megelőzően nyújtott szolgáltatás pénzbeli ellenértékét meg kell téríteni, ill. ha történt már fizetés, de nem történt még (ellen)szolgáltatás a másik fél részéről, a pénzbeli szolgáltatás visszajár."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "text": "Állami beavatkozások:",
+          "strong": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "A fentiek a szokásos polgári jogi megközelítés alapjait igyekeztek összefoglalni. Látni kell azonban, hogy a járvány előrehaladtával szaporodnak a kormányzati intézkedések, amelyek adott esetben beavatkoznak a polgári jogi szerződéses viszonyokba, befolyásol(hat)ják a megkötött szerződések megszegésének jogkövetkezményeit. Egy konkrét eset megítélésénél emiatt a felek közötti szerződés feltételein és a vázolt polgári jogi alapszabályokon túlmenően azt is vizsgálni kell, hogy az adott ágazatra, szerződéstípusra, milyen kormányzati intézkedés tartalmaz még szabályozást."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Mit lehet tenni a jelenlegi helyzetben?",
+          "strong": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "A járvány hatásainak, következményeinek kezelése, a kockázatok lehető elkerülése vagy csökkentése érdekében"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "érdemes feltérképezni a társaság szerződésállományát abból a szempontból, hogy ezek teljesítését mennyiben érinthetik a járvány következményei;"
+          }
+        ],
+        [
+          {
+            "text": "ha van „érintett” szerződés a társaságnál, érdemes megvizsgálni, hogy milyen jogi lehetőségeket nyújtanak a szerződéses feltételek az ilyen kritikus helyzetekre; van-e "
+          },
+          {
+            "text": "vis maior ",
+            "emphasis": true
+          },
+          {
+            "text": "előírás benne, ha igen, annak mi a tartalma; milyen vitarendezési előírásokat tartalmaz;"
+          }
+        ],
+        [
+          {
+            "text": "ha vis maior helyzetben nem tud a társaság teljesíteni és tájékoztatási kötelezettséget ír elő a szerződés vagy az irányadó jog, ezt meg kell tenni, mert a tájékoztatási kötelezettség megszegésével további károkat okozhatunk, amiért majd helyt kell állni;"
+          }
+        ],
+        [
+          {
+            "text": "a károsultat kárenyhítési kötelezettség is terheli, tehát ha úgy látjuk, hogy a másik fél szerződésszegése elkerülhetetlenül károkat okoz a társaságnak, időben és kellő mértékben tenni kell ez ellen (pl. alternatív beszállítóktól ajánlatokat bekérve) és a kárenyhítés körében tett intézkedéseket egy esetleges későbbi jogvitára gondolva, célszerű megfelelően dokumentálni is;"
+          }
+        ],
+        [
+          {
+            "text": "más az érdekfelállás, ezért más megközelítés lehet indokolt szállítói és megint más megrendelői pozícióban ill."
+          }
+        ],
+        [
+          {
+            "text": "más megközelítés és eljárásmód lehet indokolt a magyar jog szerinti, ill. más külföldi anyagi jog szerinti szerződések esetében, ez utóbbi esetben érdemes lehet akár külföldi jogi tanácsadó bevonása is;"
+          }
+        ],
+        [
+          {
+            "text": "a szerződő feleket együttműködési kötelezettség is terheli, ezért a potenciális jogviták elkerülhetősége érdekében érdemes időben egyeztetni a partnerekkel, és akár szerződésmódosításban megállapodni."
+          }
+        ]
+      ]
+    }
+  ]
+}

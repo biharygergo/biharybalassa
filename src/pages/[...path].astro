@@ -1,0 +1,48 @@
+---
+import { getPages } from '../lib/content';
+import SiteLayout from '../layouts/SiteLayout.astro';
+import HomePage from '../templates/HomePage.astro';
+import TeamPage from '../templates/TeamPage.astro';
+import ProfilePage from '../templates/ProfilePage.astro';
+import ArticlePage from '../templates/ArticlePage.astro';
+import NewsPage from '../templates/NewsPage.astro';
+import ContactPage from '../templates/ContactPage.astro';
+import TextPage from '../templates/TextPage.astro';
+import DetailedPage from '../templates/DetailedPage.astro';
+import PracticePage from '../templates/PracticePage.astro';
+import PracticeIndex from '../templates/PracticeIndex.astro';
+import type { Page } from '../content/schema';
+export async function getStaticPaths() {
+  return (await getPages()).map((page) => ({
+    params: { path: page.path.replace(/^\/+|\/+$/g, '') || undefined },
+    props: { page },
+  }));
+}
+interface Props {
+  page: Page;
+}
+const { page } = Astro.props;
+const pages = await getPages();
+---
+
+<SiteLayout
+  title={page.seoTitle}
+  description={page.description}
+  lang={page.lang}
+  path={page.path}
+  alternates={page.alternates}
+  page={page}
+>
+  {page.kind === 'home' && <HomePage page={page} pages={pages} />}
+  {page.kind === 'team' && <TeamPage page={page} pages={pages} />}
+  {page.kind === 'profile' && <ProfilePage page={page} />}
+  {page.kind === 'article' && <ArticlePage page={page} />}
+  {page.kind === 'news' && <NewsPage page={page} pages={pages} />}
+  {page.kind === 'contact' && <ContactPage page={page} />}
+  {page.kind === 'page' && <TextPage page={page} />}
+  {page.kind === 'detailed' && <DetailedPage page={page} />}
+  {page.kind === 'practice' && <PracticePage page={page} pages={pages} />}
+  {page.kind === 'practice-index' && (
+    <PracticeIndex page={page} pages={pages} />
+  )}
+</SiteLayout>

@@ -1,0 +1,160 @@
+---
+import {
+  languages as languageOrder,
+  type Language,
+  type Page,
+} from '../content/schema';
+import {
+  absolute,
+  indexSite,
+  structuredData,
+  serializeJsonLd,
+} from '../lib/seo';
+import { copy, routes } from '../lib/content';
+import site from '../data/site.json';
+import Navigation from '../components/Navigation';
+import '../styles/site.css';
+interface Props {
+  title: string;
+  lang: Language;
+  path: string;
+  alternates: Partial<Record<Language, string>>;
+  description: string;
+  page?: Page;
+}
+const { title, lang, path, alternates, description, page } = Astro.props;
+const c = copy[lang];
+const paths = routes[lang];
+const links = [
+  { label: c.firm, href: paths.about },
+  { label: c.expertise, href: paths.expertise },
+  { label: c.team, href: paths.team },
+  { label: c.news, href: paths.news },
+  { label: c.contact, href: paths.contact },
+];
+const languages = languageOrder.flatMap((label) =>
+  alternates[label] ? [{ label, href: alternates[label]! }] : [],
+);
+const canonical = absolute(path);
+---
+
+<!doctype html>
+<html lang={lang}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title} | {site.shortName}</title>
+    <meta name="description" content={description} />
+    <meta
+      name="robots"
+      content={
+        indexSite && page
+          ? 'index, follow, max-image-preview:large'
+          : 'noindex, follow'
+      }
+    />
+    <link rel="canonical" href={canonical} />
+    {languages.map(({ label, href }) => (
+      <link rel="alternate" hreflang={label} href={absolute(href)} />
+    ))}
+    <meta property="og:title" content={`${title} | ${site.shortName}`} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta
+      property="og:type"
+      content={page?.kind === 'article' ? 'article' : 'website'}
+    />
+    <meta property="og:site_name" content={site.shortName} />
+    <meta property="og:image" content={absolute(site.logo)} />
+    <meta
+      property="og:locale"
+      content={{ hu: 'hu_HU', en: 'en_GB', de: 'de_DE' }[lang]}
+    />
+    <script
+      type="application/ld+json"
+      set:html={serializeJsonLd(structuredData(page))}
+    />
+    <link rel="icon" type="image/png" href={site.icon} />
+  </head>
+  <body>
+    <a class="skip-link" href="#main">
+      {c.skip}
+    </a>
+    <div class="wrap">
+      <header class="site-header">
+        <a class="logo-link" href={paths.home} aria-label={site.shortName}>
+          <img
+            class="logo-full"
+            src={site.logo}
+            width="1349"
+            height="188"
+            alt={site.name}
+          />
+          <img
+            class="logo-small"
+            src={site.icon}
+            width="512"
+            height="512"
+            alt={site.shortName}
+          />
+        </a>
+        <Navigation
+          client:load
+          links={links}
+          languages={languages}
+          lang={lang}
+          menuLabel={c.menu}
+          closeLabel={c.close}
+          currentPath={path}
+        />
+      </header>
+      <noscript>
+        <nav class="fallback-navigation" aria-label={c.menu}>
+          {links.map((link) => (
+            <a href={link.href}>{link.label}</a>
+          ))}
+          {languages.map((link) => (
+            <a href={link.href}>{link.label.toUpperCase()}</a>
+          ))}
+        </nav>
+      </noscript>
+      <main id="main">
+        <slot />
+      </main>
+      <footer id="kapcsolat">
+        <div class="footer-contact">
+          <h2>{c.contact}</h2>
+          <div>
+            <a class="email" href={'mailto:' + site.email}>
+              {site.email}
+            </a>
+            <p>
+              <a href={'tel:' + site.telephoneHref}>{site.telephone}</a>
+              <br />
+              {site.address.postalCode} {site.address.city},{' '}
+              {site.address.street}
+            </p>
+          </div>
+        </div>
+        <nav class="footer-navigation" aria-label={c.firm}>
+          {links.map((link) => (
+            <a href={link.href}>{link.label}</a>
+          ))}
+          <a href={paths.network}>TELFA</a>
+          <a href={paths.careers}>{c.careers}</a>
+        </nav>
+        <div class="fine">
+          <a href={paths.home}>
+            <img
+              src={site.logo}
+              width="1349"
+              height="188"
+              alt={site.shortName}
+            />
+          </a>
+          <span>{site.name}</span>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>

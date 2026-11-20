@@ -1,0 +1,58 @@
+---
+import type { PageOf } from '../content/schema';
+import { copy, routes } from '../lib/content';
+import site from '../data/site.json';
+import Artwork from '../components/Artwork.astro';
+import RichText from '../components/RichText.astro';
+interface Props {
+  page: PageOf<'profile'>;
+}
+const { page } = Astro.props;
+const c = copy[page.lang];
+const paths = routes[page.lang];
+---
+
+<div class="breadcrumb">
+  <a href={paths.team}>{c.team}</a>
+  <span>/</span>
+  {page.title}
+</div>
+<section class="profile-hero">
+  <div class="profile-heading">
+    <div class="eyebrow">{c.team}</div>
+    <h1>{page.title}</h1>
+    <p>{page.role}</p>
+    <a class="button" href={paths.contact}>
+      {c.contact}
+    </a>
+  </div>
+  <img
+    class="profile-photo"
+    src={page.image}
+    alt={page.title}
+    width="680"
+    height="510"
+    decoding="async"
+  />
+</section>
+<div class="profile-body section">
+  <aside>
+    <h2 class="eyebrow">{c.contact}</h2>
+    <p>
+      <a href={'mailto:' + site.email}>{site.email}</a>
+    </p>
+  </aside>
+  <section>
+    <h2>{c.bio}</h2>
+    <RichText headingLevel={3} body={page.body} />
+  </section>
+</div>
+{page.showArtwork && (
+  <section class="art-section">
+    <div>
+      <h2>{c.arthead}</h2>
+      <p>{c.artbody}</p>
+    </div>
+    <Artwork lang={page.lang} />
+  </section>
+)}

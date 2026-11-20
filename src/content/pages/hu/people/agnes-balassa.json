@@ -1,0 +1,35 @@
+{
+  "path": "/people/agnes-balassa/",
+  "lang": "hu",
+  "kind": "profile",
+  "title": "Dr. Balassa Ágnes",
+  "seoTitle": "Dr. Balassa Ágnes – Alapító partner, ügyvéd",
+  "description": "Dr. Balassa Ágnes. Alapító partner, ügyvéd. Szakmai háttér és elérhetőség a Bihary Balassa budapesti ügyvédi irodánál.",
+  "alternates": {
+    "de": "/de/people/agnes-balassa/",
+    "en": "/en/people/agnes-balassa/",
+    "hu": "/people/agnes-balassa/"
+  },
+  "role": "Alapító partner, ügyvéd",
+  "group": "partners",
+  "image": "/images/people/agnes-balassa.webp",
+  "body": [
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Az iroda alapító tagja, ügyvéd. 1992-ben diplomázott Budapesten az Eötvös Loránd Tudományegyetem Állam- és Jogtudományi Karán, majd az Eörsi & Társai Ügyvédi Irodában kezdett el dolgozni. Ügyvédi szakvizsgáját 1999-ben tette le. 1999-2002. között a Sándor, Bihary, Szegedi, Szent-Ivány Ügyvédi Iroda tagja."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Szakterülete: a kereskedelmi jog, a társasági jog, a versenyjog és az ingatlanjog. Anyanyelvi szinten beszél németül és folyékonyan angolul."
+        }
+      ]
+    }
+  ],
+  "showArtwork": false
+}

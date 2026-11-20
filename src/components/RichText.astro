@@ -1,0 +1,40 @@
+---
+import type { Block } from '../content/schema';
+import InlineText from './InlineText.astro';
+interface Props {
+  body: Block[];
+  headingLevel?: 2 | 3;
+}
+const { body, headingLevel = 2 } = Astro.props;
+const Heading = headingLevel === 2 ? 'h2' : 'h3';
+---
+
+<div class="rich-text">
+  {body.map((block) =>
+    block.type === 'paragraph' ? (
+      <p>
+        <InlineText content={block.content} />
+      </p>
+    ) : block.type === 'heading' ? (
+      <Heading>
+        <InlineText content={block.content} />
+      </Heading>
+    ) : block.ordered ? (
+      <ol>
+        {block.items.map((item) => (
+          <li>
+            <InlineText content={item} />
+          </li>
+        ))}
+      </ol>
+    ) : (
+      <ul>
+        {block.items.map((item) => (
+          <li>
+            <InlineText content={item} />
+          </li>
+        ))}
+      </ul>
+    ),
+  )}
+</div>

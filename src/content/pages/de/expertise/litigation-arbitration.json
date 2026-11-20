@@ -1,0 +1,39 @@
+{
+  "path": "/de/expertise/litigation-arbitration/",
+  "lang": "de",
+  "kind": "practice",
+  "title": "Prozessführung und Schiedsverfahren",
+  "seoTitle": "Prozessführung und Schiedsverfahren – Rechtsanwälte in Budapest",
+  "description": "Vertretung in zivil- und wirtschaftsrechtlichen Streitigkeiten vor ungarischen Gerichten sowie nationalen und internationalen Schiedsgerichten.",
+  "alternates": {
+    "de": "/de/expertise/litigation-arbitration/",
+    "en": "/en/expertise/litigation-arbitration/",
+    "hu": "/expertise/litigation-arbitration/"
+  },
+  "intro": "Vertretung in zivil- und wirtschaftsrechtlichen Streitigkeiten vor ungarischen Gerichten sowie nationalen und internationalen Schiedsgerichten.",
+  "services": [
+    "Zivil- und wirtschaftsrechtliche Prozesse",
+    "Nationale und internationale Schiedsverfahren",
+    "Verhandlungslösungen bei Streitigkeiten"
+  ],
+  "relatedPeople": ["/de/people/daniel-kurcz/"],
+  "order": 3,
+  "body": [
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Laufend vertreten wir unsere Mandanten in zivilrechtlichen Gerichtsverfahren, außergerichtlichen Verfahren vor heimischen und internationalen ordentlichen und Schiedsgerichten (z.B. ICC). In den letzten Jahren gingen wir öfters auch in zahlreichen Fällen vor dem Europäischen Gerichtshof für Menschenrechte vor. Wir sind stolz darauf, dass wir durch unsere Prozesse von großer Tragweite und Publizität auch an der Gestaltung und Änderung der ungarischen Gerichtspraxis auf dem Gebiet der Schadenverursachung durch Gesetzgebungstätigkeit des Staates mitwirken konnten."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Gleichzeitig wissen und vertreten wir, dass im Wirtschaftsrecht oft nicht der Gerichtsweg die beste Lösung für unsere Mandanten ist. Aus diesem Grund sind wir immer bestrebt, die Streitigkeiten unserer Mandanten in erster Linie auf dem Wege von Verhandlungen beizulegen."
+        }
+      ]
+    }
+  ]
+}

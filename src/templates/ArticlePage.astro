@@ -1,0 +1,32 @@
+---
+import type { PageOf } from '../content/schema';
+import { copy, routes, formatDate } from '../lib/content';
+import Artwork from '../components/Artwork.astro';
+import RichText from '../components/RichText.astro';
+interface Props {
+  page: PageOf<'article'>;
+}
+const { page } = Astro.props;
+const c = copy[page.lang];
+---
+
+<div class="breadcrumb">
+  <a href={routes[page.lang].news}>{c.allnews}</a>
+</div>
+<article>
+  <header class="article-heading">
+    <h1>{page.title}</h1>
+    <time datetime={page.published}>
+      {formatDate(page.published, page.lang)}
+    </time>
+  </header>
+  <Artwork lang={page.lang} variant="article-art" lazy={false} />
+  <div class="reading-layout">
+    <aside>
+      <a href={routes[page.lang].contact}>{c.contact}</a>
+    </aside>
+    <div class="article-body">
+      <RichText body={page.body} />
+    </div>
+  </div>
+</article>

@@ -1,0 +1,31 @@
+{
+  "path": "/de/expertise/employment/",
+  "lang": "de",
+  "kind": "practice",
+  "title": "Arbeitsrecht",
+  "seoTitle": "Arbeitsrecht – Rechtsanwälte in Budapest",
+  "description": "Beratung von Arbeitgebern bei Beschäftigungsfragen, der Beendigung von Arbeitsverhältnissen und arbeitsrechtlichen Streitigkeiten.",
+  "alternates": {
+    "de": "/de/expertise/employment/",
+    "en": "/en/expertise/employment/",
+    "hu": "/expertise/employment/"
+  },
+  "intro": "Beratung von Arbeitgebern bei Beschäftigungsfragen, der Beendigung von Arbeitsverhältnissen und arbeitsrechtlichen Streitigkeiten.",
+  "services": [
+    "Beschäftigungsfragen und Beendigung von Arbeitsverhältnissen",
+    "Betriebliche Regelungen und Kollektivverträge",
+    "Vertretung in arbeitsrechtlichen Streitigkeiten"
+  ],
+  "relatedPeople": [],
+  "order": 4,
+  "body": [
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Wir beraten auch in arbeitsrechtlichen Belangen unsere Mandanten, meistens auf der Seite des Arbeitgebers, in einfachen Sachen der Errichtung und Beendigung von Arbeitsverhältnissen, bis zu arbeitsrechtlichen Satzungen und Kollektivverträgen."
+        }
+      ]
+    }
+  ]
+}

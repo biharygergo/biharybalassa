@@ -1,0 +1,27 @@
+{
+  "path": "/people/laszlone-szabo/",
+  "lang": "hu",
+  "kind": "profile",
+  "title": "Szabó Lászlóné",
+  "seoTitle": "Szabó Lászlóné – Pénzügyi igazgató",
+  "description": "Szabó Lászlóné. Pénzügyi igazgató. Szakmai háttér és elérhetőség a Bihary Balassa budapesti ügyvédi irodánál.",
+  "alternates": {
+    "de": "/de/people/laszlone-szabo/",
+    "en": "/en/people/laszlone-szabo/",
+    "hu": "/people/laszlone-szabo/"
+  },
+  "role": "Pénzügyi igazgató",
+  "group": "colleagues",
+  "image": "/images/people/laszlone-szabo.webp",
+  "body": [
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Pénzügyi igazgató"
+        }
+      ]
+    }
+  ],
+  "showArtwork": false
+}

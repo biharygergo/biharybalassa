@@ -1,0 +1,40 @@
+{
+  "path": "/en/news/transaction-completed/",
+  "lang": "en",
+  "kind": "article",
+  "title": "We have successfully closed the transaction!",
+  "seoTitle": "We have successfully closed the transaction!",
+  "description": "On 30 May 2014 successfully closed one of the biggest M&A transactions of the year, the acquisition of the shares of Antenna Hungária Zrt. by the Hungarian State. Our…",
+  "alternates": {
+    "hu": "/news/transaction-completed/",
+    "de": "/de/news/transaction-completed/",
+    "en": "/en/news/transaction-completed/"
+  },
+  "published": "2014-05-30",
+  "body": [
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "On 30 May 2014 successfully closed one of the biggest M&A transactions of the year, the acquisition of the shares of Antenna Hungária Zrt. by the Hungarian State."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Our firm represented the buyer in a transaction of the value of approx. HUF 56 billion (approx. EUR 170 million)."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Due to the tight deadlines and the enormous amount of documents that needed to be processed, we involved an external advisory team in the preparation of the comprehensive legal due diligence of the target company group. The negotiations over the transaction documents were conducted by dr. Ágnes Balassa in effective cooperation with dr. Dániel Orosz against the seller Telediffusion de France S.A. (TDF) and against the investor groups."
+        }
+      ]
+    }
+  ]
+}

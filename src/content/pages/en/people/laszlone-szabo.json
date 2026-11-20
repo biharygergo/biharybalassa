@@ -1,0 +1,27 @@
+{
+  "path": "/en/people/laszlone-szabo/",
+  "lang": "en",
+  "kind": "profile",
+  "title": "Lászlóné Szabó",
+  "seoTitle": "Lászlóné Szabó – Finance director",
+  "description": "Lászlóné Szabó. Finance director. Professional background and contact information at Bihary Balassa in Budapest.",
+  "alternates": {
+    "de": "/de/people/laszlone-szabo/",
+    "en": "/en/people/laszlone-szabo/",
+    "hu": "/people/laszlone-szabo/"
+  },
+  "role": "Financial Director",
+  "group": "colleagues",
+  "image": "/images/people/laszlone-szabo.webp",
+  "body": [
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Financial Director"
+        }
+      ]
+    }
+  ],
+  "showArtwork": false
+}

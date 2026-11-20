@@ -1,0 +1,35 @@
+{
+  "path": "/de/people/agnes-balassa/",
+  "lang": "de",
+  "kind": "profile",
+  "title": "Dr. Ágnes Balassa",
+  "seoTitle": "Dr. Ágnes Balassa – Gründungspartnerin, Rechtsanwältin",
+  "description": "Dr. Ágnes Balassa. Gründungspartnerin, Rechtsanwältin. Beruflicher Hintergrund und Kontakt bei Bihary Balassa in Budapest.",
+  "alternates": {
+    "de": "/de/people/agnes-balassa/",
+    "en": "/en/people/agnes-balassa/",
+    "hu": "/people/agnes-balassa/"
+  },
+  "role": "Gründungspartnerin, Rechtsanwältin",
+  "group": "partners",
+  "image": "/images/people/agnes-balassa.webp",
+  "body": [
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Partner, Gründermitglied der Kanzlei, Rechtsanwältin. 1992 Doktorat an der Fakultät für Rechtswissenschaften der Universität Eötvös Lorándt Budapest. Nach Universitätsabschluß eingetreten in die Rechtsanwaltskanzlei Eörsi & Partner. 1999 Rechtsanwaltsprüfung. Zwischen 1999-2002 Mitglied der Rechtsanwaltskanzlei Sándor, Bihary, Szegedi, Szent-Ivány."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Fachgebiete: Handelsrecht, Gesellschaftsrecht, Projektfinanzierung, Immobilienrecht. Spricht Deutsch wie ihre Muttersprache, Englisch fließend."
+        }
+      ]
+    }
+  ],
+  "showArtwork": false
+}

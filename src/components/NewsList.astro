@@ -1,0 +1,31 @@
+---
+import type { PageOf, Language } from '../content/schema';
+import { copy, routes, formatDate } from '../lib/content';
+interface Props {
+  articles: PageOf<'article'>[];
+  lang: Language;
+}
+const { articles, lang } = Astro.props;
+const c = copy[lang];
+---
+
+<section class="section home-news">
+  <div class="section-head">
+    <div>
+      <h2>{c.news}</h2>
+      <a class="text-link" href={routes[lang].news}>
+        {c.allnews}
+      </a>
+    </div>
+    <div>
+      {articles.slice(0, 3).map((article) => (
+        <a class="news-row" href={article.path}>
+          <time datetime={article.published}>
+            {formatDate(article.published, lang)}
+          </time>
+          <h3>{article.title}</h3>
+        </a>
+      ))}
+    </div>
+  </div>
+</section>

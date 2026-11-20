@@ -1,0 +1,31 @@
+{
+  "path": "/en/expertise/competition/",
+  "lang": "en",
+  "kind": "practice",
+  "title": "Competition",
+  "seoTitle": "Competition lawyers in Budapest",
+  "description": "Competition law advice and representation in Hungarian and EU matters, including merger control and cartel proceedings, from our Budapest office.",
+  "alternates": {
+    "de": "/de/expertise/competition/",
+    "en": "/en/expertise/competition/",
+    "hu": "/expertise/competition/"
+  },
+  "intro": "Competition law advice and representation in Hungarian and EU matters, including merger control and cartel proceedings, from our Budapest office.",
+  "services": [
+    "Merger control in acquisition transactions",
+    "Hungarian and EU competition matters",
+    "Representation in cartel proceedings before authorities and courts"
+  ],
+  "relatedPeople": ["/en/people/tibor-bihary/", "/en/people/agnes-balassa/"],
+  "order": 5,
+  "body": [
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "We have wide-ranging experience in the field of both Hungarian and EU competition law, and represent our clients in the merger control application process with the relevant Competition Authority, we assist in cartel proceedings in front of the Competition Authority and the courts."
+        }
+      ]
+    }
+  ]
+}

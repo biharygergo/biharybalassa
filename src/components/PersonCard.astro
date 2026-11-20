@@ -1,0 +1,26 @@
+---
+import type { PageOf } from '../content/schema';
+import { copy } from '../lib/content';
+interface Props {
+  person: PageOf<'profile'>;
+}
+const { person } = Astro.props;
+---
+
+<article class="person-card">
+  <a class="portrait-link" href={person.path}>
+    <img
+      src={person.image}
+      alt=""
+      width="680"
+      height="450"
+      loading="lazy"
+      decoding="async"
+    />
+    <h3>{person.title}</h3>
+  </a>
+  <p class="role">{person.role}</p>
+  <a class="text-link" href={person.path}>
+    {copy[person.lang].profile}
+  </a>
+</article>

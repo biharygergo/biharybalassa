@@ -1,0 +1,35 @@
+{
+  "path": "/",
+  "lang": "hu",
+  "kind": "home",
+  "title": "Gazdasági jog. Budapesten.",
+  "seoTitle": "Ügyvédi iroda Budapest – gazdasági jog",
+  "description": "Budapesti ügyvédi iroda 2002 óta. Társasági jog, vállalatfelvásárlás, ingatlanjog, finanszírozás, munkajog és versenyjog. Magyar, angol és német nyelven.",
+  "alternates": {
+    "hu": "/",
+    "de": "/de/",
+    "en": "/en/"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Budapest · Gazdasági jog",
+      "heading": ["Gazdasági jog.", "Budapesten."],
+      "intro": "2002 óta nyújtunk jogi tanácsadást és képviseletet magyar és külföldi vállalatoknak.",
+      "languageNote": "Magyar, angol és német nyelven dolgozunk."
+    },
+    "about": {
+      "title": "Irodánk",
+      "text": "A Bihary Balassa Ügyvédi Irodát 2002-ben alapítottuk. Társasági ügyekkel, vállalatfelvásárlásokkal, finanszírozással, ingatlanügyletekkel és jogvitákkal foglalkozunk.",
+      "linkLabel": "Részletesen az irodáról"
+    },
+    "founders": {
+      "title": "Az alapítók",
+      "paths": ["/people/tibor-bihary/", "/people/agnes-balassa/"],
+      "linkLabel": "Teljes csapat"
+    },
+    "art": {
+      "title": "Bihary Tibor festményei",
+      "text": "A honlapon Bihary Tibor, az iroda egyik alapító partnerének festményei láthatók."
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "path": "/people/tibor-bihary/",
+  "lang": "hu",
+  "kind": "profile",
+  "title": "Dr. Bihary Tibor",
+  "seoTitle": "Dr. Bihary Tibor – Alapító partner, ügyvéd",
+  "description": "Dr. Bihary Tibor. Alapító partner, ügyvéd. Szakmai háttér és elérhetőség a Bihary Balassa budapesti ügyvédi irodánál.",
+  "alternates": {
+    "de": "/de/people/tibor-bihary/",
+    "en": "/en/people/tibor-bihary/",
+    "hu": "/people/tibor-bihary/"
+  },
+  "role": "Alapító partner, ügyvéd",
+  "group": "partners",
+  "image": "/images/people/tibor-bihary.webp",
+  "body": [
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Az iroda alapító tagja, az iroda vezetője, ügyvéd. 1983-ban szerzett diplomát a budapesti Eötvös Loránd Tudományegyetem Állam- és Jogtudományi Karán. 1982-ben Strasbourgban képesítést nyert összehasonlító jogból, 1986-ban jogtanácsosi szakvizsgát tett, 1987-ben külkereskedelmi szakjogász, 2003-ban Európai Uniós szakjogász posztgraduális képesítést szerzett."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Miután hat éven keresztül a KOMPLEX Magyar Külkereskedelmi Vállalat jogi előadója, majd jogtanácsosa volt, 1989-ben társult az Eörsi & Társai Ügyvédi Irodához, amelynek 1991-től 1994-ig vezetője, 1999-től 2002-ig a Sándor, Bihary, Szegedi, Szent-Ivány Ügyvédi Iroda partnere, alapító tagja."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "1993-tól 2015-ig a Magyar Versenyjogi Egyesület főtitkára."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Speciális szakterületeihez tartozik a versenyjog, az EU-jog, az uniós támogatások joga, kereskedelmi és projekt-szerződések, a társasági jog, a közbeszerzés, az ingatlanjog, a projektfinanszírozás és a termékfelelősség. Kiemelkedő német, folyékony francia és angol nyelvtudással rendelkezik."
+        }
+      ]
+    }
+  ],
+  "showArtwork": true
+}

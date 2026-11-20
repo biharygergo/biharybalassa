@@ -1,0 +1,43 @@
+{
+  "path": "/de/expertise/corporate-ma/",
+  "lang": "de",
+  "kind": "practice",
+  "title": "Gesellschaftsrecht und M&A",
+  "seoTitle": "Gesellschaftsrecht und M&A – Rechtsanwälte in Budapest",
+  "description": "Rechtliche Begleitung von Gesellschaftsgründungen, Umstrukturierungen und Unternehmenskäufen für ungarische und internationale Unternehmen.",
+  "alternates": {
+    "de": "/de/expertise/corporate-ma/",
+    "en": "/en/expertise/corporate-ma/",
+    "hu": "/expertise/corporate-ma/"
+  },
+  "intro": "Rechtliche Begleitung von Gesellschaftsgründungen, Umstrukturierungen und Unternehmenskäufen für ungarische und internationale Unternehmen.",
+  "services": [
+    "Gesellschaftsgründungen und laufende gesellschaftsrechtliche Fragen",
+    "Verschmelzungen, Spaltungen und Umstrukturierungen",
+    "Due Diligence, Transaktionsverträge und Verhandlungen"
+  ],
+  "relatedPeople": [
+    "/de/people/daniel-kurcz/",
+    "/de/people/tibor-bihary/",
+    "/de/people/agnes-balassa/"
+  ],
+  "order": 0,
+  "body": [
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Einer der Schwerpunkte unserer Rechtsanwaltskanzlei ist das Gebiet der Unternehmenskäufe, die M&A Geschäfte. In den Transaktionen übernehmen wir nicht nur die Aufgaben der rechtlichen Due Diligence Prüfung, die Ausarbeitung und Verhandlung der Transaktionsverträge, aber wir versuchen auch intensiv das Projekt als Ganzes im Interesse unserer Mandanten zu betreuen."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Fast ausnahmslos alle unserer Mandanten benötigen Beratung in Sachen Gesellschaftsrecht, Firmenrecht, angefangen bei Gesellschaftsgründungen bis zu den komplizierteren gesellschaftsrechtlichen Umstrukturierungen (Spaltungen, Zusammenschlüsse), in denen unser Team große Erfahrung hat."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "path": "/en/expertise/employment/",
+  "lang": "en",
+  "kind": "practice",
+  "title": "Employment",
+  "seoTitle": "Employment lawyers in Budapest",
+  "description": "Advice for employers on employment relationships, termination and workplace disputes.",
+  "alternates": {
+    "de": "/de/expertise/employment/",
+    "en": "/en/expertise/employment/",
+    "hu": "/expertise/employment/"
+  },
+  "intro": "Advice for employers on employment relationships, termination and workplace disputes.",
+  "services": [
+    "Employment and termination matters",
+    "Workplace policies and collective agreements",
+    "Representation in employment disputes"
+  ],
+  "relatedPeople": [],
+  "order": 4,
+  "body": [
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "We frequently advise our clients in the field of labour law (mostly on the employer’s side), we handle questions arising from the termination of employment and work contracts, we assist in labour regulatory work, provide legal counsel in collective contracts and we act in legal disputes in the field of labour law."
+        }
+      ]
+    }
+  ]
+}

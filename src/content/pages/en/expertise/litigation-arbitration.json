@@ -1,0 +1,31 @@
+{
+  "path": "/en/expertise/litigation-arbitration/",
+  "lang": "en",
+  "kind": "practice",
+  "title": "Litigation and arbitration",
+  "seoTitle": "Litigation and arbitration lawyers in Budapest",
+  "description": "Representation in civil and commercial disputes before Hungarian courts and domestic and international arbitration tribunals.",
+  "alternates": {
+    "de": "/de/expertise/litigation-arbitration/",
+    "en": "/en/expertise/litigation-arbitration/",
+    "hu": "/expertise/litigation-arbitration/"
+  },
+  "intro": "Representation in civil and commercial disputes before Hungarian courts and domestic and international arbitration tribunals.",
+  "services": [
+    "Civil and commercial litigation",
+    "Domestic and international arbitration",
+    "Negotiated dispute resolution"
+  ],
+  "relatedPeople": ["/en/people/daniel-kurcz/"],
+  "order": 3,
+  "body": [
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Our dispute resolution experience is wide-ranging; we regularly represent our clients before international arbitration courts as well as domestic courts. We have experience at all levels of the Hungarian judicial system, up to the Supreme Court. Through our international partnerships (TELFA), we are also able to assist in representation before foreign courts. We do, however also understand that litigation or arbitration are often not the best way to resolve a dispute between sophisticated commercial entities. We regard the courts as a last resort and aim to resolve our clients’ commercial disputes via negotiation or mediation whenever possible and appropriate."
+        }
+      ]
+    }
+  ]
+}

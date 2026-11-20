@@ -1,0 +1,479 @@
+{
+  "path": "/en/news/coronavirus-force-majeure/",
+  "lang": "en",
+  "kind": "article",
+  "title": "Coronavirus pandemic – Summary on the arising civil law issues, vis maior",
+  "seoTitle": "Coronavirus pandemic – Summary on the arising civil law issues, vis maior",
+  "description": "In the followings we summarize the fundamental legal aspects of the present and potential future effects of the COVID-19 pandemic in the contractual relations. It should…",
+  "alternates": {
+    "hu": "/news/coronavirus-force-majeure/",
+    "en": "/en/news/coronavirus-force-majeure/"
+  },
+  "published": "2020-06-01",
+  "body": [
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Dear Clients,"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "In the followings we summarize the fundamental legal aspects of the present and potential future effects of the COVID-19 pandemic in the contractual relations. It should be expected, and can already be experienced that situations arise in contractual relations where one of the parties is willing to be relieved of the performance of his contractual obligation or of the consequences of non-performance with reference to a limitation/impediment in the production, sales or services chain caused by the pandemic. We can see that the measures already implemented by the Hungarian Government, like entry restrictions and curfews, can affect the performance of the contracts in a wide range of sectors."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "What are the answers of Hungarian civil law for such situations? What and when can one party as obligor refer to and what should the other party as customer pay attention to, when the business partner is unwilling to or cannot perform its obligations by referring to the pandemic?"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "text": "The fundamentals:",
+          "strong": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "One of the general principles of the Hungarian civil law is that contracts must be performed and being relieved of a contractual obligation is possible only in exceptional cases. In general, the contracting parties must bear the business risks of their activities, therefore the risks stemming from the ever-changing external circumstances as well."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Foreign legislations usually stand on similar grounds, however the detailed rules are different. In case of contracts, where one of the contracting parties is a foreign entity and for this reason the applicable law is also the laws of a foreign nation, the main preliminary question is determining which state’s legal order is applicable for the settlement of the legal question."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "The Hungarian civil law provides solutions within the rules of "
+        },
+        {
+          "text": "non-performance",
+          "strong": true
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "force majeure ",
+          "strong": true,
+          "emphasis": true
+        },
+        {
+          "text": "("
+        },
+        {
+          "text": "vis maior",
+          "emphasis": true
+        },
+        {
+          "text": ") and "
+        },
+        {
+          "text": "nullification of the contract ",
+          "strong": true
+        },
+        {
+          "text": "for questions arising from the obstruction caused by the pandemic situation. We hereby summarize these issues briefly."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "text": "Non-performance:",
+          "strong": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "The typical cases of non-performance can be the failure or significant delay of the performance or possibly the non-appropriate performance, which usually arises as a qualitative or quantitative default."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "The consequences of non-performance are often regulated explicitly by the given contract between the parties, e.g. the contract itself stipulates a contractual penalty or limits the liability of the defaulting party, it fixes the maximum amount of the damages. Therefore, first of all, it is recommended to examine the contractual terms and conditions in order to see within what special contractual frames shall such situation be treated."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "If there is a lack of an explicit, individual contractual regulation, the provisions of the Civil Code shall be applied. The fundamental rule in this case is that the party who causes damage to the other party by breaching the contract shall be liable for such damage. The said party shall be relieved of liability if it is able to prove that the damage occurred"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "in consequence of unforeseen circumstances;"
+          }
+        ],
+        [
+          {
+            "text": "which are beyond his control, and"
+          }
+        ],
+        [
+          {
+            "text": "there had been no reasonable cause to take action for preventing or mitigating the damage."
+          }
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "These conditions must be applied jointly and if one of the parties refers to the relief of liability, these three circumstances must be examined individually by the parties, on a case-by-case basis. The court acts the same way too, when assessing individually whether the legal requirements of the exemption are present. In the event of the lack of any of the above requirements, the relief of liability is going to be unsuccessful."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Under the expression "
+        },
+        {
+          "text": "circumstance beyond his control",
+          "emphasis": true
+        },
+        {
+          "text": ", the civil law means such a circumstance which cannot be affected by the defaulting party and which the party is not able to influence. These circumstances cannot be listed one by one, but the case-law considers some cases (see detailed in the next section) of "
+        },
+        {
+          "text": "force majeure ",
+          "emphasis": true
+        },
+        {
+          "text": "(irresistible force of natural or human origin) to be typical case sets of it."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "At the time of such a global pandemic, a party can obviously refer to the excuse of foreseeability successfully, if the parties had entered into a contract before the COVID-19 virus appeared and spread globally and e.g. any kind of border-closing, quarantine or other governmental measure hindered or caused delay in the product procurement or the international transportation. However, the situation is not so straightforward when the contract was made after the occurrence of the virus and the quarantines. In this case it is expected from the parties to assess whether they are able to fulfil their undertakings or not. The "
+        },
+        {
+          "text": "duty of care of the mitigation of the hindering circumstance or the damage ",
+          "emphasis": true
+        },
+        {
+          "text": "has to be assessed at the time of the non-performance (and not at the time of the contracting) and also on a case-by-case basis. The reasonable conduct of the defaulting party has to be assessed differently, when the obligor is not able to supply the product to the addressee because of an official border-closing or quarantine, than when some employees of the obligor fall out from the production due to the pandemic situation. In the latter case there is a possibility (e.g. by using external capacities) to prevent the critical circumstance or to mitigate the damage."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "text": "Force majeure (vis maior):",
+          "strong": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "The expression "
+        },
+        {
+          "text": "force majeure ",
+          "emphasis": true
+        },
+        {
+          "text": "is often used in the everyday language, however, the Hungarian Civil Code does not regulate it specifically. Nevertheless, the contractual and the court practice recognises force majeure and considers it as one of the sets of the facts beyond the contracting parties’ control. Traditionally, the case-law classifies natural disasters, earthquakes, conflagrations, drought, damage of frost, flooding, wind storm and last but not least the "
+        },
+        {
+          "text": "pandemics ",
+          "emphasis": true
+        },
+        {
+          "text": "or political-social events of human origin such as war, revolution, insurgency, sabotage, closing of a transport route (airport) or governmental measures, such as import-export bans, foreign currency restrictions, embargo, boycott, etc. as "
+        },
+        {
+          "text": "force majeure",
+          "emphasis": true
+        },
+        {
+          "text": ". The case-law does not classify the organizational or other disturbances in the party's own operating system, the conduct of the party’s employees, the difficulties of the market acquisition and similar cases to be "
+        },
+        {
+          "text": "force majeure",
+          "emphasis": true
+        },
+        {
+          "text": ". "
+        },
+        {
+          "text": "Force majeure ",
+          "emphasis": true
+        },
+        {
+          "text": "cases are examined by the court by assessing every specific circumstance of the case and even if a party seeks to relieve himself of the legal consequences of a non-performance by making such a reference, it is not certain that the court will also classify the particular case as a case of "
+        },
+        {
+          "text": "force majeure",
+          "emphasis": true
+        },
+        {
+          "text": ". It can happen that in the given case the external circumstances undoubtedly make it harder to perform, but do not nullify performance in such an amount that is may be considered as "
+        },
+        {
+          "text": "force majeure",
+          "emphasis": true
+        },
+        {
+          "text": ". For example, difficulties during the acquisition of raw material - even because of the pandemic - do not necessarily mean "
+        },
+        {
+          "text": "force majeure",
+          "emphasis": true
+        },
+        {
+          "text": ". It can become a reason beyond control when the raw material or the product completely disappears from the market. In recent years the case-law established in the so-called foreign exchange credit lawsuits, the court did not consider the economic crisis as "
+        },
+        {
+          "text": "force majeure",
+          "emphasis": true
+        },
+        {
+          "text": ". Thus, according to relevant case-law, such circumstances make it indisputably difficult but not impossible to fulfil the foreign currency-based loan agreements. The question is how the future case-law on the COVID-19 pandemic will deem such issues."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Pandemics are traditionally considered to be part of "
+        },
+        {
+          "text": "force majeure ",
+          "emphasis": true
+        },
+        {
+          "text": "case sets, but it cannot be stated with full certainty that in the current situation every reference to "
+        },
+        {
+          "text": "force majeure ",
+          "emphasis": true
+        },
+        {
+          "text": "- whether on the part of customers or suppliers will/would be justified. The reference to the pandemic is certainly not enough in itself, and the party referring to it must also prove that any of the consequences of the pandemic, e.g. any governmental reaction (curfew, ban on holding events, etc.) clearly hindered the performance to such an extent and in such an unavoidable way that it caused the non-performance or the nullification of the performance."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "text": "Nullification:",
+          "strong": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Nullification is an extreme case of "
+        },
+        {
+          "text": "force majeure",
+          "emphasis": true
+        },
+        {
+          "text": ", when the party is unable to perform despite all of his efforts. The Hungarian Civil Code – as opposed to the case of "
+        },
+        {
+          "text": "force majeure ",
+          "emphasis": true
+        },
+        {
+          "text": "– regulates the institution of nullification explicitly and as a legal consequence, it stipulates the termination of the contract. At the same time, it obliges the party who has awareness of the nullification to notify the other party about the nullification without delay."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "As the termination of the contract is a serious legal consequence, the declaration of the occurrence of the nullification requires a thorough assessment of every circumstance of the case. It is obviously easier to declare the nullification in the case of an explicit, one-time contract (e.g. the contract cannot be fulfilled because of a travel ban), than in the case of a permanent legal relationship (e.g. in the event of a supply frame-contract even a few weeks of quarantine does not cause termination)."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "If nullification is declared and it cannot be attributed to either party, the monetary value of the services provided before the time when the contract was terminated shall be compensated, and if the other party did not compensate the monetary consideration provided for services already performed, the money shall be refunded."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "text": "Interventions by the state/government:",
+          "strong": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "The above tried to summarize the fundamentals of the standard civil law approach. However, it should be noted that as the pandemic evolves, government measures - which may intervene into civil law contractual relations - may increasingly affect the legal consequences of non-performances. Therefore, when judging a specific case, in addition to the terms and conditions of the contract between the parties and the outlined civil law provisions, it is also necessary to examine, whether and if so, what kind of government measure regulates the specified sector or type of contract."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "What can be done in the current situation?",
+          "strong": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "To handle the effects and consequences of the pandemic, to avoid or/and reduce the risk as much as possible,"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "it is important to map the company’s contracts with a view on whether the consequences of the pandemic affect the performance and if so, to what extent;"
+          }
+        ],
+        [
+          {
+            "text": "if there is an “affected” contract at the company, it is recommended to examine the legal possibilities provided by the terms and conditions of the contract for such critical situations; whether there is a "
+          },
+          {
+            "text": "force majeure ",
+            "emphasis": true
+          },
+          {
+            "text": "clause in it, and if so, what does it contain; and what kind of dispute settlement clauses are contained in it;"
+          }
+        ],
+        [
+          {
+            "text": "if the company is unable to perform and such failure to perform is considered as "
+          },
+          {
+            "text": "force majeure ",
+            "emphasis": true
+          },
+          {
+            "text": "and the contract or the governing law stipulates a duty of notification, notification has to be done without delay, since by breaching the duty of notification we may cause further damages, which will have to be remedied;"
+          }
+        ],
+        [
+          {
+            "text": "the aggrieved party shall be subject to the mitigation of damages, therefore if we realize that the non-performance of the other party causes damage to our company unavoidably, we have to act against it in time and in a proper manner (e.g. by asking for offers from alternative suppliers) and the mitigation measures shall be documented properly for a possible future dispute;"
+          }
+        ],
+        [
+          {
+            "text": "it shall be considered that a different approach is necessary for supplier and customer positions, while"
+          }
+        ],
+        [
+          {
+            "text": "different approaches and procedures may be necessary for contracts under Hungarian law and under other foreign laws; in the latter case it is recommended to involve a foreign legal adviser as well;"
+          }
+        ],
+        [
+          {
+            "text": "the contracting parties shall be subject to cooperation obligation, so in order to avoid potential disputes in the future, it is important to consult with the contracting partners in time and to make efforts in order to agree an amendment of the contract."
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "text": "Limitations:",
+          "strong": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Since the present pandemic situation has brought a – so far – unprecedented and unforeseen situation for the whole society, legislation and application of law, please always be aware, that in several questions and cases there is no elaborated case law, so that it is unsure how courts will adjudicate the present situation."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "With regard to the pandemic situation, it is expected that the government and legislation will react soon, thus in order to make lawful decisions, it is essential to be up to date with and aware of the changes in the legislation."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "As the present pandemic situation can be handled in the terms of civil law in several ways, therefore, in the event of each measure, the underlying circumstances of the individual contract require thorough examination and consideration."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "The above summary serves only information purposes and does not constitute legal advice in a particular case."
+        }
+      ]
+    }
+  ]
+}

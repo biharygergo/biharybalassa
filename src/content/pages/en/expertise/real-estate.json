@@ -1,0 +1,35 @@
+{
+  "path": "/en/expertise/real-estate/",
+  "lang": "en",
+  "kind": "practice",
+  "title": "Real estate",
+  "seoTitle": "Real estate lawyers in Budapest",
+  "description": "Legal support for property developers, asset managers and property holding companies.",
+  "alternates": {
+    "de": "/de/expertise/real-estate/",
+    "en": "/en/expertise/real-estate/",
+    "hu": "/expertise/real-estate/"
+  },
+  "intro": "Legal support for property developers, asset managers and property holding companies.",
+  "services": [
+    "Due diligence and structuring of property transactions",
+    "Development and construction agreements",
+    "Leases and property management"
+  ],
+  "relatedPeople": [
+    "/en/people/daniel-kurcz/",
+    "/en/people/tibor-bihary/",
+    "/en/people/agnes-balassa/"
+  ],
+  "order": 2,
+  "body": [
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "We advise property developers, asset managers and property holding companies. Our work covers property finance and legal matters arising in development, transactions and day-to-day property operations. Our experience includes both international property portfolios and the ongoing needs of smaller development companies."
+        }
+      ]
+    }
+  ]
+}

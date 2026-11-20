@@ -1,0 +1,89 @@
+{
+  "path": "/en/careers/",
+  "lang": "en",
+  "kind": "page",
+  "title": "Career",
+  "seoTitle": "Legal careers in Budapest",
+  "description": "Previously published career and application information from Bihary Balassa Attorneys at Law in Budapest.",
+  "alternates": {
+    "hu": "/careers/",
+    "de": "/de/careers/",
+    "en": "/en/careers/"
+  },
+  "body": [
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "We welcome applications from trainee lawyers interested in commercial law and working with Hungarian and international clients in our Budapest office."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "text": "What we offer"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Professional training throughout the traineeship"
+          }
+        ],
+        [
+          {
+            "text": "Work with experienced colleagues"
+          }
+        ],
+        [
+          {
+            "text": "Long-term professional development"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "text": "Requirements"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "A working command of English or German"
+          }
+        ],
+        [
+          {
+            "text": "Independent thinking and careful work"
+          }
+        ],
+        [
+          {
+            "text": "An interest in commercial law"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Please send your CV to agnes.balassa@biharybalassa.hu. Applications are treated confidentially."
+        }
+      ]
+    }
+  ]
+}

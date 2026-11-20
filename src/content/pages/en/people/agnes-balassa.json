@@ -1,0 +1,35 @@
+{
+  "path": "/en/people/agnes-balassa/",
+  "lang": "en",
+  "kind": "profile",
+  "title": "Dr. Ágnes Balassa",
+  "seoTitle": "Dr. Ágnes Balassa – Founding partner, attorney at law",
+  "description": "Dr. Ágnes Balassa. Founding partner, attorney at law. Professional background and contact information at Bihary Balassa in Budapest.",
+  "alternates": {
+    "de": "/de/people/agnes-balassa/",
+    "en": "/en/people/agnes-balassa/",
+    "hu": "/people/agnes-balassa/"
+  },
+  "role": "Founding partner, attorney at law",
+  "group": "partners",
+  "image": "/images/people/agnes-balassa.webp",
+  "body": [
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Partner, founding member, attorney at law. Graduated from Eötvös Loránd University Budapest in 1992. Worked for Eörsi & Partners Attorneys at Law between 1992-1999. Bar Examination in 1999. Partner of Sándor, Bihary, Szegedi, Szent-Ivány Attorneys at Law between 1999 and 2002."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Specialized fields: corporate and commercial law, project finance and real property law. Near-native German, fluent English."
+        }
+      ]
+    }
+  ],
+  "showArtwork": false
+}

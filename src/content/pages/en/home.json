@@ -1,0 +1,35 @@
+{
+  "path": "/en/",
+  "lang": "en",
+  "kind": "home",
+  "title": "Business law. In Budapest.",
+  "seoTitle": "Business law firm in Budapest",
+  "description": "Bihary Balassa advises Hungarian and international businesses on corporate law, M&A, finance, property, employment and competition law in Budapest.",
+  "alternates": {
+    "hu": "/",
+    "de": "/de/",
+    "en": "/en/"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Budapest · Business law",
+      "heading": ["Business law.", "In Budapest."],
+      "intro": "We have advised and represented Hungarian and international businesses since 2002.",
+      "languageNote": "We work in Hungarian, English and German."
+    },
+    "about": {
+      "title": "Our firm",
+      "text": "Bihary Balassa was founded in 2002. We work on corporate matters, acquisitions, financing, property transactions and disputes.",
+      "linkLabel": "More about the firm"
+    },
+    "founders": {
+      "title": "The founders",
+      "paths": ["/en/people/tibor-bihary/", "/en/people/agnes-balassa/"],
+      "linkLabel": "Meet the full team"
+    },
+    "art": {
+      "title": "Paintings by Tibor Bihary",
+      "text": "The paintings on this website are by Tibor Bihary, one of the firm’s founding partners."
+    }
+  }
+}

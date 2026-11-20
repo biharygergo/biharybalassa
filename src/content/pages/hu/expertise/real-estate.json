@@ -1,0 +1,35 @@
+{
+  "path": "/expertise/real-estate/",
+  "lang": "hu",
+  "kind": "practice",
+  "title": "Ingatlanjog",
+  "seoTitle": "Ingatlanjog – ügyvédi iroda Budapest",
+  "description": "Ingatlanfejlesztők, ingatlankezelők és ingatlantulajdonos vállalatok ügyleteinek jogi támogatása.",
+  "alternates": {
+    "de": "/de/expertise/real-estate/",
+    "en": "/en/expertise/real-estate/",
+    "hu": "/expertise/real-estate/"
+  },
+  "intro": "Ingatlanfejlesztők, ingatlankezelők és ingatlantulajdonos vállalatok ügyleteinek jogi támogatása.",
+  "services": [
+    "Ingatlantranzakciók átvilágítása és strukturálása",
+    "Fejlesztéshez és kivitelezéshez kapcsolódó szerződések",
+    "Bérleti szerződések és ingatlanmenedzsment"
+  ],
+  "relatedPeople": [
+    "/people/daniel-kurcz/",
+    "/people/agnes-balassa/",
+    "/people/tibor-bihary/"
+  ],
+  "order": 2,
+  "body": [
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Ingatlanfejlesztő, ingatlankezelő és ingatlanholding-társaságok számára nyújtunk jogi tanácsadást. Az ingatlanfinanszírozás mellett a fejlesztések, tranzakciók és az ingatlanok működtetése során felmerülő jogi kérdésekben is eljárunk. Tapasztalataink nagyobb, nemzetközi ingatlanportfóliókhoz és kisebb fejlesztő társaságok mindennapi ügyeihez egyaránt kapcsolódnak."
+        }
+      ]
+    }
+  ]
+}

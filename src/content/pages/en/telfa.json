@@ -1,0 +1,43 @@
+{
+  "path": "/en/telfa/",
+  "lang": "en",
+  "kind": "detailed",
+  "title": "About TELFA",
+  "seoTitle": "TELFA – international law firm network",
+  "description": "Bihary Balassa’s TELFA relationship and cooperation with independent European law firms on cross-border matters.",
+  "alternates": {
+    "de": "/de/telfa/",
+    "en": "/en/telfa/",
+    "hu": "/telfa/"
+  },
+  "sections": [
+    {
+      "id": "section-1",
+      "title": "The firm’s TELFA membership",
+      "body": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "As the majority of our work now involves cross border issues, our clients expect us to be able to provide professional services beyond our jurisdiction. In order to live up to these expectations and to be able to offer a seamless international service to our clients, in 2005 we strengthened our existing working relationships with top-tier foreign law firms by officially joining the international association of leading European law firms, the Trans European Law Firms Alliance (TELFA)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "About the network",
+      "body": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "TELFA is an international organization established in Belgium in 1990 with its headquarters in Brussels, Belgium. Member law firms of TELFA are chosen on the basis of strict quality standards. Each TELFA member is a law firm recognized as a top-tier firm in its own jurisdiction operating in the field of commercial law, with international connections, though acting independently."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

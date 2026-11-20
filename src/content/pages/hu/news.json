@@ -1,0 +1,14 @@
+{
+  "path": "/news/",
+  "lang": "hu",
+  "kind": "news",
+  "title": "Hírek",
+  "seoTitle": "Hírek és jogi írások",
+  "description": "A Bihary Balassa Ügyvédi Iroda hírei és korábbi szakmai írásai. Megjelenési dátummal ellátott cikkek és irodai közlemények.",
+  "alternates": {
+    "de": "/de/news/",
+    "en": "/en/news/",
+    "hu": "/news/"
+  },
+  "intro": "Az iroda hírei és korábban megjelent szakmai írásai."
+}

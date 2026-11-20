@@ -1,0 +1,171 @@
+{
+  "path": "/de/about/",
+  "lang": "de",
+  "kind": "detailed",
+  "title": "Über unsere Kanzlei",
+  "seoTitle": "Über unsere Rechtsanwaltskanzlei in Budapest",
+  "description": "Die 2002 gegründete Kanzlei Bihary Balassa: wirtschaftsrechtliche Erfahrung, internationale Mandanten und Beratung auf Ungarisch, Englisch und Deutsch.",
+  "alternates": {
+    "de": "/de/about/",
+    "en": "/en/about/",
+    "hu": "/about/"
+  },
+  "sections": [
+    {
+      "id": "section-1",
+      "title": "Über die Kanzlei",
+      "body": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "Die Rechtsanwaltskanzlei Bihary Balassa wurde 2002 gegründet und ist auf Wirtschaftsrecht spezialisiert."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "Die Gründungspartner der Kanzlei sind Dr. Tibor Bihary und Dr. Ágnes Balassa. Sie werden von juristischen und administrativen Mitarbeitern unterstützt. Wir arbeiten auf Ungarisch, Englisch und Deutsch. Unsere Schwerpunkte sind Gesellschaftsrecht, Bank- und Finanzierungsrecht, Unternehmenskäufe, Immobilienrecht, Wettbewerbsrecht, Arbeitsrecht und Streitbeilegung. Bei größeren Transaktionen ziehen wir bei Bedarf externe Fachkollegen hinzu."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "Unternehmenskäufe",
+      "body": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "Einer der Schwerpunkte unserer Rechtsanwaltskanzlei ist das Gebiet der Unternehmenskäufe, die M&A Geschäfte. In den Transaktionen übernehmen wir nicht nur die Aufgaben der rechtlichen Due Diligence Prüfung, die Ausarbeitung und Verhandlung der Transaktionsverträge, aber wir versuchen auch intensiv das Projekt als Ganzes im Interesse unserer Mandanten zu betreuen."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "Gesellschaftsrecht",
+      "body": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "Fast ausnahmslos alle unserer Mandanten benötigen Beratung in Sachen Gesellschaftsrecht, Firmenrecht, angefangen bei Gesellschaftsgründungen bis zu den komplizierteren gesellschaftsrechtlichen Umstrukturierungen (Spaltungen, Zusammenschlüsse), in denen unser Team große Erfahrung hat."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "Bank- und Finanzierungsrecht",
+      "body": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "Wir beraten ungarische und internationale Banken, Finanzinstitute und Unternehmen bei Finanzierungsgeschäften. Unsere Erfahrung umfasst Unternehmens- und Immobilienprojektfinanzierungen sowie rechtliche Fragen des Finanzierungsleasings. Darüber hinaus begleiten wir die Restrukturierung von Finanzierungsverträgen, die Verwertung von Sicherheiten und Work-out-Mandate."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "Immobilienrecht",
+      "body": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "Wir beraten Immobilienentwickler, Immobilienverwalter und Immobilienholdinggesellschaften. Neben der Immobilienfinanzierung begleiten wir rechtliche Fragen bei Projektentwicklungen, Transaktionen und der laufenden Bewirtschaftung. Unsere Erfahrung umfasst internationale Immobilienportfolios ebenso wie die laufenden Geschäfte kleinerer Entwicklungsgesellschaften."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "Prozessführung und Schiedsverfahren",
+      "body": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "Laufend vertreten wir unsere Mandanten in zivilrechtlichen Gerichtsverfahren, außergerichtlichen Verfahren vor heimischen und internationalen ordentlichen und Schiedsgerichten (z.B. ICC). In den letzten Jahren gingen wir öfters auch in zahlreichen Fällen vor dem Europäischen Gerichtshof für Menschenrechte vor. Wir sind stolz darauf, dass wir durch unsere Prozesse von großer Tragweite und Publizität auch an der Gestaltung und Änderung der ungarischen Gerichtspraxis auf dem Gebiet der Schadenverursachung durch Gesetzgebungstätigkeit des Staates mitwirken konnten."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "Gleichzeitig wissen und vertreten wir, dass im Wirtschaftsrecht oft nicht der Gerichtsweg die beste Lösung für unsere Mandanten ist. Aus diesem Grund sind wir immer bestrebt, die Streitigkeiten unserer Mandanten in erster Linie auf dem Wege von Verhandlungen beizulegen."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "Arbeitsrecht",
+      "body": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "Wir beraten auch in arbeitsrechtlichen Belangen unsere Mandanten, meistens auf der Seite des Arbeitgebers, in einfachen Sachen der Errichtung und Beendigung von Arbeitsverhältnissen, bis zu arbeitsrechtlichen Satzungen und Kollektivverträgen."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "Wettbewerbsrecht",
+      "body": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "Wir sind auch auf dem Gebiet des Wettbewerbsrechts gerne behilflich. Im Zusammenhang mit M&A Geschäften sind wir in zahlreichen Fusionen und Transaktionen in dem Genehmigungsverfahren vor der Wettbewerbsbehörde vorgegangen, bzw. vertreten wir unsere Mandanten auch in Kartellfragen vor der Wettbewerbsaufsicht und vor Gericht."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "Arbeitssprachen",
+      "body": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "Als sog. „deutschsprachige“ Kanzlei sind wir stolz darauf, dass - außer der, bei den meisten Wirtschaftsrechtskanzleien üblichen Leistungen in Englisch - die meisten unserer Kollegen über hervorragende Deutschkenntnisse verfügen. Daher können wir unsere Mandanten auch in der für sie komfortableren deutschen Sprache bedienen."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "further-information",
+      "title": "Weitere Informationen",
+      "body": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "Aufgrund unserer Expertise können wir eine, den höchsten Anforderungen entsprechende, maßgeschneiderte rechtliche Dienstleistung anbieten. Immer mit Fokus auf den geschäftlichen Interessen der Mandanten!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

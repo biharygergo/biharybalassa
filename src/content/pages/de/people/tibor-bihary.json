@@ -1,0 +1,51 @@
+{
+  "path": "/de/people/tibor-bihary/",
+  "lang": "de",
+  "kind": "profile",
+  "title": "Dr. Tibor Bihary",
+  "seoTitle": "Dr. Tibor Bihary – Gründungspartner, Rechtsanwalt",
+  "description": "Dr. Tibor Bihary. Gründungspartner, Rechtsanwalt. Beruflicher Hintergrund und Kontakt bei Bihary Balassa in Budapest.",
+  "alternates": {
+    "de": "/de/people/tibor-bihary/",
+    "en": "/en/people/tibor-bihary/",
+    "hu": "/people/tibor-bihary/"
+  },
+  "role": "Gründungspartner, Rechtsanwalt",
+  "group": "partners",
+  "image": "/images/people/tibor-bihary.webp",
+  "body": [
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Partner, Gründermitglied der Kanzlei, Leiter der Kanzlei. Doktorat an der Fakultät für Rechtswissenschaften der Universität Eötvös Loránd Budapest in 1983. In 1982 Studium in Vergleichender Rechtswissenschaft in Strasbourg."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "In 1986 Rechtsanwaltsprüfung abgelegt, in 1987 Diplom als Fachjurist für Außenhandel. Nach Universitätsabschluß sechs Jahre lang Firmenjurist des staatlichen Außenhandelsunternehmens KOMPLEX. In 1989 als Partner eingetreten in die Rechtsanwaltskanzlei Eörsi & Partner, zwischen 1991-1994 Leiter der Kanzlei. Zwischen 1999-2002 Partner und Gründermitglied der Rechtsanwaltskanzlei Sándor, Bihary, Szegedi, Szent-Ivány."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Von 1993 bis 2015 Generalsekretär des Ungarischen Vereines für Wettbewerbsrecht."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Fachgebiete: Wettbewerbsrecht, Handels- und Projektverträge, Gesellschaftsrecht, EU-Recht, Recht der EU-Subventionen, Immobilienrecht, Projektfinanzierung, öffentliche Beschaffung. Hervorragende Sprachkenntnisse in Deutsch, spricht Französisch und Englisch."
+        }
+      ]
+    }
+  ],
+  "showArtwork": true
+}

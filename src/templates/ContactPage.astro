@@ -1,0 +1,25 @@
+---
+import type { PageOf } from '../content/schema';
+import site from '../data/site.json';
+interface Props {
+  page: PageOf<'contact'>;
+}
+const { page } = Astro.props;
+---
+
+<section class="page-heading">
+  <h1>{page.title}</h1>
+  <p>{page.intro}</p>
+</section>
+<address class="contact-details">
+  <p>
+    {site.name}
+    <br />
+    {site.address.postalCode} {site.address.city}, {site.address.street}
+  </p>
+  <p>
+    <a href={'mailto:' + site.email}>{site.email}</a>
+    <br />
+    <a href={'tel:' + site.telephoneHref}>{site.telephone}</a>
+  </p>
+</address>

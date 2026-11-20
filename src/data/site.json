@@ -1,0 +1,17 @@
+{
+  "url": "https://www.biharybalassa.hu",
+  "name": "Bihary Balassa Ügyvédi Iroda",
+  "shortName": "Bihary Balassa",
+  "email": "office@biharybalassa.hu",
+  "telephone": "+36 1 391 44 91",
+  "telephoneHref": "+3613914491",
+  "address": {
+    "street": "Zugligeti út 3.",
+    "postalCode": "1121",
+    "city": "Budapest",
+    "country": "HU"
+  },
+  "logo": "/images/logo.png",
+  "icon": "/images/monogram.png",
+  "painting": "/images/painting.webp"
+}

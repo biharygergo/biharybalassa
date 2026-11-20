@@ -1,0 +1,104 @@
+---
+import type { Page, PageOf } from '../content/schema';
+import {
+  copy,
+  routes,
+  practicesFor,
+  articlesFor,
+  plainText,
+} from '../lib/content';
+import Artwork from '../components/Artwork.astro';
+import PersonCard from '../components/PersonCard.astro';
+import NewsList from '../components/NewsList.astro';
+import PracticeAccordion from '../components/PracticeAccordion';
+interface Props {
+  page: PageOf<'home'>;
+  pages: Page[];
+}
+const { page, pages } = Astro.props;
+const { home, lang } = page;
+const c = copy[lang];
+const paths = routes[lang];
+const founders = home.founders.paths
+  .map((path) =>
+    pages.find(
+      (person): person is PageOf<'profile'> =>
+        person.path === path && person.kind === 'profile',
+    ),
+  )
+  .filter((person): person is PageOf<'profile'> => !!person);
+const items = practicesFor(pages, lang).map((practice) => ({
+  id: practice.path,
+  title: practice.title,
+  href: practice.path,
+  paragraphs: plainText(practice.body),
+}));
+---
+
+<section class="hero">
+  <div>
+    <div class="eyebrow">{home.hero.eyebrow}</div>
+    <h1>
+      {home.hero.heading[0]}
+      <br />
+      <em>{home.hero.heading[1]}</em>
+    </h1>
+  </div>
+  <div class="intro">
+    <p>{home.hero.intro}</p>
+    <p class="intro-languages">{home.hero.languageNote}</p>
+    <a class="button" href="#kapcsolat">
+      {c.contact}
+    </a>
+  </div>
+</section>
+<Artwork lang={lang} variant="panorama" lazy={false} />
+<section id="iroda" class="section">
+  <div class="section-head">
+    <h2>{home.about.title}</h2>
+    <div>
+      <p>{home.about.text}</p>
+      <a class="text-link" href={paths.about}>
+        {home.about.linkLabel}
+      </a>
+    </div>
+  </div>
+</section>
+<section id="szakteruletek" class="section">
+  <div class="section-title">
+    <h2>{c.expertise}</h2>
+  </div>
+  <PracticeAccordion client:load items={items} more={c.morePractice} />
+  <noscript>
+    {items.map((item) => (
+      <section>
+        <h3>{item.title}</h3>
+        {item.paragraphs.map((text) => (
+          <p>{text}</p>
+        ))}
+        <a href={item.href}>{item.title}</a>
+      </section>
+    ))}
+  </noscript>
+</section>
+<section id="csapat" class="section">
+  <div class="section-head">
+    <h2>{home.founders.title}</h2>
+    <a class="text-link" href={paths.team}>
+      {home.founders.linkLabel}
+    </a>
+  </div>
+  <div class="team">
+    {founders.map((person) => (
+      <PersonCard person={person} />
+    ))}
+  </div>
+</section>
+<section class="art-section">
+  <div>
+    <h2>{home.art.title}</h2>
+    <p>{home.art.text}</p>
+  </div>
+  <Artwork lang={lang} />
+</section>
+<NewsList articles={articlesFor(pages, lang)} lang={lang} />
