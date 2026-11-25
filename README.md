@@ -58,15 +58,15 @@ Indexing is disabled by default. Both `DEPLOY_ENV=production` and `INDEX_SITE=tr
 
 ### GitHub deployment
 
-The Firebase workflow deploys successful `main` pushes to the live Hosting channel once the repository is connected. Manual workflow runs can deploy to the `review` channel instead.
+Every push to `main`, including a merged pull request, runs the build, content/SEO checks and Hosting emulator tests, then deploys that exact build to the live channel of `biharybalassa-99e15`. Failed checks prevent deployment. Manual workflow runs can deploy to the `review` channel instead.
 
-Configure these GitHub Actions settings:
+GitHub authenticates using Workload Identity Federation and short-lived credentials. There is no deployment JSON key or Firebase token to rotate. The Google Cloud trust is restricted to repository ID `1465803652`, owner ID `17903881`, the `main` ref and `.github/workflows/firebase-hosting.yml`. Only `push` and `workflow_dispatch` events are accepted.
 
-- Repository variable `FIREBASE_PROJECT_ID`: `biharybalassa-99e15`.
-- Repository secret `FIREBASE_SERVICE_ACCOUNT`: the deployment service account JSON produced by Firebase's GitHub setup. Use `npx firebase init hosting:github` to authorize the integration, then retain this repository's workflows and secret name. Never commit credentials.
-- Repository variable `INDEX_SITE`: set to `true` only when the live site is ready for search indexing. Review builds always remain noindex, regardless of this variable.
+The deployment identity is `github-hosting-deployer@biharybalassa-99e15.iam.gserviceaccount.com`, with Firebase Hosting Admin and API Keys Viewer roles in this project. The provider is `projects/924538517728/locations/global/workloadIdentityPools/github-hosting/providers/github-main`. These identifiers are not secrets; changing the repository or workflow path requires updating the trust condition in Google Cloud IAM.
 
-Until `FIREBASE_PROJECT_ID` is configured, deployment jobs are skipped; verification still runs. Add the custom domain and apex-to-www redirect using Firebase Hosting's domain setup when ready to switch DNS. Firebase manages HTTPS certificates.
+Set the optional GitHub repository variable `INDEX_SITE=true` when the live custom domain is ready for search indexing. Until then, live builds remain noindex; review builds always remain noindex regardless of this variable. No other GitHub variables or secrets are required for deployment.
+
+Add the custom domain and apex-to-www redirect using Firebase Hosting's domain setup when ready to switch DNS. Firebase manages HTTPS certificates.
 
 ### Redirects
 

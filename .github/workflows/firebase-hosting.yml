@@ -16,9 +16,14 @@ concurrency:
   cancel-in-progress: false
 jobs:
   deploy:
-    if: vars.FIREBASE_PROJECT_ID != '' && github.ref == 'refs/heads/main'
+    if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      id-token: write
     env:
+      FIREBASE_PROJECT_ID: biharybalassa-99e15
+      DEPLOY_CHANNEL: ${{ github.event.inputs.channel || 'live' }}
       DEPLOY_ENV: ${{ github.event.inputs.channel == 'review' && 'preview' || 'production' }}
       INDEX_SITE: ${{ github.event.inputs.channel != 'review' && vars.INDEX_SITE == 'true' && 'true' || 'false' }}
       EXPECT_INDEX: ${{ github.event.inputs.channel != 'review' && vars.INDEX_SITE == 'true' && 'true' || 'false' }}
@@ -31,10 +36,16 @@ jobs:
       - run: npm ci
       - run: npm run verify
       - run: npm run hosting:test
-      - uses: FirebaseExtended/action-hosting-deploy@v0
+      - name: Authenticate to Google Cloud
+        uses: google-github-actions/auth@7c6bc770dae815cd3e89ee6cdf493a5fab2cc093 # v3
         with:
-          firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
-          projectId: ${{ vars.FIREBASE_PROJECT_ID }}
-          channelId: ${{ github.event.inputs.channel || 'live' }}
-          expires: 7d
-          firebaseToolsVersion: 15.37.0
+          project_id: biharybalassa-99e15
+          workload_identity_provider: projects/924538517728/locations/global/workloadIdentityPools/github-hosting/providers/github-main
+          service_account: github-hosting-deployer@biharybalassa-99e15.iam.gserviceaccount.com
+      - name: Deploy verified build
+        run: |
+          if [ "$DEPLOY_CHANNEL" = "live" ]; then
+            npx --no-install firebase deploy --only hosting --project "$FIREBASE_PROJECT_ID" --non-interactive
+          else
+            npx --no-install firebase hosting:channel:deploy review --expires 7d --project "$FIREBASE_PROJECT_ID" --non-interactive
+          fi
