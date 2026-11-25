@@ -6,4 +6,6 @@ dist/
 !.env.example
 .DS_Store
 
-.wrangler/
+.firebase/
+*-debug.log
+.runtimeconfig.json

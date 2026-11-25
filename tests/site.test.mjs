@@ -21,7 +21,10 @@ async function files(dir) {
 }
 const pages = await Promise.all((await files('src/content/pages')).map(json));
 const byPath = new Map(pages.map((page) => [page.path, page]));
-const redirects = await json('src/data/redirects.json');
+const firebase = await json('firebase.json');
+const redirects = firebase.hosting.redirects.map(
+  ({ source, destination, type }) => ({ from: source, to: destination, type }),
+);
 const site = await json('src/data/site.json');
 const origin = new URL(site.url).origin;
 const nodes = (node) => [node, ...(node.childNodes || []).flatMap(nodes)];
@@ -71,34 +74,17 @@ test('JSON-LD escapes HTML without changing its values', () => {
 
 test('only explicitly enabled production builds can be indexed', () => {
   assert.equal(shouldIndex({}), false);
-  assert.equal(shouldIndex({ INDEX_SITE: 'true' }), true);
+  assert.equal(shouldIndex({ INDEX_SITE: 'true' }), false);
   assert.equal(
-    shouldIndex({
-      INDEX_SITE: 'false',
-      CF_PAGES: '1',
-      CF_PAGES_BRANCH: 'main',
-    }),
+    shouldIndex({ INDEX_SITE: 'false', DEPLOY_ENV: 'production' }),
     false,
   );
   assert.equal(
-    shouldIndex({
-      INDEX_SITE: 'true',
-      CF_PAGES: '1',
-      CF_PAGES_BRANCH: 'preview',
-    }),
+    shouldIndex({ INDEX_SITE: 'true', DEPLOY_ENV: 'preview' }),
     false,
   );
   assert.equal(
-    shouldIndex({ INDEX_SITE: 'true', CF_PAGES: '1', CF_PAGES_BRANCH: 'main' }),
-    true,
-  );
-  assert.equal(
-    shouldIndex({
-      INDEX_SITE: 'true',
-      CF_PAGES: '1',
-      CF_PAGES_BRANCH: 'release',
-      PRODUCTION_BRANCH: 'release',
-    }),
+    shouldIndex({ INDEX_SITE: 'true', DEPLOY_ENV: 'production' }),
     true,
   );
 });
@@ -206,10 +192,16 @@ test('permanent redirects have no loops, chains or canonical collisions', async 
     assert.ok(byPath.has(rule.to), `Unknown destination: ${rule.to}`);
     assert.notEqual(rule.from, rule.to);
   }
-  const output = await readFile('dist/_redirects', 'utf8');
-  assert.equal(
-    output,
-    redirects.map(({ from, to }) => `${from} ${to} 301`).join('\n') + '\n',
+  assert.equal(firebase.hosting.public, 'dist');
+  assert.equal(firebase.hosting.trailingSlash, true);
+  assert.ok(
+    !firebase.hosting.rewrites?.length,
+    'Missing pages must return 404, not the homepage',
+  );
+  assert.ok(redirects.every((rule) => rule.type === 301));
+  assert.ok(
+    !(await stat('dist/_redirects').catch(() => null)),
+    'Cloudflare redirect artifact must not ship',
   );
   for (const path of await json('src/data/retired-paths.json'))
     assert.ok(!byPath.has(path) && !redirects.some((r) => r.from === path));

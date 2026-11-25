@@ -1,6 +1,7 @@
 dist
 node_modules
 .astro
-.wrangler
+.firebase
 package-lock.json
 public
+*-debug.log

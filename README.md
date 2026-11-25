@@ -26,12 +26,48 @@ npm run dev
 
 For a new page, add a JSON file with a unique trailing-slash `path`, appropriate `kind`, title, SEO title, description and reciprocal `alternates`. Add articles with their original publication date. Historical articles retain their original context; they should not be treated as current legal guidance.
 
-## Cloudflare Pages
+## Firebase Hosting
 
-Connect the private repository. Build command: `npm run build`. Output directory: `dist`. Node version: `22.23.5`. No adapter or runtime secrets are required.
+Deploy the generated static files to Firebase Hosting (not Firebase App Hosting). No Firebase browser SDK, Functions or database is needed.
 
-Indexing is disabled by default. Set `INDEX_SITE=true` for the live production build. On Cloudflare, indexing is additionally restricted to `CF_PAGES_BRANCH=main`, or the branch named by `PRODUCTION_BRANCH`. Preview builds remain noindex and disallow crawling. `.env.example` documents the local defaults.
+```sh
+npm run verify
+npm run hosting:test
+npm run hosting:serve
+```
 
-`src/data/redirects.json` is the permanent redirect source. The build writes Cloudflare’s `dist/_redirects`; Astro preview does not execute these rules. Add redirects when changing an existing URL, pointing directly to a canonical page. `src/data/retired-paths.json` lists obsolete empty WordPress URLs that intentionally return 404.
+The Hosting emulator serves at `http://127.0.0.1:5177`. Its tests check all canonical pages, all permanent redirects with query strings, slash normalization and genuine 404 responses. It uses a demo project and needs no Firebase account.
 
-Before switching the domain, configure HTTPS and apex-to-www redirects in Cloudflare, verify redirects on the deployed preview and confirm the production contact details and translations with the firm. The canonical domain is `https://www.biharybalassa.hu`. Sitemap and robots files are generated from the final content and build environment.
+### Connect a Firebase project
+
+The project alias in `.firebaserc` points to `biharybalassa-99e15`. Install dependencies and sign in with `npx firebase login` (or `npx firebase login --reauth` if your session has expired). Do not run `firebase init hosting`: the Hosting configuration is already provided.
+
+For a review deployment:
+
+```sh
+npm run deploy:preview
+```
+
+For the live Hosting channel:
+
+```sh
+INDEX_SITE=true npm run deploy
+```
+
+Indexing is disabled by default. Both `DEPLOY_ENV=production` and `INDEX_SITE=true` are required to enable it. The deployment scripts rebuild for their destination; `deploy:preview` forces indexing off even if `INDEX_SITE=true` is inherited. `.env.example` documents these settings. The canonical domain remains `https://www.biharybalassa.hu`.
+
+### GitHub deployment
+
+The Firebase workflow deploys successful `main` pushes to the live Hosting channel once the repository is connected. Manual workflow runs can deploy to the `review` channel instead.
+
+Configure these GitHub Actions settings:
+
+- Repository variable `FIREBASE_PROJECT_ID`: `biharybalassa-99e15`.
+- Repository secret `FIREBASE_SERVICE_ACCOUNT`: the deployment service account JSON produced by Firebase's GitHub setup. Use `npx firebase init hosting:github` to authorize the integration, then retain this repository's workflows and secret name. Never commit credentials.
+- Repository variable `INDEX_SITE`: set to `true` only when the live site is ready for search indexing. Review builds always remain noindex, regardless of this variable.
+
+Until `FIREBASE_PROJECT_ID` is configured, deployment jobs are skipped; verification still runs. Add the custom domain and apex-to-www redirect using Firebase Hosting's domain setup when ready to switch DNS. Firebase manages HTTPS certificates.
+
+### Redirects
+
+`firebase.json` is the source of permanent redirects. Each legacy path maps directly to a canonical page with status 301. Keep `trailingSlash: true` to match the site's canonical URLs. No catch-all SPA rewrite is used, so unknown URLs return the generated 404 page. `src/data/retired-paths.json` lists empty WordPress URLs that intentionally remain 404.

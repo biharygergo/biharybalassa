@@ -1,0 +1,799 @@
+{
+  "hosting": {
+    "public": "dist",
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
+    "trailingSlash": true,
+    "headers": [
+      {
+        "source": "/_astro/**",
+        "headers": [
+          {
+            "key": "Cache-Control",
+            "value": "public, max-age=31536000, immutable"
+          }
+        ]
+      }
+    ],
+    "redirects": [
+      {
+        "source": "/allasajanlat/",
+        "destination": "/careers/",
+        "type": 301
+      },
+      {
+        "source": "/allasajanlat",
+        "destination": "/careers/",
+        "type": 301
+      },
+      {
+        "source": "/article/budaors-contra-magyar-allam-jogtorteneti-jelentosegu-sikert-ert-el-irodank-partnere/",
+        "destination": "/news/budaors-case/",
+        "type": 301
+      },
+      {
+        "source": "/article/budaors-contra-magyar-allam-jogtorteneti-jelentosegu-sikert-ert-el-irodank-partnere",
+        "destination": "/news/budaors-case/",
+        "type": 301
+      },
+      {
+        "source": "/article/dr-bihary-tibor-2021-2024-valasztottbiro-ajanlasi-lista/",
+        "destination": "/news/tibor-bihary-arbitrator-list-2021-2024/",
+        "type": 301
+      },
+      {
+        "source": "/article/dr-bihary-tibor-2021-2024-valasztottbiro-ajanlasi-lista",
+        "destination": "/news/tibor-bihary-arbitrator-list-2021-2024/",
+        "type": 301
+      },
+      {
+        "source": "/article/irodank-tamogatasaval-kerult-eladasra-budapest-egyik-legnagyobb-bevasarlokozpontja/",
+        "destination": "/news/mammut-sale/",
+        "type": 301
+      },
+      {
+        "source": "/article/irodank-tamogatasaval-kerult-eladasra-budapest-egyik-legnagyobb-bevasarlokozpontja",
+        "destination": "/news/mammut-sale/",
+        "type": 301
+      },
+      {
+        "source": "/article/jogi-asszisztens-allashirdetes/",
+        "destination": "/news/legal-assistant-vacancy/",
+        "type": 301
+      },
+      {
+        "source": "/article/jogi-asszisztens-allashirdetes",
+        "destination": "/news/legal-assistant-vacancy/",
+        "type": 301
+      },
+      {
+        "source": "/article/keszuljon-fel-az-uj-europai-adatvedelmi-rendeletre-gdpr-irodank-tamogatasaval/",
+        "destination": "/news/gdpr-preparation/",
+        "type": 301
+      },
+      {
+        "source": "/article/keszuljon-fel-az-uj-europai-adatvedelmi-rendeletre-gdpr-irodank-tamogatasaval",
+        "destination": "/news/gdpr-preparation/",
+        "type": 301
+      },
+      {
+        "source": "/article/koronavirus-jarvany-osszefoglalo-a-felmerulo-munkajogi-kerdesekrol/",
+        "destination": "/news/coronavirus-employment/",
+        "type": 301
+      },
+      {
+        "source": "/article/koronavirus-jarvany-osszefoglalo-a-felmerulo-munkajogi-kerdesekrol",
+        "destination": "/news/coronavirus-employment/",
+        "type": 301
+      },
+      {
+        "source": "/article/koronavirus-jarvany-osszefoglalo-a-felmerulo-polgari-jogi-kerdesekrol-vis-maior/",
+        "destination": "/news/coronavirus-force-majeure/",
+        "type": 301
+      },
+      {
+        "source": "/article/koronavirus-jarvany-osszefoglalo-a-felmerulo-polgari-jogi-kerdesekrol-vis-maior",
+        "destination": "/news/coronavirus-force-majeure/",
+        "type": 301
+      },
+      {
+        "source": "/article/koronavirus-jarvany-osszefoglalo-a-kulfoldi-befektetesek-miniszteri-korlatozasanak-szabalyairol/",
+        "destination": "/news/coronavirus-foreign-investment/",
+        "type": 301
+      },
+      {
+        "source": "/article/koronavirus-jarvany-osszefoglalo-a-kulfoldi-befektetesek-miniszteri-korlatozasanak-szabalyairol",
+        "destination": "/news/coronavirus-foreign-investment/",
+        "type": 301
+      },
+      {
+        "source": "/article/koronavirus-jarvany-osszefoglalo-a-kurzarbeit-tel-kapcsolatos-szabalyokrol/",
+        "destination": "/news/coronavirus-short-time-work/",
+        "type": 301
+      },
+      {
+        "source": "/article/koronavirus-jarvany-osszefoglalo-a-kurzarbeit-tel-kapcsolatos-szabalyokrol",
+        "destination": "/news/coronavirus-short-time-work/",
+        "type": 301
+      },
+      {
+        "source": "/article/osszefoglalo-a-veszelyhelyzet-miatti-tarsasagi-jogi-valtozasokrol/",
+        "destination": "/news/coronavirus-corporate-decisions/",
+        "type": 301
+      },
+      {
+        "source": "/article/osszefoglalo-a-veszelyhelyzet-miatti-tarsasagi-jogi-valtozasokrol",
+        "destination": "/news/coronavirus-corporate-decisions/",
+        "type": 301
+      },
+      {
+        "source": "/article/sikeresen-zartuk-tranzakciot/",
+        "destination": "/news/transaction-completed/",
+        "type": 301
+      },
+      {
+        "source": "/article/sikeresen-zartuk-tranzakciot",
+        "destination": "/news/transaction-completed/",
+        "type": 301
+      },
+      {
+        "source": "/csapatunk/",
+        "destination": "/team/",
+        "type": 301
+      },
+      {
+        "source": "/csapatunk",
+        "destination": "/team/",
+        "type": 301
+      },
+      {
+        "source": "/de/article/bereiten-sie-sich-mit-hilfe-unserer-kanzlei-auf-die-neue-datenschutzgrundverordnung-gdpr-vor/",
+        "destination": "/de/news/gdpr-preparation/",
+        "type": 301
+      },
+      {
+        "source": "/de/article/bereiten-sie-sich-mit-hilfe-unserer-kanzlei-auf-die-neue-datenschutzgrundverordnung-gdpr-vor",
+        "destination": "/de/news/gdpr-preparation/",
+        "type": 301
+      },
+      {
+        "source": "/de/article/budaoers-v-ungarn-ein-erfolg-ohne-praezedenzfall-fuer-unsere-kanzlei/",
+        "destination": "/de/news/budaors-case/",
+        "type": 301
+      },
+      {
+        "source": "/de/article/budaoers-v-ungarn-ein-erfolg-ohne-praezedenzfall-fuer-unsere-kanzlei",
+        "destination": "/de/news/budaors-case/",
+        "type": 301
+      },
+      {
+        "source": "/de/article/ma-transaktion-erfolgreich-abgeschlossen/",
+        "destination": "/de/news/transaction-completed/",
+        "type": 301
+      },
+      {
+        "source": "/de/article/ma-transaktion-erfolgreich-abgeschlossen",
+        "destination": "/de/news/transaction-completed/",
+        "type": 301
+      },
+      {
+        "source": "/de/article/unsere-firma-hilft-beim-verkauf-eines-der-groessten-einkaufzentren-budapest/",
+        "destination": "/de/news/mammut-sale/",
+        "type": 301
+      },
+      {
+        "source": "/de/article/unsere-firma-hilft-beim-verkauf-eines-der-groessten-einkaufzentren-budapest",
+        "destination": "/de/news/mammut-sale/",
+        "type": 301
+      },
+      {
+        "source": "/de/bewerbungen/",
+        "destination": "/de/careers/",
+        "type": 301
+      },
+      {
+        "source": "/de/bewerbungen",
+        "destination": "/de/careers/",
+        "type": 301
+      },
+      {
+        "source": "/de/kontakt/",
+        "destination": "/de/contact/",
+        "type": 301
+      },
+      {
+        "source": "/de/kontakt",
+        "destination": "/de/contact/",
+        "type": 301
+      },
+      {
+        "source": "/de/lawyer/dr-daniel-kurcz-2/",
+        "destination": "/de/people/daniel-kurcz/",
+        "type": 301
+      },
+      {
+        "source": "/de/lawyer/dr-daniel-kurcz-2",
+        "destination": "/de/people/daniel-kurcz/",
+        "type": 301
+      },
+      {
+        "source": "/de/lawyer/dr-ibolya-slegl/",
+        "destination": "/de/team/",
+        "type": 301
+      },
+      {
+        "source": "/de/lawyer/dr-ibolya-slegl",
+        "destination": "/de/team/",
+        "type": 301
+      },
+      {
+        "source": "/de/lawyer/dr-reka-plazar-2/",
+        "destination": "/de/team/",
+        "type": 301
+      },
+      {
+        "source": "/de/lawyer/dr-reka-plazar-2",
+        "destination": "/de/team/",
+        "type": 301
+      },
+      {
+        "source": "/de/nachrichten/",
+        "destination": "/de/news/",
+        "type": 301
+      },
+      {
+        "source": "/de/nachrichten",
+        "destination": "/de/news/",
+        "type": 301
+      },
+      {
+        "source": "/de/partner/dr-agnes-balassa-2/",
+        "destination": "/de/people/agnes-balassa/",
+        "type": 301
+      },
+      {
+        "source": "/de/partner/dr-agnes-balassa-2",
+        "destination": "/de/people/agnes-balassa/",
+        "type": 301
+      },
+      {
+        "source": "/de/partner/dr-tibor-bihary-2/",
+        "destination": "/de/people/tibor-bihary/",
+        "type": 301
+      },
+      {
+        "source": "/de/partner/dr-tibor-bihary-2",
+        "destination": "/de/people/tibor-bihary/",
+        "type": 301
+      },
+      {
+        "source": "/de/people/ibolya-slegl/",
+        "destination": "/de/team/",
+        "type": 301
+      },
+      {
+        "source": "/de/people/ibolya-slegl",
+        "destination": "/de/team/",
+        "type": 301
+      },
+      {
+        "source": "/de/people/reka-plazar/",
+        "destination": "/de/team/",
+        "type": 301
+      },
+      {
+        "source": "/de/people/reka-plazar",
+        "destination": "/de/team/",
+        "type": 301
+      },
+      {
+        "source": "/de/rechtsgebiete/",
+        "destination": "/de/expertise/",
+        "type": 301
+      },
+      {
+        "source": "/de/rechtsgebiete",
+        "destination": "/de/expertise/",
+        "type": 301
+      },
+      {
+        "source": "/de/rechtsgebiete/arbeitsrecht/",
+        "destination": "/de/expertise/employment/",
+        "type": 301
+      },
+      {
+        "source": "/de/rechtsgebiete/arbeitsrecht",
+        "destination": "/de/expertise/employment/",
+        "type": 301
+      },
+      {
+        "source": "/de/rechtsgebiete/bank-finanzierungsrecht/",
+        "destination": "/de/expertise/banking-finance/",
+        "type": 301
+      },
+      {
+        "source": "/de/rechtsgebiete/bank-finanzierungsrecht",
+        "destination": "/de/expertise/banking-finance/",
+        "type": 301
+      },
+      {
+        "source": "/de/rechtsgebiete/gesellschaftsrecht-ma/",
+        "destination": "/de/expertise/corporate-ma/",
+        "type": 301
+      },
+      {
+        "source": "/de/rechtsgebiete/gesellschaftsrecht-ma",
+        "destination": "/de/expertise/corporate-ma/",
+        "type": 301
+      },
+      {
+        "source": "/de/rechtsgebiete/immobilienrecht/",
+        "destination": "/de/expertise/real-estate/",
+        "type": 301
+      },
+      {
+        "source": "/de/rechtsgebiete/immobilienrecht",
+        "destination": "/de/expertise/real-estate/",
+        "type": 301
+      },
+      {
+        "source": "/de/rechtsgebiete/prozessfuehrung-schiedsverfahren/",
+        "destination": "/de/expertise/litigation-arbitration/",
+        "type": 301
+      },
+      {
+        "source": "/de/rechtsgebiete/prozessfuehrung-schiedsverfahren",
+        "destination": "/de/expertise/litigation-arbitration/",
+        "type": 301
+      },
+      {
+        "source": "/de/rechtsgebiete/wettbewerbsrecht/",
+        "destination": "/de/expertise/competition/",
+        "type": 301
+      },
+      {
+        "source": "/de/rechtsgebiete/wettbewerbsrecht",
+        "destination": "/de/expertise/competition/",
+        "type": 301
+      },
+      {
+        "source": "/de/team/laszlone-szabo-2/",
+        "destination": "/de/people/laszlone-szabo/",
+        "type": 301
+      },
+      {
+        "source": "/de/team/laszlone-szabo-2",
+        "destination": "/de/people/laszlone-szabo/",
+        "type": 301
+      },
+      {
+        "source": "/de/ueber-telfa/",
+        "destination": "/de/telfa/",
+        "type": 301
+      },
+      {
+        "source": "/de/ueber-telfa",
+        "destination": "/de/telfa/",
+        "type": 301
+      },
+      {
+        "source": "/de/ueber-unsere-kanzlei/",
+        "destination": "/de/about/",
+        "type": 301
+      },
+      {
+        "source": "/de/ueber-unsere-kanzlei",
+        "destination": "/de/about/",
+        "type": 301
+      },
+      {
+        "source": "/de/unser-team/",
+        "destination": "/de/team/",
+        "type": 301
+      },
+      {
+        "source": "/de/unser-team",
+        "destination": "/de/team/",
+        "type": 301
+      },
+      {
+        "source": "/en/about-our-firm/",
+        "destination": "/en/about/",
+        "type": 301
+      },
+      {
+        "source": "/en/about-our-firm",
+        "destination": "/en/about/",
+        "type": 301
+      },
+      {
+        "source": "/en/about-telfa/",
+        "destination": "/en/telfa/",
+        "type": 301
+      },
+      {
+        "source": "/en/about-telfa",
+        "destination": "/en/telfa/",
+        "type": 301
+      },
+      {
+        "source": "/en/article/budaors-v-hungary-firm-sets-precedent-landmark-case/",
+        "destination": "/en/news/budaors-case/",
+        "type": 301
+      },
+      {
+        "source": "/en/article/budaors-v-hungary-firm-sets-precedent-landmark-case",
+        "destination": "/en/news/budaors-case/",
+        "type": 301
+      },
+      {
+        "source": "/en/article/coronavirus-pandemic-summary-of-arising-labor-law-questions/",
+        "destination": "/en/news/coronavirus-employment/",
+        "type": 301
+      },
+      {
+        "source": "/en/article/coronavirus-pandemic-summary-of-arising-labor-law-questions",
+        "destination": "/en/news/coronavirus-employment/",
+        "type": 301
+      },
+      {
+        "source": "/en/article/coronavirus-pandemic-summary-of-the-main-rules-of-the-kurzarbeit/",
+        "destination": "/en/news/coronavirus-short-time-work/",
+        "type": 301
+      },
+      {
+        "source": "/en/article/coronavirus-pandemic-summary-of-the-main-rules-of-the-kurzarbeit",
+        "destination": "/en/news/coronavirus-short-time-work/",
+        "type": 301
+      },
+      {
+        "source": "/en/article/coronavirus-pandemic-summary-on-the-arising-civil-law-issues-vis-maior/",
+        "destination": "/en/news/coronavirus-force-majeure/",
+        "type": 301
+      },
+      {
+        "source": "/en/article/coronavirus-pandemic-summary-on-the-arising-civil-law-issues-vis-maior",
+        "destination": "/en/news/coronavirus-force-majeure/",
+        "type": 301
+      },
+      {
+        "source": "/en/article/dr-tibor-bihary-arbitrator-recommendation-list-of-2021-2024/",
+        "destination": "/en/news/tibor-bihary-arbitrator-list-2021-2024/",
+        "type": 301
+      },
+      {
+        "source": "/en/article/dr-tibor-bihary-arbitrator-recommendation-list-of-2021-2024",
+        "destination": "/en/news/tibor-bihary-arbitrator-list-2021-2024/",
+        "type": 301
+      },
+      {
+        "source": "/en/article/firm-assists-sale-one-biggest-plazas-budapest/",
+        "destination": "/en/news/mammut-sale/",
+        "type": 301
+      },
+      {
+        "source": "/en/article/firm-assists-sale-one-biggest-plazas-budapest",
+        "destination": "/en/news/mammut-sale/",
+        "type": 301
+      },
+      {
+        "source": "/en/article/prepare-new-general-data-protection-regulation-gdpr-help-firm/",
+        "destination": "/en/news/gdpr-preparation/",
+        "type": 301
+      },
+      {
+        "source": "/en/article/prepare-new-general-data-protection-regulation-gdpr-help-firm",
+        "destination": "/en/news/gdpr-preparation/",
+        "type": 301
+      },
+      {
+        "source": "/en/article/successfully-closed-transaction/",
+        "destination": "/en/news/transaction-completed/",
+        "type": 301
+      },
+      {
+        "source": "/en/article/successfully-closed-transaction",
+        "destination": "/en/news/transaction-completed/",
+        "type": 301
+      },
+      {
+        "source": "/en/career/",
+        "destination": "/en/careers/",
+        "type": 301
+      },
+      {
+        "source": "/en/career",
+        "destination": "/en/careers/",
+        "type": 301
+      },
+      {
+        "source": "/en/lawyer/792/",
+        "destination": "/en/team/",
+        "type": 301
+      },
+      {
+        "source": "/en/lawyer/792",
+        "destination": "/en/team/",
+        "type": 301
+      },
+      {
+        "source": "/en/lawyer/dr-daniel-kurcz/",
+        "destination": "/en/people/daniel-kurcz/",
+        "type": 301
+      },
+      {
+        "source": "/en/lawyer/dr-daniel-kurcz",
+        "destination": "/en/people/daniel-kurcz/",
+        "type": 301
+      },
+      {
+        "source": "/en/lawyer/dr-reka-plazar/",
+        "destination": "/en/team/",
+        "type": 301
+      },
+      {
+        "source": "/en/lawyer/dr-reka-plazar",
+        "destination": "/en/team/",
+        "type": 301
+      },
+      {
+        "source": "/en/our-team/",
+        "destination": "/en/team/",
+        "type": 301
+      },
+      {
+        "source": "/en/our-team",
+        "destination": "/en/team/",
+        "type": 301
+      },
+      {
+        "source": "/en/partner/dr-agnes-balassa/",
+        "destination": "/en/people/agnes-balassa/",
+        "type": 301
+      },
+      {
+        "source": "/en/partner/dr-agnes-balassa",
+        "destination": "/en/people/agnes-balassa/",
+        "type": 301
+      },
+      {
+        "source": "/en/partner/dr-tibor-bihary/",
+        "destination": "/en/people/tibor-bihary/",
+        "type": 301
+      },
+      {
+        "source": "/en/partner/dr-tibor-bihary",
+        "destination": "/en/people/tibor-bihary/",
+        "type": 301
+      },
+      {
+        "source": "/en/people/ibolya-slegl/",
+        "destination": "/en/team/",
+        "type": 301
+      },
+      {
+        "source": "/en/people/ibolya-slegl",
+        "destination": "/en/team/",
+        "type": 301
+      },
+      {
+        "source": "/en/people/reka-plazar/",
+        "destination": "/en/team/",
+        "type": 301
+      },
+      {
+        "source": "/en/people/reka-plazar",
+        "destination": "/en/team/",
+        "type": 301
+      },
+      {
+        "source": "/en/team/laszlone-szabo/",
+        "destination": "/en/people/laszlone-szabo/",
+        "type": 301
+      },
+      {
+        "source": "/en/team/laszlone-szabo",
+        "destination": "/en/people/laszlone-szabo/",
+        "type": 301
+      },
+      {
+        "source": "/hirek/",
+        "destination": "/news/",
+        "type": 301
+      },
+      {
+        "source": "/hirek",
+        "destination": "/news/",
+        "type": 301
+      },
+      {
+        "source": "/hirek/page/2/",
+        "destination": "/news/",
+        "type": 301
+      },
+      {
+        "source": "/hirek/page/2",
+        "destination": "/news/",
+        "type": 301
+      },
+      {
+        "source": "/irodankrol/",
+        "destination": "/about/",
+        "type": 301
+      },
+      {
+        "source": "/irodankrol",
+        "destination": "/about/",
+        "type": 301
+      },
+      {
+        "source": "/kapcsolat/",
+        "destination": "/contact/",
+        "type": 301
+      },
+      {
+        "source": "/kapcsolat",
+        "destination": "/contact/",
+        "type": 301
+      },
+      {
+        "source": "/lawyer/dr-kurcz-daniel/",
+        "destination": "/people/daniel-kurcz/",
+        "type": 301
+      },
+      {
+        "source": "/lawyer/dr-kurcz-daniel",
+        "destination": "/people/daniel-kurcz/",
+        "type": 301
+      },
+      {
+        "source": "/lawyer/dr-plazar-reka/",
+        "destination": "/team/",
+        "type": 301
+      },
+      {
+        "source": "/lawyer/dr-plazar-reka",
+        "destination": "/team/",
+        "type": 301
+      },
+      {
+        "source": "/lawyer/dr-slegl-ibolya/",
+        "destination": "/team/",
+        "type": 301
+      },
+      {
+        "source": "/lawyer/dr-slegl-ibolya",
+        "destination": "/team/",
+        "type": 301
+      },
+      {
+        "source": "/partner/dr-balassa-agnes/",
+        "destination": "/people/agnes-balassa/",
+        "type": 301
+      },
+      {
+        "source": "/partner/dr-balassa-agnes",
+        "destination": "/people/agnes-balassa/",
+        "type": 301
+      },
+      {
+        "source": "/partner/dr-bihary-tibor/",
+        "destination": "/people/tibor-bihary/",
+        "type": 301
+      },
+      {
+        "source": "/partner/dr-bihary-tibor",
+        "destination": "/people/tibor-bihary/",
+        "type": 301
+      },
+      {
+        "source": "/people/ibolya-slegl/",
+        "destination": "/team/",
+        "type": 301
+      },
+      {
+        "source": "/people/ibolya-slegl",
+        "destination": "/team/",
+        "type": 301
+      },
+      {
+        "source": "/people/reka-plazar/",
+        "destination": "/team/",
+        "type": 301
+      },
+      {
+        "source": "/people/reka-plazar",
+        "destination": "/team/",
+        "type": 301
+      },
+      {
+        "source": "/szakteruletek/",
+        "destination": "/expertise/",
+        "type": 301
+      },
+      {
+        "source": "/szakteruletek",
+        "destination": "/expertise/",
+        "type": 301
+      },
+      {
+        "source": "/szakteruletek/bank-es-finanszirozasi-jog/",
+        "destination": "/expertise/banking-finance/",
+        "type": 301
+      },
+      {
+        "source": "/szakteruletek/bank-es-finanszirozasi-jog",
+        "destination": "/expertise/banking-finance/",
+        "type": 301
+      },
+      {
+        "source": "/szakteruletek/ingatlanjog/",
+        "destination": "/expertise/real-estate/",
+        "type": 301
+      },
+      {
+        "source": "/szakteruletek/ingatlanjog",
+        "destination": "/expertise/real-estate/",
+        "type": 301
+      },
+      {
+        "source": "/szakteruletek/munkajog/",
+        "destination": "/expertise/employment/",
+        "type": 301
+      },
+      {
+        "source": "/szakteruletek/munkajog",
+        "destination": "/expertise/employment/",
+        "type": 301
+      },
+      {
+        "source": "/szakteruletek/peres-ugyek-valasztottbiraskodas/",
+        "destination": "/expertise/litigation-arbitration/",
+        "type": 301
+      },
+      {
+        "source": "/szakteruletek/peres-ugyek-valasztottbiraskodas",
+        "destination": "/expertise/litigation-arbitration/",
+        "type": 301
+      },
+      {
+        "source": "/szakteruletek/tarsasagi-jog-vallalatfelvasarlas/",
+        "destination": "/expertise/corporate-ma/",
+        "type": 301
+      },
+      {
+        "source": "/szakteruletek/tarsasagi-jog-vallalatfelvasarlas",
+        "destination": "/expertise/corporate-ma/",
+        "type": 301
+      },
+      {
+        "source": "/szakteruletek/versenyjog/",
+        "destination": "/expertise/competition/",
+        "type": 301
+      },
+      {
+        "source": "/szakteruletek/versenyjog",
+        "destination": "/expertise/competition/",
+        "type": 301
+      },
+      {
+        "source": "/team/szabo-laszlone/",
+        "destination": "/people/laszlone-szabo/",
+        "type": 301
+      },
+      {
+        "source": "/team/szabo-laszlone",
+        "destination": "/people/laszlone-szabo/",
+        "type": 301
+      }
+    ]
+  },
+  "emulators": {
+    "hosting": {
+      "host": "127.0.0.1",
+      "port": 5177
+    },
+    "ui": {
+      "enabled": false
+    }
+  }
+}
