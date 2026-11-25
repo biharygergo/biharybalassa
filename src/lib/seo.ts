@@ -7,9 +7,7 @@ export { serializeJsonLd } from './json-ld';
 import { shouldIndex } from './indexing';
 export const indexSite = shouldIndex({
   INDEX_SITE: import.meta.env.INDEX_SITE,
-  CF_PAGES: import.meta.env.CF_PAGES,
-  CF_PAGES_BRANCH: import.meta.env.CF_PAGES_BRANCH,
-  PRODUCTION_BRANCH: import.meta.env.PRODUCTION_BRANCH,
+  DEPLOY_ENV: import.meta.env.DEPLOY_ENV,
 });
 const firmId = absolute('/#firm');
 const firm = {

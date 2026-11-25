@@ -8,14 +8,13 @@ jobs:
     strategy:
       matrix:
         include:
-          - branch: main
+          - environment: production
             index: 'true'
-          - branch: preview
+          - environment: preview
             index: 'false'
     env:
       INDEX_SITE: 'true'
-      CF_PAGES: '1'
-      CF_PAGES_BRANCH: ${{ matrix.branch }}
+      DEPLOY_ENV: ${{ matrix.environment }}
       EXPECT_INDEX: ${{ matrix.index }}
     steps:
       - uses: actions/checkout@v4
@@ -25,3 +24,4 @@ jobs:
           cache: npm
       - run: npm ci
       - run: npm run verify
+      - run: npm run hosting:test

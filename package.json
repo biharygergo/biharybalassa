@@ -13,8 +13,12 @@
     "check": "astro check",
     "format": "prettier --write .",
     "format:check": "prettier --check .",
-    "test": "node --experimental-strip-types --test tests/*.test.mjs",
-    "verify": "npm run format:check && npm run check && npm run build && npm test"
+    "test": "node --experimental-strip-types --test tests/site.test.mjs",
+    "verify": "npm run format:check && npm run check && npm run build && npm test",
+    "hosting:serve": "firebase emulators:start --only hosting --project demo-biharybalassa",
+    "hosting:test": "firebase emulators:exec --only hosting --project demo-biharybalassa \"node --test tests/hosting.test.mjs\"",
+    "deploy": "DEPLOY_ENV=production npm run build && firebase deploy --only hosting",
+    "deploy:preview": "DEPLOY_ENV=preview INDEX_SITE=false npm run build && firebase hosting:channel:deploy review --expires 7d"
   },
   "dependencies": {
     "@astrojs/react": "7.1.9",
@@ -32,6 +36,7 @@
     "@astrojs/check": "^0.9.9",
     "@types/react": "^19.2.0",
     "@types/react-dom": "^19.2.0",
+    "firebase-tools": "15.37.0",
     "parse5": "^8.1.1",
     "prettier": "^3.10.1",
     "prettier-plugin-astro": "^1.1.2",
