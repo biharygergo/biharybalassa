@@ -58,15 +58,18 @@ Indexing is disabled by default. Both `DEPLOY_ENV=production` and `INDEX_SITE=tr
 
 ### GitHub deployment
 
-The Firebase workflow deploys successful `main` pushes to the live Hosting channel once the repository is connected. Manual workflow runs can deploy to the `review` channel instead.
+Firebase's generated GitHub integration uses two workflows:
 
-Configure these GitHub Actions settings:
+- `firebase-hosting-merge.yml`: every push to `main`, including PR merges, verifies the build and deploys it to the live Hosting channel.
+- `firebase-hosting-pull-request.yml`: same-repository pull requests get a temporary preview URL posted by Firebase's action. Forks are not given deployment credentials.
 
-- Repository variable `FIREBASE_PROJECT_ID`: `biharybalassa-99e15`.
-- Repository secret `FIREBASE_SERVICE_ACCOUNT`: the deployment service account JSON produced by Firebase's GitHub setup. Use `npx firebase init hosting:github` to authorize the integration, then retain this repository's workflows and secret name. Never commit credentials.
-- Repository variable `INDEX_SITE`: set to `true` only when the live site is ready for search indexing. Review builds always remain noindex, regardless of this variable.
+Both use the Node version in `.nvmrc`, run the content/SEO checks and Hosting emulator tests before deploying, and use the pinned Firebase CLI version. Failed checks prevent deployment. Preview builds always have indexing disabled.
 
-Until `FIREBASE_PROJECT_ID` is configured, deployment jobs are skipped; verification still runs. Add the custom domain and apex-to-www redirect using Firebase Hosting's domain setup when ready to switch DNS. Firebase manages HTTPS certificates.
+Firebase's setup has configured the repository secret `FIREBASE_SERVICE_ACCOUNT_BIHARYBALASSA_99E15`; both workflows reference it for project `biharybalassa-99e15`. Never commit its service-account JSON. If this credential is rotated, update that GitHub secret.
+
+Set the optional repository variable `INDEX_SITE=true` when the live custom domain is ready for search indexing. Live builds otherwise remain noindex. No project-ID repository variable is required.
+
+Add the custom domain and apex-to-www redirect using Firebase Hosting's domain setup when ready to switch DNS. Firebase manages HTTPS certificates.
 
 ### Redirects
 
